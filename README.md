@@ -33,6 +33,7 @@
 
 **Various interesting people**
 * [Hardik Patel](https://www.hardikp.com/)
+* [Danish trader tom](https://tradertom.dk/)
 
 # Mathematics, Statistics and Probability
 
