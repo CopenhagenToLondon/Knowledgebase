@@ -3,6 +3,12 @@
 ## Various useful and interesting websites
 * [Apple, the company, repositories](https://github.com/apple)
 * [General IT](https://software-carpentry.org/lessons/)
+* [libgen](http://libgen.rs/)
+* [Sci-hub](https://sci-hub.mksa.top/)
+* [Google scholar](https://scholar.google.com/)
+* [Researchgate](https://www.researchgate.net/)
+* [MIT open courseware](https://ocw.mit.edu/)
+* [Danish national bank archive](https://www.nationalbanken.dk/da/soeg-i-vidensarkivet)
 
 **API tools**
 * [Kubernetes](https://kind.sigs.k8s.io/)
@@ -25,7 +31,6 @@
 
 **Various interesting people**
 * [Hardik Patel](https://www.hardikp.com/)
-
 
 # Mathematics, Statistics and Probability
 
