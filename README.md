@@ -138,6 +138,7 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 * [Udemy Quant courses](https://www.udemy.com/topic/quantitative-finance/)
 * [WST courses](https://wallst.training/training/self-study-courses/)
 * [Worldquant university](https://www.wqu.edu/)
+* [Time series analysis and forecasting](https://www.forecaster.guru/time-series-analytics-and-forecasting.html)
 
 ### Websites
 Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
