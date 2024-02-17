@@ -36,18 +36,10 @@
 * Ito calculus [[link]](https://www.youtube.com/watch?v=Z5yRMMVUC5w)
 * Stochastic processes I [[link]](https://www.youtube.com/watch?v=TuTmC8aOQJE)
 * Stochastic processes II [[link]]()
-* Regression analysis [[]](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
+* Regression analysis [[link]](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
 * Advanced linear modelling [[link]]()
 
-
-
-
-
-
 ### books, notes and slides
-
-
-
 
 ## Coding and practical work
 
@@ -98,7 +90,6 @@ https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
 
 
 ### books
-
 
 
 
