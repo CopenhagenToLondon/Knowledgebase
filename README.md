@@ -125,12 +125,14 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [The python quant](https://home.tpq.io/pqp/)
 * [Black arbs blog](https://www.blackarbs.com/blog/)
 * [Deltaquants](http://www.deltaquants.com/)
-
+  
+**Subject specific**
 * [Portfolio management research](https://www.pm-research.com/)
 * [Hurst exponent](https://research.macrosynergy.com/detecting-trends-and-mean-reversion-with-the-hurst-exponent/)
   
 **Cox-Ingersoll-Ross Model**
 * [Investopedia](https://www.investopedia.com/terms/c/cox-ingersoll-ross-model.asp)
+
 **Hull-White Model**
 * [Investopedia](https://www.investopedia.com/terms/h/hullwhite-model.asp)
 
