@@ -299,6 +299,7 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 * How to write your LaTeX code [Overleaf guide to LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * LaTeX formula writer CodeCogs [CodeCogs](https://editor.codecogs.com/)
 * Share LaTeX documents with your colleagues or friends [Overleaf, share LaTeX documents](https://www.overleaf.com/home-2)
+* Introduction to Node.js [link](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
   
 ### Videos
 
@@ -314,13 +315,21 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 
 ## Coding and practical work
 
+* [Visual studio code](https://code.visualstudio.com/)
+
+
 ### Github repositories
 
 ### Python
+**Django**
+*[First django app](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
 
 ### R
 
 ### C++
+
+### SQL
+* [SQL](https://www.w3schools.com/sql/sql_join.asp)
 
 ### VBA & Excel
 For some odd reason, there isn't a lot of VBA code packed up neatly, like with Python, R or C++. So I'll be packaging some of my own solutions at some point.
