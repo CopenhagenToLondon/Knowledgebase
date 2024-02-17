@@ -208,11 +208,13 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Preqin](https://www.preqin.com/)
 * [CBOE data shop](https://datashop.cboe.com/)
 * [LSEG data](https://www.lseg.com/en/data-analytics/market-data/data-feeds)
+* [NASDAQ Stock screener](https://www.nasdaq.com/market-activity/stocks/screener)
 * [NASDAQ data](https://data.nasdaq.com/datafabric)
 * [Bloomberg](https://www.bloomberg.com/europe)
 * [Factset](https://www.factset.com/)
 * [Valueline](https://www.valueline.com/)
 * [morningstar](https://www.morningstar.com/)
+* [Finos Legend](https://legend.finos.org/)
 
 #### Swaps, Options and derivatives
 * [Swaps book research](https://github.com/nburgessx/SwapsBook/tree/main/.Research%20Papers/.Reference%20Papers)
@@ -254,6 +256,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Python for finance cookbook](https://www.amazon.com/Python-Finance-Cookbook-effective-financial/dp/1803243198/ref=mp_s_a_1_1?crid=24BEALJDFH3FF&keywords=python+for+finance+cookbook&qid=1675829540&sprefix=python+for+finan%2Caps%2C83&sr=8-1)
 * [Handbook of Fixed Income Securities](https://www.saxo.com/dk/handbook-of-fixed-income-securities_fabozzi-frank-j_epub_9780071768474)
 * [Low latency Interest rate markets: Theory, Pricing and Practice](https://www.amazon.co.uk/dp/9994985949)
+* [Numerical Methods for Stochastic Control problems in continuous time](https://link.springer.com/book/10.1007/978-1-4613-0007-6)
 
 
 ## Coding and practical work
@@ -268,6 +271,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Mean variance/markowitz framework](https://github.com/federico-m-lopez/pymarkowitz)
 * [Market neutral portfolio optimization](https://gist.github.com/FilippoGuerrieri26/8086c42db442835234dd61ea6c07decb)
 * [Option pricing](https://github.com/brooklynrob/Python_Option_Pricing/blob/master/GBS.ipynb)
+* [PyQuant News Option pricing guide](https://pyquantnews.gumroad.com/l/46-page-ultimate-guide-pricing-options-implied-volatility-python-pdf-code-pyquant-news)
 
 ### R
 * [Michael Clark R blog](https://m-clark.github.io/)
@@ -347,6 +351,7 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 
 ### books
 * [Understanding deep learning](https://udlbook.github.io/udlbook/)
+* [Deep learning book](https://www.deeplearningbook.org/)
 
 
 ## Coding and practical work
@@ -395,7 +400,8 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 ### Python
 * [Datahub???](https://github.com/brooklynrob/datahub)
 
-
+**Dashboards**
+* [Panels package](https://panel.holoviz.org/reference/templates/Bootstrap.html)
 
 
 **Django**
@@ -464,7 +470,8 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 
 
 
-
+# Don't know?
+* [Philosophy of mathematics?](https://www.physixfan.com/wp-content/files/GEBen.pdf)
 
 
 
