@@ -14,7 +14,6 @@
 
 [Mr. excel](https://www.mrexcel.com/board/)
 
-IT tools developed for Excel
-RegressIT                                                                         A regression add-in for linear regression and multivariate data analysis
-
+## IT tools developed for Excel
+[RegressIT](https://regressit.com/index.html)
 
