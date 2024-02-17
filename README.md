@@ -10,6 +10,14 @@
 * [MIT open courseware](https://ocw.mit.edu/)
 * [Danish national bank archive](https://www.nationalbanken.dk/da/soeg-i-vidensarkivet)
 
+**Stock market simulations**
+* [Danish stock market simulations](https://aktiedysten.dk/)
+* [Webull stock market simulations](https://www.webull.com/paper-trading)
+* [Stock charts](https://stockcharts.com/)
+* [Tradingview](https://www.tradingview.com/)
+* [Financial statements](https://site.financialmodelingprep.com/financial-statements/MAERSK-B.CO)
+* [Yahoo finance](https://finance.yahoo.com/quote/SHEL.L)
+
 **Economics**
 * [Economics explained channel](https://www.youtube.com/@EconomicsExplained)
 * [Econometrics](https://www.youtube.com/@SpartacanUsuals)
