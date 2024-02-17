@@ -11,17 +11,12 @@
 
 **AI tools**
 
-[ChatGPT](https://chat.openai.com/)
-
-[Phind](https://www.phind.com/search?home=true) use ChatGPT to search the web for free
-
-[Copilot-X](https://github.com/features/copilot)
-
-[Stablediffusionweb](https://stablediffusionweb.com/)
-
-[Midjourney](https://www.midjourney.com/home) Requires Discord
-
-[DALL-E](https://openai.com/dall-e-3) Requires ChatGPT plus subscription
+* [ChatGPT](https://chat.openai.com/)
+* [Phind](https://www.phind.com/search?home=true) use ChatGPT to search the web for free
+* [Copilot-X](https://github.com/features/copilot)
+* [Stablediffusionweb](https://stablediffusionweb.com/)
+* [Midjourney](https://www.midjourney.com/home) Requires Discord
+* [DALL-E](https://openai.com/dall-e-3) Requires ChatGPT plus subscription
 
 
 **Job search**
