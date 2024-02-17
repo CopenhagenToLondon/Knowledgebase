@@ -2,9 +2,11 @@
 
 ## Various useful and interesting websites
 [Apple, the company, repositories](https://github.com/apple)
+
 **API tools**
 * [Kubernetes](https://kind.sigs.k8s.io/)
 * [Docker](https://docs.docker.com/desktop/install/windows-install/)
+* 
 **AI tools**
 * [ChatGPT](https://chat.openai.com/)
 * [Phind](https://www.phind.com/search?home=true) use ChatGPT to search the web for free
@@ -12,6 +14,7 @@
 * [Stablediffusionweb](https://stablediffusionweb.com/)
 * [Midjourney](https://www.midjourney.com/home) Requires Discord
 * [DALL-E](https://openai.com/dall-e-3) Requires ChatGPT plus subscription
+* 
 **Job search**
 * [Answers to linkedin assessment quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 * [Action verbs for your CV](https://9gag.com/gag/a9151zj)
