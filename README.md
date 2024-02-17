@@ -4,7 +4,7 @@
 
 
 ## VBA & Excel
-
+For some odd reason, there isn't a lot of VBA code packed up neatly, like with Python, R or C++. So I'll be packaging some of my own solutions at some point.
 
 [VBA tutorial points](https://www.tutorialspoint.com/vba/index.htm) One of four webpages I frequent to solve VBA problems or find interesting code for projects.
 
