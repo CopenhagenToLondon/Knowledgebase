@@ -63,6 +63,15 @@ https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 ## Theory and subject matter
 
+### Courses
+* [Fitch learning](https://www.fitchlearning.com/)
+* [CQF](https://www.cqf.com/)
+* [Quantnet courses](https://quantnet.com/courses/)
+
+
+
+
+
 ### Websites
 Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
 
@@ -157,6 +166,8 @@ https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
 ## Theory and subject matter
 
 ### Websites
+* [Reddit](https://www.reddit.com/r/Insurance/)
+
 
 ### Videos
 
