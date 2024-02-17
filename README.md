@@ -10,6 +10,10 @@
 * [MIT open courseware](https://ocw.mit.edu/)
 * [Danish national bank archive](https://www.nationalbanken.dk/da/soeg-i-vidensarkivet)
 
+**Economics**
+* [Economics explained channel](https://www.youtube.com/@EconomicsExplained)
+* [Econometrics](https://www.youtube.com/@SpartacanUsuals)
+
 **API tools**
 * [Kubernetes](https://kind.sigs.k8s.io/)
 * [Docker](https://docs.docker.com/desktop/install/windows-install/)
@@ -40,6 +44,7 @@
 ## Theory and subject matter
 
 ### Websites and forums
+* [Bright side of mathematics website](https://thebrightsideofmathematics.com/)
 
 ### Videos and video channels
 * Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
@@ -49,6 +54,14 @@
 * Stochastic gradient descent [[link](https://www.youtube.com/watch?v=k3AiUhwHQ28)
 * Regression analysis [[link]](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
 * Advanced linear modelling [[link]]()
+* [Measure theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
+* [Bright side of mathematics](https://www.youtube.com/@brightsideofmaths)
+* [StatQuest channel](https://www.youtube.com/@statquest)
+* [Mathologer](https://www.youtube.com/@Mathologer)
+* [Numberphile](https://www.youtube.com/@numberphile)
+* [3blue1brown](https://www.youtube.com/@3blue1brown)
+* [Faculty of Khan](https://www.youtube.com/@FacultyofKhan)
+* [Patrick JMT](https://www.youtube.com/c/patrickjmt)
 
 ### books, notes and slides
 
@@ -65,6 +78,10 @@
 
 
 # Quantitative finance
+
+#### Reading lists
+* [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
+
 
 ## Theory and subject matter
 
@@ -111,7 +128,6 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Robot wealth](https://robotwealth.com/blog/)
 * [The python quant](https://home.tpq.io/pqp/)
 * [Black arbs blog](https://www.blackarbs.com/blog/)
-* [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 * [Deltaquants](http://www.deltaquants.com/)
 
 * [Portfolio management research](https://www.pm-research.com/)
@@ -141,7 +157,12 @@ https://www.youtube.com/watch?v=TnS8kI_KuJc - black-scholes formula and  risk-ne
 https://www.youtube.com/watch?v=PmUIMhMlRkQ - heston model
 https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with python 
 
-####
+#### General
+* [QuantPy channel](https://www.youtube.com/@QuantPy)
+* [Dimitri Bianco](https://www.youtube.com/@DimitriBianco)
+* [Yves Hilpisch](https://www.youtube.com/@dyjh/videos)
+* [G-research](https://www.youtube.com/@GResearchquantfinance)
+* [Code Trading](https://www.youtube.com/@CodeTradingCafe/videos)
 https://www.youtube.com/watch?v=55OXxe_ix2o - quant credit hedging
 https://www.youtube.com/watch?v=D2Jn1VrqjWI - HJM Model for interest rates and credit
 
@@ -193,6 +214,7 @@ https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
 
 
 ### Videos
+* [Jingyu She](https://www.youtube.com/@herrgrillparzer/videos)
 
 ### books
 
@@ -218,8 +240,17 @@ https://arxiv.org/abs/2303.01372 - high-dimensional analysis of double descent f
 
 
 ### Websites
+* Course by Jeremy Howard [Course.fast.ai](https://course.fast.ai/)
 
 ### Videos
+* [Simons institute Youtube channel](https://www.youtube.com/@SimonsInstituteTOC)
+* [Google DeepMind](https://www.youtube.com/@Google_DeepMind)
+* [Deep learning book club](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos)
+* [Preserve knowledge](https://www.youtube.com/@PreserveKnowledge/videos)
+* [Taro](https://www.youtube.com/@taro4544/streams)
+* [Machine learning at berkeley](https://www.youtube.com/@machinelearningatberkeley8868)
+* [Jeremy Howard](https://www.youtube.com/@howardjeremyp/videos)
+
 https://www.youtube.com/watch?v=tzuABpmgPFY - random matrices and machine learning 1
 https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learning 2
 
@@ -249,6 +280,11 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 * Share LaTeX documents with your colleagues or friends [Overleaf, share LaTeX documents](https://www.overleaf.com/home-2)
   
 ### Videos
+
+* [Computer architecture lecture series](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+* [Dr. Daniel Soper, AI, DBs, IT](https://www.youtube.com/@DanielSoper/videos)
+* [ASMR coding, yes ASMR](https://www.youtube.com/@ServetGulnaroglu)
+* [Data nash, because passion takes you beyond the mountains](https://www.youtube.com/@datanash8200)
 
 ### books
 
@@ -292,6 +328,12 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 ### Websites
 
 ### Videos
+* [Two minute physics](https://www.youtube.com/@TwoMinutePapers/videos)
+* [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder)
+* [Stanford institute for theoretical physics](https://www.youtube.com/@stanfordinstitutefortheore7605)
+* [Kurzgesagt](https://www.youtube.com/@kurzgesagt)
+* [SmarterEveryDay](https://www.youtube.com/@smartereveryday)
+* [Primer](https://www.youtube.com/@PrimerBlobs)
 
 ### books
 
@@ -320,12 +362,6 @@ https://www.youtube.com/watch?v=PmUIMhMlRkQ - heston model
 https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with python 
 https://www.youtube.com/watch?v=tzuABpmgPFY - random matrices and machine learning 1
 https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learning 2
-
-
-
-##Books, Articles and Slides
-
-
 
 
 
