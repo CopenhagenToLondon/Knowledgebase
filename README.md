@@ -34,8 +34,6 @@
 ### Websites and forums
 
 ### Videos and video channels
-
-
 * Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
 * Ito calculus [[link]](https://www.youtube.com/watch?v=Z5yRMMVUC5w)
 * Stochastic processes I [[link]](https://www.youtube.com/watch?v=TuTmC8aOQJE)
@@ -55,9 +53,7 @@
 
 ### C++
 
-https://m-clark.github.io/ - need to do a deep dive into his resources for R.
-https://xilinx.github.io/Vitis_Libraries/quantitative_finance/2020.1/index.html
-https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+
 
 # Quantitative finance
 
