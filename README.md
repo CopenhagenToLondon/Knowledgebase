@@ -1,6 +1,29 @@
 # Knowledgebase
 
 
+## Various useful and interesting websites
+[Apple, the company, repositories] (https://github.com/apple)
+
+**API tools**
+[Kubernetes](https://kind.sigs.k8s.io/)
+[Docker](https://docs.docker.com/desktop/install/windows-install/)
+
+**AI tools**
+ChatGPT
+Phind
+Copilot-X
+Stablediffusionweb
+Midjourney
+DALL-E
+
+
+**Job search**
+Answers to the linkedin assessment quizzes
+Action verbs for your CV
+Goldman Sachs tips
+CV examples from top universities
+Get someone to check your CV
+
 
 
 ## VBA & Excel
