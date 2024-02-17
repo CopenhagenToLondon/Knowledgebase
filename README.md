@@ -24,6 +24,7 @@
 
 
 **Job search**
+
 [Answers to linkedin assessment quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 
 [Action verbs for your CV](https://9gag.com/gag/a9151zj)
