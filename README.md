@@ -110,6 +110,7 @@ This book provides a detailed introduction to time series forecasting with Pytho
 
 Bayesian Forecasting and dynamics models by Harisson and west [link](https://link.springer.com/book/10.1007/b98971) "
 
+[Microprediction book](https://mitpress.mit.edu/9780262047326/microprediction/)
 
 ## Coding and practical work
 
@@ -118,6 +119,7 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 ### Python
 
 ### R
+* [Statistical forecast](https://people.duke.edu/~rnau/411home.htm)
 
 ### C++
 
@@ -127,6 +129,7 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 
 #### Reading lists
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
+* [Top 50 quant questions answered](https://www.cqf.com/blog/quant-finance-101?utm_source)
 
 ## Theory and subject matter
 
@@ -230,6 +233,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 #### Portfolio management
 * [portfolio management](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
+* [Stochastic portfolio theory](https://www.math.columbia.edu/~ik/FernKarSPT.pdf)
 
 #### simulations
 * [monte carlo simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU)
