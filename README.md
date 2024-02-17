@@ -161,6 +161,9 @@
 ## Theory and subject matter
 
 ### Websites
+* How to write your github readme.md [Github readme tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* How to write your LaTeX code [Overleaf guide to LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+* LaTeX formula writer CodeCogs [CodeCogs](https://editor.codecogs.com/)
 
 ### Videos
 
