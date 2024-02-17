@@ -192,8 +192,7 @@ https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
 ### Python
 
 ### R
-
-*[Michael Clark R blog](https://m-clark.github.io/)
+* [Michael Clark R blog](https://m-clark.github.io/)
 
 ### C++
 
@@ -349,19 +348,6 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 ### R
 
 ### C++
-
-
-https://www.youtube.com/watch?v=TnS8kI_KuJc - black-scholes formula and  risk-neutral valuation
-https://www.youtube.com/watch?v=TuTmC8aOQJE - stochastic processes I
-https://www.youtube.com/watch?v=l1kLCrxL9Hk - regression analysis
-https://www.youtube.com/watch?v=OgO1gpXSUzU - monte carlo simulation
-https://www.youtube.com/watch?v=92WaNz9mPeY - value at risk models
-https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
-https://www.youtube.com/watch?v=8TJQhQ2GZ0Y - portfolio management
-https://www.youtube.com/watch?v=PmUIMhMlRkQ - heston model
-https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with python 
-https://www.youtube.com/watch?v=tzuABpmgPFY - random matrices and machine learning 1
-https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learning 2
 
 
 
