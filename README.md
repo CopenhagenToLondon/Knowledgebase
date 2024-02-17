@@ -110,9 +110,27 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Robot wealth](https://robotwealth.com/blog/)
 * [The python quant](https://home.tpq.io/pqp/)
 * [Black arbs blog](https://www.blackarbs.com/blog/)
-* [Fama-French data sets](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
+* [Deltaquants](http://www.deltaquants.com/)
 
+* [Portfolio management research](https://www.pm-research.com/)
+
+#### Data providers
+* [US interest rates history]()
+* [UK interest rates history]()
+* [DK interest rates history]()
+* [Fama-French data sets](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+* [Yahoo finance]()
+* [Google finance]()
+* [Capital](https://capital.com/)
+* [Preqin](https://www.preqin.com/)
+* [CBOE data shop](https://datashop.cboe.com/)
+* [LSEG data](https://www.lseg.com/en/data-analytics/market-data/data-feeds)
+* [NASDAQ data](https://data.nasdaq.com/datafabric)
+* [Bloomberg](https://www.bloomberg.com/europe)
+* [Factset](https://www.factset.com/)
+* [Valueline](https://www.valueline.com/)
+* [morningstar](https://www.morningstar.com/)
 
 ### Videos
 
