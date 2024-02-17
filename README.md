@@ -45,6 +45,7 @@
 * [Get someone to check your CV](https://www.topresume.com/)
 
 **Various interesting people**
+* [Ran Aroussi](https://aroussi.com/) [Github](https://github.com/ranaroussi)
 * [Hardik Patel](https://www.hardikp.com/)
 * [Danish trader tom](https://tradertom.dk/)
 
@@ -55,6 +56,8 @@
 ### Websites and forums
 * [Bright side of mathematics website](https://thebrightsideofmathematics.com/)
 * [Probability course](https://github.com/oliversong/6.041/tree/master)
+* [Khan academy](https://www.khanacademy.org/profile/me/courses)
+
 
 ### Videos and video channels
 * Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
@@ -100,6 +103,9 @@
 * [CQF](https://www.cqf.com/)
 * [Quantnet courses](https://quantnet.com/courses/)
 * [CME group learning](https://www.cmegroup.com/education/courses.html)
+* [Udemy Quant courses](https://www.udemy.com/topic/quantitative-finance/)
+* [WST courses](https://wallst.training/training/self-study-courses/)
+* [Worldquant university](https://www.wqu.edu/)
 
 ### Websites
 Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
@@ -116,6 +122,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * Defunct [Defaultrisk](http://www.defaultrisk.com/)
 * Defunct [Quantpedia](http://www.maxi-pedia.com/indexpg)
 * [SITMO](https://www.sitmo.com/)
+* [Microprediction library](https://github.com/microprediction/home)
 
 #### Coding websites
 * [Awesome quant](https://github.com/wilsonfreitas/awesome-quant)
@@ -125,6 +132,8 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Aurelien Geron](https://github.com/ageron?tab=repositories)
 * [Mike Juniper hill blog](https://mikejuniperhill.blogspot.com/)
 * [xilinx quant methods](https://xilinx.github.io/Vitis_Libraries/quantitative_finance/2020.1/models_and_methods.html)
+* [Kaggle](https://www.kaggle.com/competitions)
+* [NAG numerical algorithms group](https://github.com/numericalalgorithmsgroup)
 
 #### General websites
 * [quant stack exchange](https://quant.stackexchange.com/)
@@ -206,6 +215,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 ### Github repositories
 
 ### Python
+* [Hudson Thames](https://hudsonthames.org/)
 
 ### R
 * [Michael Clark R blog](https://m-clark.github.io/)
@@ -327,6 +337,9 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 ### Python
 **Django**
 *[First django app](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
+
+**How to package a python package**
+* [Packaging](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
 ### R
 
