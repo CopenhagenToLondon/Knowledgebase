@@ -79,6 +79,7 @@
 * [Mathematics of finance playlist](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7lTg3D3k3TSj8ApXpT-b9kW)
 
 ### books, notes and slides
+
 **Thanks for the recommendationslist by Peter Cotton From Micropredictions**
 
 "There are many excellent books available on the topic of time series modeling. Some of the best include:
