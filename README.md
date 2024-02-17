@@ -24,11 +24,15 @@
 
 
 **Job search**
-Answers to the linkedin assessment quizzes
-Action verbs for your CV
-Goldman Sachs tips
-CV examples from top universities
-Get someone to check your CV
+[Answers to linkedin assessment quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
+
+[Action verbs for your CV](https://9gag.com/gag/a9151zj)
+
+[Goldman Sachs tips](https://www.goldmansachs.com/careers/blog/posts/resume-tips-from-goldman-sachs.html)
+
+[CV examples from top universities](https://graduateships.com/4-cv-templates-used-by-harvard-stanford-mckinsey-goldman-sachs/)
+
+[Get someone to check your CV](https://www.topresume.com/)
 
 
 
