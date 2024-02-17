@@ -3,7 +3,7 @@
 
 
 
-## VBA & Excel
+### VBA & Excel
 
 
 [VBA tutorial points](https://www.tutorialspoint.com/vba/index.htm)   
@@ -14,6 +14,6 @@
 
 [Mr. excel](https://www.mrexcel.com/board/)
 
-## IT tools developed for Excel
+### IT tools developed for Excel
 [RegressIT](https://regressit.com/index.html)
 
