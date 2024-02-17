@@ -79,8 +79,9 @@
 * [Mathematics of finance playlist](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7lTg3D3k3TSj8ApXpT-b9kW)
 
 ### books, notes and slides
-**Thanks to Peter Cotton From Micropredictions**
-There are many excellent books available on the topic of time series modeling. Some of the best include:
+**Thanks for the recommendationslist by Peter Cotton From Micropredictions**
+
+"There are many excellent books available on the topic of time series modeling. Some of the best include:
 
 "Forecasting: Principles and Practice" by Rob J Hyndman and George Athanasopoulos: This book provides a comprehensive introduction to time series modeling, including both theoretical and practical aspects. It covers a wide range of topics, including basic time series analysis, statistical forecasting methods, and advanced topics such as seasonal decomposition and exponential smoothing.
 
@@ -107,7 +108,7 @@ This book provides a comprehensive introduction to time series analysis and fore
 "Introduction to Time Series Forecasting with Python: How to Prepare Data and Develop Models to Predict the Future" by Jason Brownlee
 This book provides a detailed introduction to time series forecasting with Python. It covers the entire forecasting process, from data preparation to model evaluation. It also includes a range of practical examples and case studies.
 
-Bayesian Forecasting and dynamics models by Harisson and west [link](https://link.springer.com/book/10.1007/b98971) 
+Bayesian Forecasting and dynamics models by Harisson and west [link](https://link.springer.com/book/10.1007/b98971) "
 
 
 ## Coding and practical work
