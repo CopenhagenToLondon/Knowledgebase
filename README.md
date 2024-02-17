@@ -6,7 +6,7 @@
 **API tools**
 * [Kubernetes](https://kind.sigs.k8s.io/)
 * [Docker](https://docs.docker.com/desktop/install/windows-install/)
-* 
+  
 **AI tools**
 * [ChatGPT](https://chat.openai.com/)
 * [Phind](https://www.phind.com/search?home=true) use ChatGPT to search the web for free
@@ -14,13 +14,16 @@
 * [Stablediffusionweb](https://stablediffusionweb.com/)
 * [Midjourney](https://www.midjourney.com/home) Requires Discord
 * [DALL-E](https://openai.com/dall-e-3) Requires ChatGPT plus subscription
-* 
+  
 **Job search**
 * [Answers to linkedin assessment quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 * [Action verbs for your CV](https://9gag.com/gag/a9151zj)
 * [Goldman Sachs tips](https://www.goldmansachs.com/careers/blog/posts/resume-tips-from-goldman-sachs.html)
 * [CV examples from top universities](https://graduateships.com/4-cv-templates-used-by-harvard-stanford-mckinsey-goldman-sachs/)
 * [Get someone to check your CV](https://www.topresume.com/)
+
+**Various interesting people**
+* [Hardik Patel](https://www.hardikp.com/)
 
 
 # Mathematics, Statistics and Probability
@@ -61,6 +64,17 @@
 ## Theory and subject matter
 
 ### Websites
+- Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
+- Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor Igamberdiev](https://github.com/ivigamberdiev) for their work on [These quantitative finance notebooks](https://github.com/je-suis-tm/quant-trading)
+
+* [QuantStart](https://www.quantstart.com/articles/)
+* [Quantopian](https://community.quantopian.com/home)
+* [AAA Quants](https://aaaquants.com/category/blog/)
+* [Robot wealth](https://robotwealth.com/blog/)
+* [The python quant](https://home.tpq.io/pqp/)
+* [Black arbs blog](https://www.blackarbs.com/blog/)
+
+
 
 ### Videos
 
