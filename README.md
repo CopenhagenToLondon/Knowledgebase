@@ -271,6 +271,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Hudson Thames](https://hudsonthames.org/)
 * [Time series Momentum](https://gist.github.com/FilippoGuerrieri26/977feb12b34c5591337da46db5d217fa)
 * [Time Value of money repository](https://github.com/genedan/tmval/) documentation written here[link](https://genedan.com/tmval/docs/)
+* [Monte carlo mean reversion trading strategies](https://github.com/AIM-IT4/MonteCarlo-MeanReversionTrading/tree/main)
 * [Mean variance framework](https://gist.github.com/FilippoGuerrieri26/a5bd497480451b971bbba8a35713b3dc)
 * [Mean variance/markowitz framework](https://github.com/federico-m-lopez/pymarkowitz)
 * [Market neutral portfolio optimization](https://gist.github.com/FilippoGuerrieri26/8086c42db442835234dd61ea6c07decb)
