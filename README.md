@@ -1,7 +1,8 @@
 # Knowledgebase
 
 ## Various useful and interesting websites
-[Apple, the company, repositories](https://github.com/apple)
+* [Apple, the company, repositories](https://github.com/apple)
+* [General IT](https://software-carpentry.org/lessons/)
 
 **API tools**
 * [Kubernetes](https://kind.sigs.k8s.io/)
@@ -54,10 +55,10 @@
 
 ### C++
 
-
-
-
-
+https://m-clark.github.io/ - need to do a deep dive into his resources for R.
+https://xilinx.github.io/Vitis_Libraries/quantitative_finance/2020.1/index.html
+Awesome quant page with lots of information - similar library of useful knowledge on github.
+https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 # Quantitative finance
 
@@ -67,6 +68,27 @@
 - Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
 - Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor Igamberdiev](https://github.com/ivigamberdiev) for their work on [These quantitative finance notebooks](https://github.com/je-suis-tm/quant-trading)
 
+#### Important websites
+* [Wilmotts forum](https://wilmott.com/)
+* [Microprediction](https://microprediction.medium.com/)
+* [Microprediction code](https://github.com/microprediction)
+* [Quantnet](https://quantnet.com/)
+* Requires membership [ML-quant](https://www.ml-quant.com/public)
+* Requires membership [Datasim forum](https://datasimfinancial.com/forum)
+* Defunct [Defaultrisk](http://www.defaultrisk.com/)
+* Defunct [Quantpedia](http://www.maxi-pedia.com/indexpg)
+* [SITMO](https://www.sitmo.com/)
+
+#### Coding websites
+* [Quantdare](https://quantdare.com/)
+* 
+
+
+#### General websites
+* Stack exchange for QF [Link](https://quant.stackexchange.com/)
+
+
+* [QuantConnect](https://www.quantconnect.com/forum/discussions/1/newest)
 * [QuantStart](https://www.quantstart.com/articles/)
 * [Quantopian](https://community.quantopian.com/home)
 * [AAA Quants](https://aaaquants.com/category/blog/)
