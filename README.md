@@ -18,18 +18,13 @@
 * [Midjourney](https://www.midjourney.com/home) Requires Discord
 * [DALL-E](https://openai.com/dall-e-3) Requires ChatGPT plus subscription
 
-
 **Job search**
 
-[Answers to linkedin assessment quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
-
-[Action verbs for your CV](https://9gag.com/gag/a9151zj)
-
-[Goldman Sachs tips](https://www.goldmansachs.com/careers/blog/posts/resume-tips-from-goldman-sachs.html)
-
-[CV examples from top universities](https://graduateships.com/4-cv-templates-used-by-harvard-stanford-mckinsey-goldman-sachs/)
-
-[Get someone to check your CV](https://www.topresume.com/)
+* [Answers to linkedin assessment quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
+* [Action verbs for your CV](https://9gag.com/gag/a9151zj)
+* [Goldman Sachs tips](https://www.goldmansachs.com/careers/blog/posts/resume-tips-from-goldman-sachs.html)
+* [CV examples from top universities](https://graduateships.com/4-cv-templates-used-by-harvard-stanford-mckinsey-goldman-sachs/)
+* [Get someone to check your CV](https://www.topresume.com/)
 
 
 
