@@ -27,8 +27,8 @@
 * [Get someone to check your CV](https://www.topresume.com/)
 
 ## Youtube videos and channels
-* Option pricing Youtube Video [[link]](https://youtu.be/eG_aRPy1KVE?si=LYZwbHKxQskfN9IM&t=1)
-* Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
+
+
 * Quant credit hedging [[link]](https://www.youtube.com/watch?v=55OXxe_ix2o)
 * HJM Model for interest rates and credit [[link]](https://www.youtube.com/watch?v=D2Jn1VrqjWI)
 * Ito calculus [[link]](https://www.youtube.com/watch?v=Z5yRMMVUC5w)
@@ -57,22 +57,14 @@
 
 ### Videos and video channels
 
-https://www.youtube.com/watch?v=eG_aRPy1KVE&t=2032s - option pricing youtube video
-https://www.youtube.com/watch?v=qdbkvD4N-us - stochastic differential equations
-https://www.youtube.com/watch?v=55OXxe_ix2o - quant credit hedging
-https://www.youtube.com/watch?v=D2Jn1VrqjWI - HJM Model for interest rates and credit
+
+* Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
 https://www.youtube.com/watch?v=Z5yRMMVUC5w - ito calculus
-https://www.youtube.com/watch?v=TnS8kI_KuJc - black-scholes formula and  risk-neutral valuation
+
 https://www.youtube.com/watch?v=TuTmC8aOQJE - stochastic processes I
 https://www.youtube.com/watch?v=l1kLCrxL9Hk - regression analysis
-https://www.youtube.com/watch?v=OgO1gpXSUzU - monte carlo simulation
-https://www.youtube.com/watch?v=92WaNz9mPeY - value at risk models
-https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
-https://www.youtube.com/watch?v=8TJQhQ2GZ0Y - portfolio management
-https://www.youtube.com/watch?v=PmUIMhMlRkQ - heston model
-https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with python 
-https://www.youtube.com/watch?v=tzuABpmgPFY - random matrices and machine learning 1
-https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learning 2
+
+
 
 
 
@@ -103,6 +95,31 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 ### Websites
 
 ### Videos
+
+#### Options pricing
+* Option pricing Youtube Video [[link]](https://youtu.be/eG_aRPy1KVE?si=LYZwbHKxQskfN9IM&t=1)
+https://www.youtube.com/watch?v=TnS8kI_KuJc - black-scholes formula and  risk-neutral valuation
+https://www.youtube.com/watch?v=PmUIMhMlRkQ - heston model
+https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with python 
+
+####
+https://www.youtube.com/watch?v=55OXxe_ix2o - quant credit hedging
+https://www.youtube.com/watch?v=D2Jn1VrqjWI - HJM Model for interest rates and credit
+
+
+#### Risk analysis
+https://www.youtube.com/watch?v=92WaNz9mPeY - value at risk models
+
+#### Portfolio management
+https://www.youtube.com/watch?v=8TJQhQ2GZ0Y - portfolio management
+
+#### simulations
+https://www.youtube.com/watch?v=OgO1gpXSUzU - monte carlo simulation
+
+#### Time series analysis
+https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
+
+
 
 ### books
 
@@ -161,9 +178,11 @@ https://arxiv.org/abs/2303.01372 - high-dimensional analysis of double descent f
 ### Websites
 
 ### Videos
+https://www.youtube.com/watch?v=tzuABpmgPFY - random matrices and machine learning 1
+https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learning 2
 
 ### books
-* [Deep learning book](https://udlbook.github.io/udlbook/)
+* [Understanding deep learning](https://udlbook.github.io/udlbook/)
 
 
 ## Coding and practical work
