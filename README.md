@@ -62,6 +62,7 @@
 * [3blue1brown](https://www.youtube.com/@3blue1brown)
 * [Faculty of Khan](https://www.youtube.com/@FacultyofKhan)
 * [Patrick JMT](https://www.youtube.com/c/patrickjmt)
+* [Mathematics of finance playlist](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7lTg3D3k3TSj8ApXpT-b9kW)
 
 ### books, notes and slides
 
@@ -126,6 +127,12 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Deltaquants](http://www.deltaquants.com/)
 
 * [Portfolio management research](https://www.pm-research.com/)
+* [Hurst exponent](https://research.macrosynergy.com/detecting-trends-and-mean-reversion-with-the-hurst-exponent/)
+  
+**Cox-Ingersoll-Ross Model**
+* [Investopedia](https://www.investopedia.com/terms/c/cox-ingersoll-ross-model.asp)
+**Hull-White Model**
+* [Investopedia](https://www.investopedia.com/terms/h/hullwhite-model.asp)
 
 #### Data providers
 * [US interest rates history]()
