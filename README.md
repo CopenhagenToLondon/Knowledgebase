@@ -26,23 +26,6 @@
 * [CV examples from top universities](https://graduateships.com/4-cv-templates-used-by-harvard-stanford-mckinsey-goldman-sachs/)
 * [Get someone to check your CV](https://www.topresume.com/)
 
-
-
-## VBA & Excel
-For some odd reason, there isn't a lot of VBA code packed up neatly, like with Python, R or C++. So I'll be packaging some of my own solutions at some point.
-
-[VBA tutorial points](https://www.tutorialspoint.com/vba/index.htm) One of four webpages I frequent to solve VBA problems or find interesting code for projects.
-
-[Excel-easy](https://www.excel-easy.com/vba.html) This one was shared with me, through the group of student tutors I'm part of at DJØF.
-
-[Excel champs](https://excelchamps.com/vba/) I use this one for medium level stuff, but it can be a bit difficult to find things here.
-
-[Mr. excel](https://www.mrexcel.com/board/) This one is a forum and it has quite a lot of extra stuff, I usually use it for more difficult stuff.
-
-### IT tools developed for Excel
-[RegressIT](https://regressit.com/index.html)  A regression add-in for linear regression and multivariate data analysis
-
-
 ## Youtube videos and channels
 * Option pricing Youtube Video [[link]](https://youtu.be/eG_aRPy1KVE?si=LYZwbHKxQskfN9IM&t=1)
 * Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
@@ -195,6 +178,16 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 ### R
 
 ### C++
+
+### VBA & Excel
+For some odd reason, there isn't a lot of VBA code packed up neatly, like with Python, R or C++. So I'll be packaging some of my own solutions at some point.
+* [VBA tutorial points](https://www.tutorialspoint.com/vba/index.htm) One of four webpages I frequent to solve VBA problems or find interesting code for projects.
+* [Excel-easy](https://www.excel-easy.com/vba.html) This one was shared with me, through the group of student tutors I'm part of at DJØF.
+* [Excel champs](https://excelchamps.com/vba/) I use this one for medium level stuff, but it can be a bit difficult to find things here.
+* [Mr. excel](https://www.mrexcel.com/board/) This one is a forum and it has quite a lot of extra stuff, I usually use it for more difficult stuff.
+
+#### IT tools developed for Excel
+[RegressIT](https://regressit.com/index.html)  A regression add-in for linear regression and multivariate data analysis
 
 
 
