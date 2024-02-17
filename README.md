@@ -33,10 +33,12 @@
 
 
 * Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
-https://www.youtube.com/watch?v=Z5yRMMVUC5w - ito calculus
+* Ito calculus [[link]](https://www.youtube.com/watch?v=Z5yRMMVUC5w)
+* Stochastic processes I [[link]](https://www.youtube.com/watch?v=TuTmC8aOQJE)
+* Stochastic processes II [[link]]()
+* Regression analysis [[]](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
+* Advanced linear modelling [[link]]()
 
-https://www.youtube.com/watch?v=TuTmC8aOQJE - stochastic processes I
-https://www.youtube.com/watch?v=l1kLCrxL9Hk - regression analysis
 
 
 
