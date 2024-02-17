@@ -193,6 +193,12 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 #### IT tools developed for Excel
 [RegressIT](https://regressit.com/index.html)  A regression add-in for linear regression and multivariate data analysis
 
+### Other helpful IT tools
+* Online mindmapping program [Bubbl.us](https://bubbl.us/continue-editing)
+* Online flowchart program [Draw.io](https://app.diagrams.net/)
+* Google's online python platform [Google colab](https://colab.research.google.com/)
+* Jupyter's online Python platform - doesn't work atm. [jupyter notebooks online] ()
+
 
 
 
