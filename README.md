@@ -114,6 +114,8 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 
 [Microprediction book](https://mitpress.mit.edu/9780262047326/microprediction/)
 
+[Stanford Convex Optimization course and book](https://web.stanford.edu/~boyd/cvxbook/)
+
 ## Coding and practical work
 
 ### Github repositories
