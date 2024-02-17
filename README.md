@@ -132,6 +132,8 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 #### Reading lists
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 * [Top 50 quant questions answered](https://www.cqf.com/blog/quant-finance-101?utm_source)
+* [Gene Dan's reading list](https://genedan.com/readings/)
+* [Micropredictions reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md)
 
 ## Theory and subject matter
 
@@ -212,6 +214,9 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Valueline](https://www.valueline.com/)
 * [morningstar](https://www.morningstar.com/)
 
+#### Swaps, Options and derivatives
+* [Swaps book research](https://github.com/nburgessx/SwapsBook/tree/main/.Research%20Papers/.Reference%20Papers)
+
 ### Videos
 
 #### Options pricing
@@ -247,6 +252,8 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 ### books
 * [Python for finance cookbook](https://www.amazon.com/Python-Finance-Cookbook-effective-financial/dp/1803243198/ref=mp_s_a_1_1?crid=24BEALJDFH3FF&keywords=python+for+finance+cookbook&qid=1675829540&sprefix=python+for+finan%2Caps%2C83&sr=8-1)
+* [Handbook of Fixed Income Securities](https://www.saxo.com/dk/handbook-of-fixed-income-securities_fabozzi-frank-j_epub_9780071768474)
+* [Low latency Interest rate markets: Theory, Pricing and Practice](https://www.amazon.co.uk/dp/9994985949)
 
 
 ## Coding and practical work
@@ -255,7 +262,12 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 ### Python
 * [Hudson Thames](https://hudsonthames.org/)
+* [Time series Momentum](https://gist.github.com/FilippoGuerrieri26/977feb12b34c5591337da46db5d217fa)
 * [Time Value of money repository](https://github.com/genedan/tmval/) documentation written here[link](https://genedan.com/tmval/docs/)
+* [Mean variance framework](https://gist.github.com/FilippoGuerrieri26/a5bd497480451b971bbba8a35713b3dc)
+* [Mean variance/markowitz framework](https://github.com/federico-m-lopez/pymarkowitz)
+* [Market neutral portfolio optimization](https://gist.github.com/FilippoGuerrieri26/8086c42db442835234dd61ea6c07decb)
+* [Option pricing](https://github.com/brooklynrob/Python_Option_Pricing/blob/master/GBS.ipynb)
 
 ### R
 * [Michael Clark R blog](https://m-clark.github.io/)
@@ -381,6 +393,11 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 ### Github repositories
 
 ### Python
+* [Datahub???](https://github.com/brooklynrob/datahub)
+
+
+
+
 **Django**
 *[First django app](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
 
