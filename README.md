@@ -61,6 +61,11 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 * Random Matrices and machine learning 1
 * Random matrices and machine learning 2
 
+
+
+
+
+
 # Mathematics, Statistics and Probability
 
 ## Theory and subject matter
@@ -120,9 +125,103 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 
 
 
-### Insurance
+# Insurance
 
-### AI/Machine learning
+## Theory and subject matter
+
+### Websites
+
+### Videos
+
+### books
+
+
+
+
+## Coding and practical work
+
+### Github repositories
+
+### Python
+
+### R
+
+### C++
+
+
+# AI/Machine learning
+
+## Theory and subject matter
+
+### Websites
+
+### Videos
+
+### books
+
+
+
+
+## Coding and practical work
+
+### Github repositories
+
+### Python
+
+### R
+
+### C++
+
+
+# General programming
+
+## Theory and subject matter
+
+### Websites
+
+### Videos
+
+### books
+
+
+
+
+## Coding and practical work
+
+### Github repositories
+
+### Python
+
+### R
+
+### C++
+
+
+
+
+
+# physics
+
+## Theory and subject matter
+
+### Websites
+
+### Videos
+
+### books
+
+
+
+
+## Coding and practical work
+
+### Github repositories
+
+### Python
+
+### R
+
+### C++
 
 
 https://www.youtube.com/watch?v=TnS8kI_KuJc - black-scholes formula and  risk-neutral valuation
