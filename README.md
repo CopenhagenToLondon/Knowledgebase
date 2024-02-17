@@ -99,6 +99,7 @@
 * [Fitch learning](https://www.fitchlearning.com/)
 * [CQF](https://www.cqf.com/)
 * [Quantnet courses](https://quantnet.com/courses/)
+* [CME group learning](https://www.cmegroup.com/education/courses.html)
 
 ### Websites
 Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
@@ -135,6 +136,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [The python quant](https://home.tpq.io/pqp/)
 * [Black arbs blog](https://www.blackarbs.com/blog/)
 * [Deltaquants](http://www.deltaquants.com/)
+* [Past newsletters from PyQuant news](https://pyquantnews.com/the-pyquant-newsletter/past-issues/)
   
 **Subject specific**
 * [Portfolio management research](https://www.pm-research.com/)
@@ -262,6 +264,7 @@ https://arxiv.org/abs/2303.01372 - high-dimensional analysis of double descent f
 
 ### Websites
 * Course by Jeremy Howard [Course.fast.ai](https://course.fast.ai/)
+* [Alan Turing insitute](https://www.turing.ac.uk/)
 
 ### Videos
 * [Simons institute Youtube channel](https://www.youtube.com/@SimonsInstituteTOC)
