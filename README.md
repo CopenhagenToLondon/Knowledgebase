@@ -318,7 +318,7 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 
 
 ## Coding and practical work
-
+* [Finos?](https://github.com/finos/perspective)
 * [Visual studio code](https://code.visualstudio.com/)
 
 
