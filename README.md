@@ -53,11 +53,30 @@
 
 ## Theory and subject matter
 
-### Websites
+### Websites and forums
 
-### Videos
+### Videos and video channels
 
-### books
+https://www.youtube.com/watch?v=eG_aRPy1KVE&t=2032s - option pricing youtube video
+https://www.youtube.com/watch?v=qdbkvD4N-us - stochastic differential equations
+https://www.youtube.com/watch?v=55OXxe_ix2o - quant credit hedging
+https://www.youtube.com/watch?v=D2Jn1VrqjWI - HJM Model for interest rates and credit
+https://www.youtube.com/watch?v=Z5yRMMVUC5w - ito calculus
+https://www.youtube.com/watch?v=TnS8kI_KuJc - black-scholes formula and  risk-neutral valuation
+https://www.youtube.com/watch?v=TuTmC8aOQJE - stochastic processes I
+https://www.youtube.com/watch?v=l1kLCrxL9Hk - regression analysis
+https://www.youtube.com/watch?v=OgO1gpXSUzU - monte carlo simulation
+https://www.youtube.com/watch?v=92WaNz9mPeY - value at risk models
+https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
+https://www.youtube.com/watch?v=8TJQhQ2GZ0Y - portfolio management
+https://www.youtube.com/watch?v=PmUIMhMlRkQ - heston model
+https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with python 
+https://www.youtube.com/watch?v=tzuABpmgPFY - random matrices and machine learning 1
+https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learning 2
+
+
+
+### books, notes and slides
 
 
 
@@ -136,13 +155,15 @@
 
 ## Theory and subject matter
 
+https://arxiv.org/abs/2303.01372 - high-dimensional analysis of double descent for linear regression with random projections
+
+
 ### Websites
 
 ### Videos
 
 ### books
-
-
+* [Deep learning book](https://udlbook.github.io/udlbook/)
 
 
 ## Coding and practical work
