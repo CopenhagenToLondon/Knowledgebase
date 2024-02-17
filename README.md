@@ -303,6 +303,7 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 * LaTeX formula writer CodeCogs [CodeCogs](https://editor.codecogs.com/)
 * Share LaTeX documents with your colleagues or friends [Overleaf, share LaTeX documents](https://www.overleaf.com/home-2)
 * Introduction to Node.js [link](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+* Learning about use of AWS cloud[AWS Learning](https://aws.amazon.com/training/awsacademy/?nc2=h_ql_le_tc_ac)
   
 ### Videos
 
