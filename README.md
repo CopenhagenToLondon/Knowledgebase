@@ -23,6 +23,8 @@
 * [DALL-E](https://openai.com/dall-e-3) Requires ChatGPT plus subscription
   
 **Job search**
+* [Quant finance career paths](https://finmath.uchicago.edu/careers/career-paths-in-quantitative-finance/)
+* [Top proprietary trading firms](https://analyzingalpha.com/top-proprietary-trading-firms)
 * [Answers to linkedin assessment quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 * [Action verbs for your CV](https://9gag.com/gag/a9151zj)
 * [Goldman Sachs tips](https://www.goldmansachs.com/careers/blog/posts/resume-tips-from-goldman-sachs.html)
