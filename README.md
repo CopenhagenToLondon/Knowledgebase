@@ -2,16 +2,17 @@
 
 
 ## Various useful and interesting websites
-[Apple, the company, repositories] (https://github.com/apple)
+[Apple, the company, repositories](https://github.com/apple)
 
 **API tools**
 [Kubernetes](https://kind.sigs.k8s.io/)
+
 [Docker](https://docs.docker.com/desktop/install/windows-install/)
 
 **AI tools**
-ChatGPT
-Phind
-Copilot-X
+[ChatGPT](https://chat.openai.com/)
+[Phind](https://www.phind.com/search?home=true) use ChatGPT to search the web for free
+[Copilot-X](https://github.com/features/copilot)
 Stablediffusionweb
 Midjourney
 DALL-E
