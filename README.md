@@ -65,8 +65,8 @@ https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 ## Theory and subject matter
 
 ### Websites
-- Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
-- Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor Igamberdiev](https://github.com/ivigamberdiev) for their work on [These quantitative finance notebooks](https://github.com/je-suis-tm/quant-trading)
+Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
+Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor Igamberdiev](https://github.com/ivigamberdiev) for their work on [These quantitative finance notebooks](https://github.com/je-suis-tm/quant-trading)
 
 #### Important websites
 * [Wilmotts forum](https://wilmott.com/)
