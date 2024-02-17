@@ -82,17 +82,12 @@
 #### Reading lists
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 
-
 ## Theory and subject matter
 
 ### Courses
 * [Fitch learning](https://www.fitchlearning.com/)
 * [CQF](https://www.cqf.com/)
 * [Quantnet courses](https://quantnet.com/courses/)
-
-
-
-
 
 ### Websites
 Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
@@ -153,9 +148,9 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 #### Options pricing
 * Option pricing Youtube Video [[link]](https://youtu.be/eG_aRPy1KVE?si=LYZwbHKxQskfN9IM&t=1)
-https://www.youtube.com/watch?v=TnS8kI_KuJc - black-scholes formula and  risk-neutral valuation
-https://www.youtube.com/watch?v=PmUIMhMlRkQ - heston model
-https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with python 
+* [black-scholes formula and risk-neutral valuation](https://www.youtube.com/watch?v=TnS8kI_KuJc)
+* [Heston model video](https://www.youtube.com/watch?v=PmUIMhMlRkQ)
+* [Simulating heston model with python](https://www.youtube.com/watch?v=o8C6DxZh8dw)
 
 #### General
 * [QuantPy channel](https://www.youtube.com/@QuantPy)
@@ -163,21 +158,20 @@ https://www.youtube.com/watch?v=o8C6DxZh8dw - simulating Heston model with pytho
 * [Yves Hilpisch](https://www.youtube.com/@dyjh/videos)
 * [G-research](https://www.youtube.com/@GResearchquantfinance)
 * [Code Trading](https://www.youtube.com/@CodeTradingCafe/videos)
-https://www.youtube.com/watch?v=55OXxe_ix2o - quant credit hedging
-https://www.youtube.com/watch?v=D2Jn1VrqjWI - HJM Model for interest rates and credit
-
+* [Quant credit hedging](https://www.youtube.com/watch?v=55OXxe_ix2o)
+* [HJM Model for interest rates and credit](https://www.youtube.com/watch?v=D2Jn1VrqjWI)
 
 #### Risk analysis
-https://www.youtube.com/watch?v=92WaNz9mPeY - value at risk models
+* [value at risk models](https://www.youtube.com/watch?v=92WaNz9mPeY)
 
 #### Portfolio management
-https://www.youtube.com/watch?v=8TJQhQ2GZ0Y - portfolio management
+* [portfolio management](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
 
 #### simulations
-https://www.youtube.com/watch?v=OgO1gpXSUzU - monte carlo simulation
+* [monte carlo simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU)
 
 #### Time series analysis
-https://www.youtube.com/watch?v=uBeM1FUk4Ps - time series analysis I
+* [time series analysis I](https://www.youtube.com/watch?v=uBeM1FUk4Ps)
 
 
 
