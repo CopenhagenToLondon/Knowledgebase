@@ -197,7 +197,7 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 * Online mindmapping program [Bubbl.us](https://bubbl.us/continue-editing)
 * Online flowchart program [Draw.io](https://app.diagrams.net/)
 * Google's online python platform [Google colab](https://colab.research.google.com/)
-* Jupyter's online Python platform - doesn't work atm. [jupyter notebooks online] ()
+* Jupyter's online Python platform [jupyter notebooks online] (https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb)
 
 
 
