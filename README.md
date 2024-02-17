@@ -61,7 +61,64 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 * Random Matrices and machine learning 1
 * Random matrices and machine learning 2
 
-### Quantitative finance
+# Mathematics, Statistics and Probability
+
+## Theory and subject matter
+
+### Websites
+
+### Videos
+
+### books
+
+
+
+
+## Coding and practical work
+
+### Github repositories
+
+### Python
+
+### R
+
+### C++
+
+
+
+
+
+
+# Quantitative finance
+
+## Theory and subject matter
+
+### Websites
+
+### Videos
+
+### books
+
+
+
+
+## Coding and practical work
+
+### Github repositories
+
+### Python
+
+### R
+
+### C++
+
+
+
+
+
+
+
+
 
 ### Insurance
 
