@@ -45,7 +45,8 @@
 * [Get someone to check your CV](https://www.topresume.com/)
 
 **Various interesting people**
-* [Ran Aroussi](https://aroussi.com/) [Github](https://github.com/ranaroussi)
+* [Cliff's perspectives](https://www.aqr.com/Insights/Perspectives)
+* [Ran Aroussi](https://aroussi.com/) with his [Github](https://github.com/ranaroussi)
 * [Hardik Patel](https://www.hardikp.com/)
 * [Danish trader tom](https://tradertom.dk/)
 
@@ -236,7 +237,12 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 ### Websites
 * [Reddit](https://www.reddit.com/r/Insurance/)
-
+* [international actuarial association](https://www.actuaries.org/iaa)
+* [Institue and Faculty of Actuaries](https://actuaries.org.uk/)
+* [Causalty Actuarial Society](https://www.casact.org/)
+* [American Academy of actuaries](https://www.actuary.org/homepage)
+* [Society of Actuaries](https://www.soa.org/)
+* [American society of Pension Professionals and Actuaries](https://www.asppa.org/)
 
 ### Videos
 * [Jingyu She](https://www.youtube.com/@herrgrillparzer/videos)
