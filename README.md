@@ -13,6 +13,7 @@
 **Economics**
 * [Economics explained channel](https://www.youtube.com/@EconomicsExplained)
 * [Econometrics](https://www.youtube.com/@SpartacanUsuals)
+* [IMF eLibrary](https://www.elibrary.imf.org/)
 
 **API tools**
 * [Kubernetes](https://kind.sigs.k8s.io/)
@@ -45,6 +46,7 @@
 
 ### Websites and forums
 * [Bright side of mathematics website](https://thebrightsideofmathematics.com/)
+* [Probability course](https://github.com/oliversong/6.041/tree/master)
 
 ### Videos and video channels
 * Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
@@ -162,6 +164,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Simulating heston model with python](https://www.youtube.com/watch?v=o8C6DxZh8dw)
 
 #### General
+* [Two Sigma](https://www.youtube.com/@twosigma4874)
 * [QuantPy channel](https://www.youtube.com/@QuantPy)
 * [Dimitri Bianco](https://www.youtube.com/@DimitriBianco)
 * [Yves Hilpisch](https://www.youtube.com/@dyjh/videos)
