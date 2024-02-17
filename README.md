@@ -236,6 +236,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Code Trading](https://www.youtube.com/@CodeTradingCafe/videos)
 * [Quant credit hedging](https://www.youtube.com/watch?v=55OXxe_ix2o)
 * [HJM Model for interest rates and credit](https://www.youtube.com/watch?v=D2Jn1VrqjWI)
+* [Fixed income videos](https://www.youtube.com/@infermath8131/videos)
 
 #### Risk analysis
 * [value at risk models](https://www.youtube.com/watch?v=92WaNz9mPeY)
@@ -256,12 +257,15 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Python for finance cookbook](https://www.amazon.com/Python-Finance-Cookbook-effective-financial/dp/1803243198/ref=mp_s_a_1_1?crid=24BEALJDFH3FF&keywords=python+for+finance+cookbook&qid=1675829540&sprefix=python+for+finan%2Caps%2C83&sr=8-1)
 * [Handbook of Fixed Income Securities](https://www.saxo.com/dk/handbook-of-fixed-income-securities_fabozzi-frank-j_epub_9780071768474)
 * [Low latency Interest rate markets: Theory, Pricing and Practice](https://www.amazon.co.uk/dp/9994985949)
+* [Swapsbook: the hidden gold](https://github.com/nburgessx/SwapsBook)
 * [Numerical Methods for Stochastic Control problems in continuous time](https://link.springer.com/book/10.1007/978-1-4613-0007-6)
+
 
 
 ## Coding and practical work
 
 ### Github repositories
+* [Various coding](https://github.com/teobeeguan/Python-For-Finance/tree/32f618f052ac76a6cecef2d324b0f141b8f5419b)
 
 ### Python
 * [Hudson Thames](https://hudsonthames.org/)
@@ -272,6 +276,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Market neutral portfolio optimization](https://gist.github.com/FilippoGuerrieri26/8086c42db442835234dd61ea6c07decb)
 * [Option pricing](https://github.com/brooklynrob/Python_Option_Pricing/blob/master/GBS.ipynb)
 * [PyQuant News Option pricing guide](https://pyquantnews.gumroad.com/l/46-page-ultimate-guide-pricing-options-implied-volatility-python-pdf-code-pyquant-news)
+
 
 ### R
 * [Michael Clark R blog](https://m-clark.github.io/)
