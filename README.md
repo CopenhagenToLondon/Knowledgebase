@@ -48,7 +48,8 @@
 * [Cliff's perspectives](https://www.aqr.com/Insights/Perspectives)
 * [Ran Aroussi](https://aroussi.com/) with his [Github](https://github.com/ranaroussi)
 * [Hardik Patel](https://www.hardikp.com/)
-* [Danish trader tom](https://tradertom.dk/)
+* [Danish trader tom](https://tradertom.dk/)'
+* [Jeffrey R Dean](https://github.com/TheDean95?tab=repositories)
 
 # Mathematics, Statistics and Probability
 
@@ -340,6 +341,7 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 ### Github repositories
 
 ### Python
+* [Functime repository](https://github.com/functime-org/functime)
 
 ### R
 
