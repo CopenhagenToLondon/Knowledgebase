@@ -63,7 +63,6 @@
 
 ### Videos and video channels
 **MIT**
-
 * [MIT - Mathematics in finance playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
 * [MIT - data science playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 * [MIT - Stochastic differential equations](https://www.youtube.com/watch?v=qdbkvD4N-us)
@@ -74,7 +73,7 @@
 
 **QuantPy**
 * [QuantPy - monte carlo simulation](https://www.youtube.com/watch?v=6-dhdMDiYWQ)
-* [QuantPy - monte carlo VaR and CVaR][https://www.youtube.com/watch?v=f9MAFvP5-pA)
+* [QuantPy - monte carlo VaR and CVaR](https://www.youtube.com/watch?v=f9MAFvP5-pA)
 
 **General channels**
 * Regression analysis [[link]](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
