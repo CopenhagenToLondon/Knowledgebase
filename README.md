@@ -14,7 +14,7 @@ What do you wish to know something about?
 * [Books, Notes, Slides](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Books.md)
 * [Code, repositories, packages](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Code.md)
 
-
+https://lesniewski.us/presentations.html
 
 
 # Knowledgebase
