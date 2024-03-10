@@ -1,3 +1,23 @@
+What do you wish to know something about?
+
+subject
+* [Mathematics, pure maths, geometry]
+* [Statistics, Probability, Stochastic processes]
+* [Quantitative finance, Algorithmic Trading, Alpha]
+* [Insurance and Risk]
+* [AI and Machine learning]
+* [Coding and IT]
+
+
+resource ( Video, website, book, code)?
+* [Videos, channels, playlists] ()
+* [Websites, forums, blogs] ()
+* [Books, Notes, Slides]()
+* [Code, repositories, packages]()
+
+
+
+
 # Knowledgebase
 
 ## Various useful and interesting websites
