@@ -281,7 +281,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Modern Investment Management](https://www.amazon.com/Modern-Investment-Management-Equilibrium-Approach/dp/0471124109#customerReviews)
 
 ## Coding and practical work
-*[dunno](https://github.com/microsoft/qlib)
+
 
 
 ### Github repositories
@@ -498,7 +498,7 @@ For some odd reason, there isn't a lot of VBA code packed up neatly, like with P
 
 # Don't know?
 * [Philosophy of mathematics?](https://www.physixfan.com/wp-content/files/GEBen.pdf)
-
+* [dunno](https://github.com/microsoft/qlib)
 
 
 
