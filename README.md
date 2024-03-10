@@ -2,10 +2,10 @@ What do you wish to know something about?
 
 subject
 * [Mathematics, pure maths, geometry](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Math.md)
-* [Statistics, Probability, Stochastic processes] (https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Stats.md)
+* [Statistics, Probability, Stochastic processes](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Stats.md)
 * [Quantitative finance, Algorithmic Trading, Alpha](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Quant.md)
 * [Insurance and Risk](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Insurance.md)
-* [AI and Machine learning] (https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/AI.md)
+* [AI and Machine learning](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/AI.md)
 * [Coding and IT](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Code.md)
 
 
