@@ -1,6 +1,5 @@
 What do you wish to know something about?
-
-subject
+**subject**
 * [Mathematics, pure maths, geometry](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Math.md)
 * [Statistics, Probability, Stochastic processes](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Stats.md)
 * [Quantitative finance, Algorithmic Trading, Alpha](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Quant.md)
@@ -9,7 +8,7 @@ subject
 * [Coding and IT](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Code.md)
 
 
-resource ( Video, website, book, code)?
+**resource(Video, website, book, code)**
 * [Videos, channels, playlists](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Videos.md)
 * [Websites, forums, blogs](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Websites.md)
 * [Books, Notes, Slides](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Books.md)
