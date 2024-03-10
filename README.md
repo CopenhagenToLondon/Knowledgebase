@@ -96,6 +96,14 @@
 * [UCI Mathematics of finance playlist](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7lTg3D3k3TSj8ApXpT-b9kW)
 
 ### books, notes and slides
+**Purchase**
+* [Advanced Linear Modeling - Christensen](https://link.springer.com/book/10.1007/978-3-030-29164-8)
+* [Distributions and Operators - Grubb]()
+
+**Free/Online**
+* [Linear models in statistics - UT](https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf)
+
+
 
 **Thanks for the recommendationslist by Peter Cotton From Micropredictions**
 
@@ -128,9 +136,9 @@ This book provides a detailed introduction to time series forecasting with Pytho
 
 Bayesian Forecasting and dynamics models by Harisson and west [link](https://link.springer.com/book/10.1007/b98971) "
 
-[Microprediction book](https://mitpress.mit.edu/9780262047326/microprediction/)
-
-[Stanford Convex Optimization course and book](https://web.stanford.edu/~boyd/cvxbook/)
+* [Microprediction book](https://mitpress.mit.edu/9780262047326/microprediction/)
+* [Stanford Convex Optimization course and book](https://web.stanford.edu/~boyd/cvxbook/)
+* [Understanding Analysis](https://www.amazon.com/dp/1493927116/ref=sspa_dk_detail_2?psc=1&pd_rd_i=1493927116&pd_rd_w=1x7Mj&content-id=amzn1.sym.eb7c1ac5-7c51-4df5-ba34-ca810f1f119a&pf_rd_p=eb7c1ac5-7c51-4df5-ba34-ca810f1f119a&pf_rd_r=BVMCQJ6GV303RDVDDH30&pd_rd_wg=pjxdj&pd_rd_r=95078206-71c2-4ea7-b141-d842d2f92e37&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
 
 ## Coding and practical work
 
@@ -146,7 +154,6 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 
 
 # Quantitative finance
-
 
 #### Reading lists
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
@@ -295,6 +302,8 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Quantitative Equity portfolio management](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Second-ebook/dp/B09KF52TKD/ref=sr_1_1?keywords=quantitative+equity+portfolio+management&qid=1693742783&s=books&sprefix=quantitative+equity+por,stripbooks,66&sr=1-1)
 * [Equity portfolio management](https://www.amazon.com/Equity-Portfolio-Management-Frank-Fabozzi/dp/1883249406)
 * [Modern Investment Management](https://www.amazon.com/Modern-Investment-Management-Equilibrium-Approach/dp/0471124109#customerReviews)
+* [Principles of Economics](https://www.amazon.com/Principles-Economics-N-Gregory-Mankiw/dp/0538453052/ref=sr_1_1?ie=UTF8&qid=1414362560&sr=8-1&keywords=mankiw+principles+of+economics)
+* [Accounting](https://www.amazon.com/Accounting-9th-Edition-Charles-Horngren/dp/0132569051/ref=sr_1_11?ie=UTF8&qid=1414362590&sr=8-11&keywords=accounting)
 
 ## Coding and practical work
 
@@ -392,8 +401,12 @@ https://www.youtube.com/watch?v=tzuABpmgPFY - random matrices and machine learni
 https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learning 2
 
 ### books
+**Free/Online**
 * [Understanding deep learning](https://udlbook.github.io/udlbook/)
 * [Deep learning book](https://www.deeplearningbook.org/)
+* [Advanced linear models for data science](https://englianhu.files.wordpress.com/2017/11/advanced-linear-models-for-data-science.pdf)
+**Purchase**
+* [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_2?ie=UTF8&qid=1515871550&sr=8-2&keywords=artificial+intelligence+a+modern)
 
 
 ## Coding and practical work
@@ -428,7 +441,11 @@ https://www.youtube.com/watch?v=b-DkVBoMKms - random matrices and machine learni
 * [Data nash, because passion takes you beyond the mountains](https://www.youtube.com/@datanash8200)
 
 ### books
-
+**Purchase**
+* [Mastering Regular Expressions](https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124/ref=sr_1_1?ie=UTF8&qid=1515871408&sr=8-1&keywords=mastering+regular+expressions)
+* [Design Patterns: Elements of Reusable Object-oriented Software]
+**Free/Online**
+* [PostgreSQL documentation](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-A4.pdf?fbclid=IwAR0j65jL8TcWcbOX1lw2mtNGDjWJEyz4sJoKyoT6zjLzNd-SZ--fyvwLRl4)
 
 
 
