@@ -131,6 +131,7 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 
 # Quantitative finance
 
+
 #### Reading lists
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 * [Top 50 quant questions answered](https://www.cqf.com/blog/quant-finance-101?utm_source)
