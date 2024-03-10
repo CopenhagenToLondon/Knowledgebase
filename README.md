@@ -80,6 +80,7 @@
 * Advanced linear modelling [[link]]()
   
 **Channels**
+* [MIT playlists](https://www.youtube.com/@mitocw/playlists)
 * [G-research](https://www.youtube.com/@GResearchquantfinance)
 * [QuantPy](https://www.youtube.com/@QuantPy)
 * [DimitriBianco](https://www.youtube.com/@DimitriBianco)
