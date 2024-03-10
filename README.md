@@ -280,6 +280,8 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Modern Investment Management](https://www.amazon.com/Modern-Investment-Management-Equilibrium-Approach/dp/0471124109#customerReviews)
 
 ## Coding and practical work
+*[dunno](https://github.com/microsoft/qlib)
+
 
 ### Github repositories
 * [Various coding](https://github.com/teobeeguan/Python-For-Finance/tree/32f618f052ac76a6cecef2d324b0f141b8f5419b)
