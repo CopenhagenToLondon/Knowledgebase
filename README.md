@@ -62,13 +62,26 @@
 
 
 ### Videos and video channels
-* Stochastic differential equations [[link]](https://www.youtube.com/watch?v=qdbkvD4N-us)
-* Ito calculus [[link]](https://www.youtube.com/watch?v=Z5yRMMVUC5w)
-* Stochastic processes I [[link]](https://www.youtube.com/watch?v=TuTmC8aOQJE)
-* Stochastic processes II [[link]](https://www.youtube.com/watch?v=PPl-7_RL0Ko)
-* Stochastic gradient descent [[link](https://www.youtube.com/watch?v=k3AiUhwHQ28)
+
+* [MIT - Stochastic differential equations](https://www.youtube.com/watch?v=qdbkvD4N-us)
+* [Ito calculus](https://www.youtube.com/watch?v=Z5yRMMVUC5w)
+* [MIT - Stochastic processes I](https://www.youtube.com/watch?v=TuTmC8aOQJE)
+* [MIT - Stochastic processes II](https://www.youtube.com/watch?v=PPl-7_RL0Ko)
+* [Stochastic gradient descent](https://www.youtube.com/watch?v=k3AiUhwHQ28)
+
+* [MIT - Mathematics in finance playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
+* [MIT - data science playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+
+* [QuantPy - monte carlo simulation](https://www.youtube.com/watch?v=6-dhdMDiYWQ)
+* [QuantPy - monte carlo VaR and CVaR][https://www.youtube.com/watch?v=f9MAFvP5-pA)
+
 * Regression analysis [[link]](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
 * Advanced linear modelling [[link]]()
+
+* [G-research](https://www.youtube.com/@GResearchquantfinance)
+* [QuantPy](https://www.youtube.com/@QuantPy)
+* [DimitriBianco](https://www.youtube.com/@DimitriBianco)
+* [Patrick Boyle](https://www.youtube.com/@PBoyle)
 * [Measure theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 * [Bright side of mathematics](https://www.youtube.com/@brightsideofmaths)
 * [StatQuest channel](https://www.youtube.com/@statquest)
@@ -77,7 +90,7 @@
 * [3blue1brown](https://www.youtube.com/@3blue1brown)
 * [Faculty of Khan](https://www.youtube.com/@FacultyofKhan)
 * [Patrick JMT](https://www.youtube.com/c/patrickjmt)
-* [Mathematics of finance playlist](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7lTg3D3k3TSj8ApXpT-b9kW)
+* [UCI Mathematics of finance playlist](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7lTg3D3k3TSj8ApXpT-b9kW)
 
 ### books, notes and slides
 
