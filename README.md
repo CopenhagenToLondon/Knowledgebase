@@ -63,15 +63,15 @@
 
 ### Videos and video channels
 
+**MIT**
+* [MIT - Mathematics in finance playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
+* [MIT - data science playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 * [MIT - Stochastic differential equations](https://www.youtube.com/watch?v=qdbkvD4N-us)
 * [Ito calculus](https://www.youtube.com/watch?v=Z5yRMMVUC5w)
 * [MIT - Stochastic processes I](https://www.youtube.com/watch?v=TuTmC8aOQJE)
 * [MIT - Stochastic processes II](https://www.youtube.com/watch?v=PPl-7_RL0Ko)
 * [Stochastic gradient descent](https://www.youtube.com/watch?v=k3AiUhwHQ28)
-
-* [MIT - Mathematics in finance playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
-* [MIT - data science playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
-
+**QuantPy**
 * [QuantPy - monte carlo simulation](https://www.youtube.com/watch?v=6-dhdMDiYWQ)
 * [QuantPy - monte carlo VaR and CVaR][https://www.youtube.com/watch?v=f9MAFvP5-pA)
 
