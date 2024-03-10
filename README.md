@@ -1,12 +1,12 @@
 What do you wish to know something about?
 
 subject
-* [Mathematics, pure maths, geometry]
-* [Statistics, Probability, Stochastic processes]
-* [Quantitative finance, Algorithmic Trading, Alpha]
-* [Insurance and Risk]
-* [AI and Machine learning]
-* [Coding and IT]
+* [Mathematics, pure maths, geometry]()
+* [Statistics, Probability, Stochastic processes]()
+* [Quantitative finance, Algorithmic Trading, Alpha]()
+* [Insurance and Risk]()
+* [AI and Machine learning] ()
+* [Coding and IT]()
 
 
 resource ( Video, website, book, code)?
