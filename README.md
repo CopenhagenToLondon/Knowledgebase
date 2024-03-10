@@ -151,9 +151,9 @@ Bayesian Forecasting and dynamics models by Harisson and west [link](https://lin
 * [Time series analysis and forecasting](https://www.forecaster.guru/time-series-analytics-and-forecasting.html)
 
 ### Websites
-Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
+Thanks to [fgrananqvist](https://github.com/grananqvist), [Jacques Joubert](https://github.com/Jackal08),[Snehil Kumar](https://github.com/snehilms) for their work on their [collection of knowledge gathered here](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading?tab=readme-ov-file)
 
-Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor Igamberdiev](https://github.com/ivigamberdiev) for their work on [These quantitative finance notebooks](https://github.com/je-suis-tm/quant-trading)
+Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor Igamberdiev](https://github.com/ivigamberdiev) for their work on [these quantitative finance notebooks](https://github.com/je-suis-tm/quant-trading)
 
 #### Important websites
 * [Wilmotts forum](https://wilmott.com/)
