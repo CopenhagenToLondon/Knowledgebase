@@ -76,6 +76,7 @@
 * [QuantPy - monte carlo simulation](https://www.youtube.com/watch?v=6-dhdMDiYWQ)
 * [QuantPy - monte carlo VaR and CVaR][https://www.youtube.com/watch?v=f9MAFvP5-pA)
 
+**General channels**
 * Regression analysis [[link]](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
 * Advanced linear modelling [[link]]()
   
