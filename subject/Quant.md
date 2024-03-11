@@ -1,6 +1,11 @@
 
 # Quantitative finance
 
+#### Conjectures
+* Local stock market volatility can be tested for overlapping periods of local volatility
+* Rather than geometric brownian motion, stock markets can be simulated more precisely with a combination of a stochastic volatility process with localized means and a stockprice process made up of a piecewise mean drift, stochastic volatility and jump process.
+
+
 #### Reading lists
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 * [Top 50 quant questions answered](https://www.cqf.com/blog/quant-finance-101?utm_source)
