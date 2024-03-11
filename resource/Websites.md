@@ -6,13 +6,16 @@
 
 ### Blogs
 
+
 ## Coding, programming, IT
 
 ### Websites
+* [Kaggle - competitions, repositiories and more](https://www.kaggle.com/)
 
 ### Forums
 
 ### Blogs
+
 
 ## Insurance and risk management
 
@@ -36,14 +39,17 @@
 * [The python quant](https://home.tpq.io/pqp/)
 * [DeltaQuants](http://www.deltaquants.com/)
 * [Pyquantnews](https://pyquantnews.com/)
-* [Andrew Lesniewski - Baruch College - notes on IR and FX](https://lesniewski.us/presentations.html)
+* [Antoine Savine - personal website](https://antoinesavine.com/)
+* [Andrew Lesniewski - personal website](https://lesniewski.us/presentations.html)
 
 ### Forums
 * [Wilmott - forum](https://wilmott.com/)
 * [QuantNet](https://quantnet.com/)
 
+
 ### Blogs
 * [Blackarbs - blog](https://www.blackarbs.com/)
+* [Mikael Katajamäki - blog](https://mikejuniperhill.blogspot.com/)
 
 ## Statistics, probability and stochastic processes
 
@@ -53,6 +59,7 @@
 
 ### Blogs
 * [Michael Clark - statistics, Data, Science](https://m-clark.github.io/)
+
 
 ## Others
 
