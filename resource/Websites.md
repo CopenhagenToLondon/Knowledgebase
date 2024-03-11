@@ -77,7 +77,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * [Mikael Katajamäki - blog](https://mikejuniperhill.blogspot.com/)
 * [AAA quants - blog](https://aaaquants.com/category/blog/)
 * [Robot wealth - blog](https://robotwealth.com/blog/)
-
+* [Hardikp - blog](https://www.hardikp.com/blog/)
 
 ## Statistics, probability and stochastic processes
 
