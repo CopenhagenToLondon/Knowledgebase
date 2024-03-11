@@ -57,6 +57,7 @@
 ### Blogs
 * [Micropredictions - medium](https://microprediction.medium.com/) recommended for top talent
 * [Blackarbs - blog](https://www.blackarbs.com/)
+* [ML-quant - blog](https://www.ml-quant.com/public) requires paid membership
 * [Mikael Katajamäki - blog](https://mikejuniperhill.blogspot.com/)
 * [AAA quants - blog](https://aaaquants.com/category/blog/)
 * [Robot wealth - blog](https://robotwealth.com/blog/)
