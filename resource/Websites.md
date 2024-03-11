@@ -44,7 +44,7 @@
 
 ### Forums
 * [Wilmott - forum](https://wilmott.com/)
-* [QuantNet](https://quantnet.com/)
+* [QuantNet - forum](https://quantnet.com/)
 
 
 ### Blogs
