@@ -43,7 +43,9 @@
 * [DeltaQuants](http://www.deltaquants.com/)
 * [Pyquantnews](https://pyquantnews.com/)
 * [Quantdare](https://quantdare.com/)
-* [Micropredictions repositories and more](https://github.com/microprediction) recommended for top talent
+* [Micropredictions repositories and more](https://github.com/microprediction) - recommended for top talent
+* [DefaultRisk.com - encyclopedia](http://www.defaultrisk.com/) - defunct
+* [Maxi-pedia, previously Quant-pedia](http://www.maxi-pedia.com/indexpg) - defunct
 
 **Personal sites**
 * [Antoine Savine - personal website](https://antoinesavine.com/)
@@ -58,6 +60,7 @@
 ### Blogs
 * [Micropredictions - medium](https://microprediction.medium.com/) - recommended for top talent
 * [Blackarbs - blog](https://www.blackarbs.com/)
+* [SITMO - ML in quantitative finance - blog](https://www.sitmo.com/)
 * [ML-quant - blog](https://www.ml-quant.com/public) - requires paid membership
 * [Mikael Katajamäki - blog](https://mikejuniperhill.blogspot.com/)
 * [AAA quants - blog](https://aaaquants.com/category/blog/)
