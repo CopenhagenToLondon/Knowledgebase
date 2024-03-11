@@ -6,6 +6,10 @@
 * [Je-suis-TM machine learning](https://github.com/je-suis-tm/machine-learning)
 
 ### Packages
+[TradingGym - AI trading and backtesting environment](https://github.com/Yvictor/TradingGym) - recommended by Grananqvist, ...
+[Trading-Gym - AI trading environment- different from above one](https://github.com/thedimlebowski/Trading-Gym)
+[BTGym - AI trading and backtesting environment](https://github.com/Kismuz/btgym)
+[TradzQAI - AI trading and backtesting environment](https://github.com/kkuette/TradzQAI)
 
 ## Coding, programming, IT
 
