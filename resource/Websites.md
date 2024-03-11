@@ -43,6 +43,7 @@
 * [DeltaQuants](http://www.deltaquants.com/)
 * [Pyquantnews](https://pyquantnews.com/)
 * [Quantdare](https://quantdare.com/)
+* [Micropredictions repositories and more](https://github.com/microprediction) recommended for top talent
 
 **Personal sites**
 * [Antoine Savine - personal website](https://antoinesavine.com/)
