@@ -35,6 +35,7 @@
 ### Code
 
 ### Repositories
+*[Differential machine learning](https://github.com/differential-machine-learning?tab=repositories)
 
 ### Packages
 
