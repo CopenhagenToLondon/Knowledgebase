@@ -7,7 +7,7 @@ What do you wish to know something about?
 * [Mathematics, pure maths, geometry](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Math.md)
 * [Quantitative finance, Algorithmic Trading, Alpha](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Quant.md)
 * [Statistics, Probability, Stochastic processes](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Stats.md)
-* [Others]()
+* [Others](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/other.md)
 
 
 
