@@ -50,14 +50,15 @@
 * [Andrew Lesniewski - personal website](https://lesniewski.us/presentations.html)
 
 ### Forums
-* [Wilmott - forum](https://wilmott.com/)
+* [Wilmott - forum](https://wilmott.com/) - recommended for top talent
+* [Data sim financial - forum](https://datasimfinancial.com/forum) - requires paid membership
 * [QuantNet - forum](https://quantnet.com/)
 * [Quantopian - forum](https://community.quantopian.com/home)
 
 ### Blogs
-* [Micropredictions - medium](https://microprediction.medium.com/) recommended for top talent
+* [Micropredictions - medium](https://microprediction.medium.com/) - recommended for top talent
 * [Blackarbs - blog](https://www.blackarbs.com/)
-* [ML-quant - blog](https://www.ml-quant.com/public) requires paid membership
+* [ML-quant - blog](https://www.ml-quant.com/public) - requires paid membership
 * [Mikael Katajamäki - blog](https://mikejuniperhill.blogspot.com/)
 * [AAA quants - blog](https://aaaquants.com/category/blog/)
 * [Robot wealth - blog](https://robotwealth.com/blog/)
