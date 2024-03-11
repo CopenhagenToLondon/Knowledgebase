@@ -41,6 +41,13 @@
 * [Financial Instrument Pricing Using C++ by Daniel Duffy](https://www.amazon.com/gp/product/0470855096?tag=quantfinaneng-20)
 
 **VBA/Excel**
+* [Excel 2007 Power Programming with VBA by John Walkenbach](https://www.amazon.com/gp/product/0470044012?tag=quantfinaneng-20)
+* [Excel 2007 VBA Programmer’s Reference](https://www.amazon.com/gp/product/0470046430?tag=quantfinaneng-20)
+* [Financial Modeling by Simon Benninga](https://www.amazon.com/gp/product/0262026287?tag=quantfinaneng-20)
+* [Excel Hacks: Tips & Tools for Streamlining Your Spreadsheets](https://www.amazon.com/gp/product/0596528345?tag=quantfinaneng-20)
+* [Excel 2007 Formulas by John Walkenbach](https://www.amazon.com/gp/product/0470044020?tag=quantfinaneng-20)
+* [Advanced modelling in finance using Excel and VBA by Mike Staunton](https://www.amazon.com/gp/product/0471499226?tag=quantfinaneng-20)
+* [Implementing Models of Financial Derivatives: Object Oriented Applications with VBA](https://www.amazon.com/gp/product/0470712201?tag=quantfinaneng-20)
 
 **Python**
 
