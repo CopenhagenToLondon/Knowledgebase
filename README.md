@@ -17,5 +17,3 @@ What do you wish to know something about?
 * [Code, repositories, packages](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Code.md)
 * [Videos, channels, playlists](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Videos.md)
 * [Websites, forums, blogs](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Websites.md)
-
-https://lesniewski.us/presentations.html
