@@ -50,6 +50,8 @@
 * [Implementing Models of Financial Derivatives: Object Oriented Applications with VBA](https://www.amazon.com/gp/product/0470712201?tag=quantfinaneng-20)
 
 **Python**
+* [Learning Python: Powerful Object-Oriented Programming](https://www.amazon.com/gp/product/0596158068?tag=quantfinaneng-20)
+* [Python Cookbook](https://www.amazon.com/gp/product/0596007973?tag=quantfinaneng-20)
 
 **R**
 
