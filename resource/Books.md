@@ -16,7 +16,9 @@
 **free/online**
 
 
-### notes 
+### notes/papers
+* [Improved Portfolio Diversification Through Unsupervised Learning - Michael J. Lewis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580833)
+* [Portfolio Optimization with Tracking-Error Constraints - Phillippe Jorion](https://merage.uci.edu/~jorion/papers/optim.pdf)
 
 ### Slides
 
@@ -24,6 +26,19 @@
 ## Coding, programming, IT
 
 ### Books
+**purchase**
+* [Problem Solving with C++ (9th Edition) by Walter Savitch](https://www.amazon.com/Problem-Solving-C-9th-Edition/dp/0133591743/?tag=quantfinaneng-20)
+* [C++ How to Program (8th Edition) by Harvey Deitel](https://www.amazon.com/dp/0132662361/?tag=quantfinaneng-20)
+* [Absolute C++ (5th Edition) by Walter Savitch](https://www.amazon.com/dp/013283071X/?tag=quantfinaneng-20)
+* [Thinking in C++: Introduction to Standard C++, Volume One by Bruce Eckel](https://www.amazon.com/gp/product/0139798099?tag=quantfinaneng-20)
+* [Thinking in C++: Practical Programming, Volume Two by Bruce Eckel](https://www.amazon.com/gp/product/0130353132?tag=quantfinaneng-20)
+* [The C++ Programming Language: Special Edition by Bjarne Stroustrup (C++ inventor)](https://www.amazon.com/gp/product/0201700735?tag=quantfinaneng-20)
+* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs by Scot Myers](https://www.amazon.com/gp/product/0321334876?tag=quantfinaneng-20)
+* [C++ Primer (4th Edition) by Stanley Lippman](https://www.amazon.com/gp/product/0201721481?tag=quantfinaneng-20)
+* [C++ Design Patterns and Derivatives Pricing (2nd edition) by Mark Joshi](https://www.amazon.com/gp/product/0521721628?tag=quantfinaneng-20)
+* [Financial Instrument Pricing Using C++ by Daniel Duffy](https://www.amazon.com/gp/product/0470855096?tag=quantfinaneng-20)
+
+**free/online**
 
 ### notes 
 
