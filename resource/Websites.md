@@ -46,6 +46,7 @@
 ### Forums
 
 ### Blogs
+* [Michael Clark - statistics, Data, Science](https://m-clark.github.io/)
 
 ## Others
 
