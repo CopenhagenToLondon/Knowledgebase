@@ -2,7 +2,9 @@
 
 ### Websites
 **Recommended courses**
+* An actually useful course in machine learning and AI [Fast.ai course](https://course.fast.ai/)
 
+**General recommendations**
 The selection of online courses for ML for trading is very poor in my opinion.  - Snehilms, Grananqvist and Jackal08
 * Udacity, Georgia Tech - Machine Learning for Trading [[Link]](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
 * Udacity, WorldQuant - Artificial Intelligence for Trading [[Link]](https://eu.udacity.com/course/ai-for-trading--nd880)
