@@ -81,6 +81,9 @@
 
 ### Websites
 
+* [Splash art for icons](https://unsplash.com/)
+* [Image converter](https://icoconvert.com/)
+
 ### Forums
 
 ### Blogs
