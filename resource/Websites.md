@@ -33,7 +33,7 @@
 ## Quantitative finance and Algorithmic trading
 
 ### Websites
-* [Andrew Lesniewski - Baruch College](https://lesniewski.us/presentations.html)
+* [Andrew Lesniewski - Baruch College - notes on IR and FX](https://lesniewski.us/presentations.html)
 
 ### Forums
 
