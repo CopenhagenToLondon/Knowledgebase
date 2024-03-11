@@ -36,6 +36,7 @@
 
 ### Repositories
 * [Differential machine learning](https://github.com/differential-machine-learning?tab=repositories)
+* [Xilinx - pricing models](https://xilinx.github.io/Vitis_Libraries/quantitative_finance/2020.1/models_and_methods.html)
 
 ### Packages
 
