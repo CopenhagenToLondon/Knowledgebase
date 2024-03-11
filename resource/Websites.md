@@ -39,8 +39,9 @@
 * [The python quant](https://home.tpq.io/pqp/)
 * [DeltaQuants](http://www.deltaquants.com/)
 * [Pyquantnews](https://pyquantnews.com/)
+* [Quantdare](https://quantdare.com/)
 
-** Personal sites**
+**Personal sites**
 * [Antoine Savine - personal website](https://antoinesavine.com/)
 * [Andrew Lesniewski - personal website](https://lesniewski.us/presentations.html)
 
