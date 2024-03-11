@@ -54,7 +54,7 @@
 * [Quantopian - forum](https://community.quantopian.com/home)
 
 ### Blogs
-* [Micropredictions - medium](https://microprediction.medium.com/) strongly recommended
+* [Micropredictions - medium](https://microprediction.medium.com/) recommended for top talent
 * [Blackarbs - blog](https://www.blackarbs.com/)
 * [Mikael Katajamäki - blog](https://mikejuniperhill.blogspot.com/)
 * [AAA quants - blog](https://aaaquants.com/category/blog/)
