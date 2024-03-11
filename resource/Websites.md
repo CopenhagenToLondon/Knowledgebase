@@ -1,6 +1,8 @@
 ## AI/Machine learning
 
 ### Websites
+[Alan Turing institute - courses, news, research and more](https://www.turing.ac.uk/)
+
 **Recommended courses**
 * An actually useful course in machine learning and AI [Fast.ai course](https://course.fast.ai/)
 
