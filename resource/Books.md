@@ -2,10 +2,10 @@
 
 ### Books
 **purchase**
-* [Marcos López de Prado - Advances in Financial Machine Learning.](https://www.amazon.com/dp/B079KLDW21) - TM
-* [Dr Howard B Bandy - Quantitative Technical Analysis: An integrated approach to trading system development and trading management](https://www.amazon.com/Quantitative-Technical-Analysis-integrated-development/dp/0979183855/) - TM
+* [Marcos López de Prado - Advances in Financial Machine Learning.](https://www.amazon.com/dp/B079KLDW21) - recommended
+* [Dr Howard B Bandy - Quantitative Technical Analysis: An integrated approach to trading system development and trading management](https://www.amazon.com/Quantitative-Technical-Analysis-integrated-development/dp/0979183855/) - recommended
 * [Tony Guida - Big Data and Machine Learning in Quantitative Investment](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance/dp/1119522196)
-* [Michael Halls-Moore - Advanced Algorithmic Trading](https://www.quantstart.com/advanced-algorithmic-trading-ebook/) - TM
+* [Michael Halls-Moore - Advanced Algorithmic Trading](https://www.quantstart.com/advanced-algorithmic-trading-ebook/) - recommended
 * [Jannes Klaas - Machine Learning for Finance: Data algorithms for the markets and deep learning from the ground up for financial experts and economics](https://www.amazon.com/Machine-Learning-Finance-algorithms-financial-ebook/dp/B07BDK6LF9)
 * [Stefan Jansen - Hands-On Machine Learning for Algorithmic Trading: Design and implement smart investment strategies to analyze market behavior using the Python ecosystem](https://www.amazon.com/Hands-Machine-Learning-Algorithmic-Trading-ebook/dp/B07JLFH7C5/)
 * [Ali N. Akansu et al. - Financial Signal Processing and Machine Learning](https://www.amazon.com/Financial-Signal-Processing-Machine-Learning/dp/1118745671)
