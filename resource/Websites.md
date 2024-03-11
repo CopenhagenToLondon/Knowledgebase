@@ -51,6 +51,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 ## Quantitative finance and Algorithmic trading
 
 ### Websites
+**Generally useful websites**
 * [Quant Stack Exchange](https://quant.stackexchange.com/)
 * [QuantConnect](https://www.quantconnect.com/)
 * [QuantStart](https://www.quantstart.com/)
@@ -67,6 +68,16 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 * [Antoine Savine - personal website](https://antoinesavine.com/)
 * [Andrew Lesniewski - personal website](https://lesniewski.us/presentations.html)
 
+**Courses**
+* [Fitch learning](https://www.fitchlearning.com/)
+* [CQF](https://www.cqf.com/)
+* [Quantnet courses](https://quantnet.com/courses/)
+* [CME group learning](https://www.cmegroup.com/education/courses.html)
+* [Udemy Quant courses](https://www.udemy.com/topic/quantitative-finance/)
+* [WST courses](https://wallst.training/training/self-study-courses/)
+* [Worldquant university](https://www.wqu.edu/)
+* [Time series analysis and forecasting](https://www.forecaster.guru/time-series-analytics-and-forecasting.html)
+
 ### Forums
 * [Wilmott - forum](https://wilmott.com/) - recommended for top talent
 * [Data sim financial - forum](https://datasimfinancial.com/forum) - requires paid membership
@@ -82,6 +93,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 * [AAA quants - blog](https://aaaquants.com/category/blog/)
 * [Robot wealth - blog](https://robotwealth.com/blog/)
 * [Hardikp - blog](https://www.hardikp.com/blog/)
+
 
 ## Statistics, probability and stochastic processes
 
