@@ -2,7 +2,8 @@
 
 ### Websites
 **Recommended courses**
-The selection of online courses for ML for trading is very poor in my opinion.  
+
+The selection of online courses for ML for trading is very poor in my opinion.  - Snehilms, Grananqvist and Jackal08
 * Udacity, Georgia Tech - Machine Learning for Trading [[Link]](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
 * Udacity, WorldQuant - Artificial Intelligence for Trading [[Link]](https://eu.udacity.com/course/ai-for-trading--nd880)
 * Coursera, NYU - Machine Learning and Reinforcement Learning in Finance Specialization (Weakly related to trading)
