@@ -27,6 +27,8 @@
 
 ### Books
 **purchase**
+
+**C++**
 * [Problem Solving with C++ (9th Edition) by Walter Savitch](https://www.amazon.com/Problem-Solving-C-9th-Edition/dp/0133591743/?tag=quantfinaneng-20)
 * [C++ How to Program (8th Edition) by Harvey Deitel](https://www.amazon.com/dp/0132662361/?tag=quantfinaneng-20)
 * [Absolute C++ (5th Edition) by Walter Savitch](https://www.amazon.com/dp/013283071X/?tag=quantfinaneng-20)
@@ -37,6 +39,12 @@
 * [C++ Primer (4th Edition) by Stanley Lippman](https://www.amazon.com/gp/product/0201721481?tag=quantfinaneng-20)
 * [C++ Design Patterns and Derivatives Pricing (2nd edition) by Mark Joshi](https://www.amazon.com/gp/product/0521721628?tag=quantfinaneng-20)
 * [Financial Instrument Pricing Using C++ by Daniel Duffy](https://www.amazon.com/gp/product/0470855096?tag=quantfinaneng-20)
+
+**VBA/Excel**
+
+**Python**
+
+**R**
 
 **free/online**
 
