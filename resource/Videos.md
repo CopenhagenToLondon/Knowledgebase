@@ -68,7 +68,7 @@
 ### Videos
 
 ### Channels
-
+* [Quanta Magazine](https://www.youtube.com/@QuantaScienceChannel/playlists)
 
 ### Playlists
 
