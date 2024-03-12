@@ -13,10 +13,18 @@
 
 ### Videos
 * [Jingyu She](https://www.youtube.com/@herrgrillparzer/videos)
+* [Katrien Antonio](https://www.youtube.com/@katrienantonio6597)
+  On her YouTube channel, Prof. Antonio covers courses with playlists including [Loss Models](https://www.youtube.com/playlist?list=PL19XDoQ69BpdpQjzO1T1XYzfCvgGYs-zG), [Life Insurance Mathematics](https://www.youtube.com/playlist?list=PL19XDoQ69BpfX9-PrL325KqtsYlUK1gPO) , [Non-life insurance](https://www.youtube.com/playlist?list=PL19XDoQ69BpcHvdTmMw3vZNvBDef55lMk), [Data science for insurance](https://www.youtube.com/playlist?list=PL19XDoQ69Bpe2GvIuI83ouKzwkXYTN4Pt), and [Advanced life insurance mathematics](https://www.youtube.com/playlist?list=PL19XDoQ69Bpf0EIE99-MeoRIaQHmxYMZT) Despite the difficulty of the content, she maneuvers this academic space with fine-grained control, maintaining high level of rigor, industry-insight, and educational inclusivity.
 
 ### books
+ - [Computational Actuarial Science with R by A. Charpentier](https://www.routledge.com/Computational-Actuarial-Science-with-R/Charpentier/p/book/9781138033788) 
+   Charpentier covers everything you need to know as a student actuary covering beyond the undergraduate level. The book is full of example code and employs a walks the reader through the topics at hand with ease delving into topics like: Statistical Learning, Reinsurance and Extremal Events, Prospective Mortality Tables and Portfolio Experience, Yield Curves and Interest Rate Models, and Claims Reserving and IBNR.
 
+### Podcasts
 
+#### Reinsurance
+- [Supercede | The Reinsurance Platform](https://www.youtube.com/@SupercedeHQ) 
+  An insightful podcast on everything from nascent markets like carbon insurance to emerging aspects like AI within reinsurance underwriting covering an unprecedented breadth of content within (re)insurance at a non-technical yet industry-ingrained level while maintaining a fresh treatment of the content.
 
 
 ## Coding and practical work
