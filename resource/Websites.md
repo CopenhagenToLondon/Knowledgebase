@@ -3,6 +3,8 @@
 ### Websites
 [Alan Turing institute - courses, news, research and more](https://www.turing.ac.uk/)
 
+* [BentoML?](https://docs.bentoml.org/en/latest/index.html)
+
 **Recommended courses**
 * An actually useful course in machine learning and AI [Fast.ai course](https://course.fast.ai/)
 
@@ -30,7 +32,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 ### Forums
 
 ### Blogs
-
+* [How to docker ML pipeline?](https://towardsdatascience.com/deploy-machine-learning-pipeline-on-cloud-using-docker-container-bec64458dc01)
 
 ## Insurance and risk management
 
