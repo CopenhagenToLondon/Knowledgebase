@@ -20,4 +20,4 @@ What do you wish to know something about?
 
 
 A massive thanks to the following.
-[Grananqvist](https://github.com/grananqvist), [Jackal08](https://github.com/Jackal08), [Snehilms](https://github.com/snehilms), [Je-suis-TM](https://github.com/je-suis-tm), 
+[Grananqvist](https://github.com/grananqvist), [Jackal08](https://github.com/Jackal08), [Snehilms](https://github.com/snehilms), [Je-suis-TM](https://github.com/je-suis-tm), [Microprediction](https://github.com/microprediction),
