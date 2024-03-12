@@ -150,6 +150,7 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 ### Books
 
 ### notes 
+* [Introduction to actuarial mathematics - 2023 - Lecture notes for Forsikring og jura](https://noter.math.ku.dk/Intro_act_math.pdf)
 
 ### Slides
 
