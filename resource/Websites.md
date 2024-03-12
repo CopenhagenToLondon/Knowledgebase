@@ -37,6 +37,8 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 ## Insurance and risk management
 
 ### Websites
+* [Mogens Bladt KU](https://web.math.ku.dk/~bladt/)
+* [Christian Furrer](https://furrer.dk/christian/)
 
 ### Forums
 
