@@ -80,8 +80,10 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 * [Schur Complement and Symmetric Positive Semidefinite Matrices](https://www.cis.upenn.edu/~jean/schur-comp.pdf)
 * [Fast and accurate techniques for computing schur complements and performing numerical coarse graining](https://amath.colorado.edu/faculty/martinss/Talks/2009_banff.pdf)
 * [A Closer look at the Minimum-Variance Portfolio Optimization Model](https://downloads.hindawi.com/journals/mpe/2019/1452762.pdf)
-**[Six Generalized Schur Complements](https://www.sciencedirect.com/science/article/pii/002437958890033X)**
+**Six Generalized Schur Complements**[link](https://www.sciencedirect.com/science/article/pii/002437958890033X)
  * [G-Learner and GIRL: Goal Based Wealth Management with Reinfocement Learning](https://arxiv.org/abs/2002.10990)
+ * [Super Learner in Prediction](https://biostats.bepress.com/ucbbiostat/paper266/)
+ * [Ensemble Selection from Libraries of Models](https://www.cs.cornell.edu/~alexn/papers/shotgun.icml04.revised.rev2.pdf)
 
 ### Slides
 
