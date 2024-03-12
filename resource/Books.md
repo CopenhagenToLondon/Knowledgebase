@@ -17,8 +17,44 @@
 
 
 ### notes/papers
-* [Improved Portfolio Diversification Through Unsupervised Learning - Michael J. Lewis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580833)
-* [Portfolio Optimization with Tracking-Error Constraints - Phillippe Jorion](https://merage.uci.edu/~jorion/papers/optim.pdf)
+**Peter Cotton recommendations**
+I have removed authors on the below papers, I mean no disrespect, but the titles on these papers are at times quite long and the removal of authors therefore enhances the ability to find the relevant topics in an ocean of text. Massive appreciation goes to Peter Cotton, his entire list is [here](https://github.com/microprediction/precise/blob/main/LITERATURE.md)
+
+* [Improved Portfolio Diversification Through Unsupervised Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580833)
+* [Portfolio Optimization with Tracking-Error Constraints](https://merage.uci.edu/~jorion/papers/optim.pdf)
+* [Machine Learning Risk Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3308964)
+* [Dictionary Learning-Based Denoising for Portfolio](https://2023.ic-dsp.org/wp-content/uploads/2023/05/DSP2023-43.pdf)
+* [Regularized Tyler's Scatter Estimator: Existence, Uniqueness and Algorithms](https://ieeexplore.ieee.org/document/6879466)
+* [James-Stein for the leading eigenvector](https://www.pnas.org/doi/epdf/10.1073/pnas.2207046120)
+* [Rotational invariant estimator for general noisy matrices](https://arxiv.org/pdf/1502.06736.pdf) - [Code](https://github.com/GGiecold/pyRMT/blob/main/pyRMT.py)
+* [Estimating covariance matrices for portfolio optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=873125)
+* [A Modified CTGAN-Plus-Features Based Method for Optimal Asset Allocation](https://arxiv.org/pdf/2302.02269.pdf)
+* [Cross Asset Portfolios of Tradable Risk Premia Indices - Hierarchical Risk Parity - Enhancing Returns](https://www.scribd.com/document/466110701/Cross-Asset-Portfolios-of-Tradable-Risk-Premia-Indices-Hierarchical-Risk-Parity-Enhancing-Returns-pdf#)
+* [Adaptive Seriational Risk Parity and Other Extensions for Heuristic Portfolio Construction Using Machine Learning and Graph Theory](https://jfds.pm-research.com/content/iijjfds/early/2021/10/06/jfds.2021.1.078.full-text.pdf)
+* [A Constrained Hierarchical Risk Parity Algorithm with Cluster-based Capital Allocation](https://www.fmx.nfkatzke.com/Projects/HRP.pdf)
+* [A Clustering Algorithm for Correlation Quickest Hub Discovery Mixing Time Evolution and Random Matrix Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241975)
+* [Hierarchical Sensitivity Parity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4110188)
+* [Asymmetric Autoencoders for Factor-Based Covariance Matrix Estimation](https://dl.acm.org/doi/pdf/10.1145/3533271.3561715)
+* [Theoretically Motivated Data Augmentation and Regularization for Portfolio Construction](https://arxiv.org/abs/2106.04114)
+* [Pessimistic Offline Policy Optimization](https://arxiv.org/abs/2012.13682)
+* [A Generalized Approach to Portfolio Optimization: Improving Performance by Constraining Portfolio Norms](https://www.semanticscholar.org/paper/A-Generalized-Approach-to-Portfolio-Optimization%3A-DeMiguel-Garlappi/0c684e0b00e090e064b614f87db321951cfc66ff)
+* [Seriation and Matrix Reordering Methods: An Historical Overview](http://innar.com/Liiv_Seriation.pdf)
+* [The Locally Gaussian Partial Correlation](https://arxiv.org/pdf/1909.09681.pdf)
+* [Measuring asymmetries in financial returns : an empirical investigation using local gaussian correlation](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/166806/A12_13.pdf?sequence=1&isAllowed=y)
+* [Portfolio Allocation under Asymmetric Dependence in Asset Returns using Local Gaussian Correlations](https://arxiv.org/pdf/2106.12425.pdf)
+* [Beyond Risk-Based Portfolios: Balancing Performance and Risk Contributions in Asset Allocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819789)
+* [A Fast Algorithm for Computing High-dimensional Risk Parity Portfolios](https://arxiv.org/pdf/1311.4057.pdf)
+* [Improved iterative methods for solving risk parity portfolio](https://www.emerald.com/insight/content/doi/10.1108/JDQS-12-2021-0031/full/html)
+* **Covariance matrix testing in high dimensions using random projections**
+  * [Numerically Stable Parallel Computation of (Co-)Variance](https://ds.ifi.uni-heidelberg.de/files/Team/eschubert/publications/SSDBM18-covariance-authorcopy.pdf)
+  * [A Well-Conditioned Estimator For Large-Dimensional Covariance Matrices](http://www.ledoit.net/ole1a.pdf)
+  * [A Robust Estimator of the Efficient Frontier](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3498628_code434076.pdf?abstractid=3469961&mirid=1&type=2)
+  * [Noisy Covariance Matrices and Portfolio Optimization](https://arxiv.org/pdf/cond-mat/0111503.pdf)
+  * [Continuous Time Mean-Variance Portfolio Selection: A Reinforcement Learning Framework](https://arxiv.org/pdf/1904.11392.pdf)
+  * [PORTFOLIO OPTIMIZATION WITH NOISY COVARIANCE MATRICES](https://www.joim.com/wp-content/uploads/emember/downloads/p0594.pdf)
+  * []()
+  * []()
+  * []()
 
 ### Slides
 
