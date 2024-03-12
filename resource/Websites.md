@@ -20,7 +20,6 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 ### Forums
 
 ### Blogs
-*[Microprediction blog](https://microprediction.medium.com/)
 
 
 ## Coding, programming, IT
