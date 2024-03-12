@@ -31,6 +31,7 @@
 ### Videos
 
 ### Channels
+* [Jingyu She](https://www.youtube.com/@herrgrillparzer/playlists)
 
 ### Playlists
 
