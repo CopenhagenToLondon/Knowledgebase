@@ -12,11 +12,16 @@
 * [David Aronson - Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741)
 * [David Aronson - Statistically Sound Machine Learning for Algorithmic Trading of Financial Instruments](https://www.amazon.com/Statistically-Learning-Algorithmic-Financial-Instruments/dp/148950771X)
 * [Ernest P. Chan - Machine Trading: Deploying Computer Algorithms to Conquer the Markets](https://www.amazon.co.uk/gp/product/1119219604/)
+* [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_2?ie=UTF8&qid=1515871550&sr=8-2&keywords=artificial+intelligence+a+modern)
 
 **free/online**
-
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+* [Deep learning MIT press](https://www.deeplearningbook.org/)
 
 ### notes/papers
+* [High-dimensional analysis of double descent for linear regression with random projections](https://arxiv.org/abs/2303.01372)
+* [A Kernel Based Reordering Algorithm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770557)
+
 **Peter Cotton recommendations**
 I have removed authors on the below papers, I mean no disrespect, but the titles on these papers are at times quite long and the removal of authors therefore enhances the ability to find the relevant topics in an ocean of text. Massive appreciation goes to Peter Cotton, his entire list is [here](https://github.com/microprediction/precise/blob/main/LITERATURE.md)
 
