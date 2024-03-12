@@ -23,6 +23,8 @@
 ### Videos
 
 ### Channels
+**Just for fun**
+* [Programmers are also human](https://www.youtube.com/@programmersarealsohuman5909)
 
 ### Playlists
 
