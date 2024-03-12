@@ -1,6 +1,7 @@
 **Authors**
-[Mark Brezina]()
-[Aksel Fristrup]()
+
+[Mark Brezina](https://github.com/CopenhagenToLondon)
+[Aksel Fristrup](https://github.com/afristrup)
 
 What do you wish to know something about?
 
@@ -12,9 +13,6 @@ What do you wish to know something about?
 * [Quantitative finance, Algorithmic Trading, Alpha](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Quant.md)
 * [Statistics, Probability, Stochastic processes](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Stats.md)
 * [Others](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/other.md)
-
-
-
 
 **resource(Video, website, book, code)**
 * [Books, Notes, Slides](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Books.md)
