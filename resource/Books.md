@@ -84,7 +84,21 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
   * [G-Learner and GIRL: Goal Based Wealth Management with Reinfocement Learning](https://arxiv.org/abs/2002.10990)
   * [Super Learner in Prediction](https://biostats.bepress.com/ucbbiostat/paper266/)
   * [Ensemble Selection from Libraries of Models](https://www.cs.cornell.edu/~alexn/papers/shotgun.icml04.revised.rev2.pdf)
-
+* [Combining Portfolio Models](http://aeconf.com/Articles/Nov2014/aef150208.pdf)
+* [A Nested Factor Model for non-linear dependencies in stock returns](https://arxiv.org/pdf/1309.3102.pdf)
+* [A Forecast Comparison of Volatility Models](https://faculty.washington.edu/ezivot/econ589/DoesAnythingBeatGarch11.pdf)
+* [Bayesian Inference for Correlations in the Presence of Measurement Error and Estimation Uncertainty](https://www.alexander-ly.com/wp-content/uploads/2014/09/MatzkeEtAl2016NoisyCorrelations.pdf) and [link](https://arxiv.org/pdf/1510.01188.pdf)
+* [Optimizing the Omega Ratio using Linear Programming](https://cs.uwaterloo.ca/~yuying/Courses/CS870_2012/Omega_paper_Short_Cm.pdf)
+* [Using out-of-sample errors in portfolio optimization](https://www.clsbe.lisboa.ucp.pt/system/files/assets/files/2016-paper-pedro-barroso.pdf)
+* [Risk Parity, Maximum Diversification, and Minimum Variance: An Analytic Perspective](https://www.hillsdaleinv.com/uploads/Risk_Parity%2C_Maximum_Diversification%2C_and_Minimum_Variance-_An_Analytic_Perspective.pdf)
+* [The Risk in Risk Parity: A Factor Based Analysis of Asset-Based Risk Parity](https://www.researchgate.net/publication/256038119_The_Risk_in_Risk_Parity_A_Factor_Based_Analysis_of_Asset_Based_Risk_Parity)
+* [Online Portfolio Selection: A Survey](https://arxiv.org/pdf/1212.2129.pdf)
+* [What's the big deal about risk parity?](https://www.researchgate.net/publication/312284109_What%27s_the_big_deal_about_Risk_Parity)
+* [Hierarchical Sensitivity Parity](https://arxiv.org/pdf/2202.08921.pdf)
+* [Improved iterative methods for solving risk parity portfolio](https://www.emerald.com/insight/content/doi/10.1108/JDQS-12-2021-0031/full/pdf?title=improved-iterative-methods-for-solving-risk-parity-portfolio)
+* [On the Risk of Out-of-Smaple Portfolio Performance](https://www.researchgate.net/publication/351942213_The_Risk_of_Expected_Utility_under_Parameter_Uncertainty)
+* [Fat Tailed Factors](https://arxiv.org/pdf/2011.13637.pdf)
+  
 ### Slides
 
 
@@ -145,6 +159,9 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 ## Quantitative finance and Algorithmic trading
 
 ### Books
+
+**Free/Online**
+* [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
 
 ### notes 
 
