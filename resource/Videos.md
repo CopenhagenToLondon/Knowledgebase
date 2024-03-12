@@ -2,13 +2,19 @@
 
 ### Videos
 * [Double Descent explained by Yann LeCun](https://www.youtube.com/watch?v=5I7-ItaOZFU)
-* []()
-* []()
+* [Google's DeepMind AI just taught itself to walk](https://www.youtube.com/watch?v=gn4nRCC9TwQ)
+* [Training an unbeatable AI in Trackmania](https://www.youtube.com/watch?v=Dw3BZ6O_8LY)
 
 ### Channels
+* [Jeremy Howard](https://www.youtube.com/@howardjeremyp/videos)
+* [Simons institute](https://www.youtube.com/@SimonsInstituteTOC/playlists)
+* [Google DeepMind](https://www.youtube.com/@Google_DeepMind/playlists)
 * [Roland Speicher](https://www.youtube.com/@SpeicherRoland/playlists)
 * [Connor Shorten](https://www.youtube.com/@connorshorten6311/playlists)
-* []()
+* [Alena Kruchkova](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos)
+* [Preserve Knowledge](https://www.youtube.com/@PreserveKnowledge/playlists)
+* [Taro](https://www.youtube.com/@taro4544/streams)
+* [Machine Learning at Berkeley](https://www.youtube.com/@machinelearningatberkeley8868)
 
 ### Playlists
 
