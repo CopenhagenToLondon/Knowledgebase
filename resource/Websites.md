@@ -103,6 +103,9 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 
 ### Blogs
 * [Michael Clark - statistics, Data, Science](https://m-clark.github.io/)
+* [Statistical forecasting - Robert Nau](https://people.duke.edu/~rnau/411home.htm)
+* [Causal Inference for The Braven and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+* [The Gradient - Yuge Shi](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
 
 ## Others
@@ -111,6 +114,10 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 
 * [Splash art for icons](https://unsplash.com/)
 * [Image converter](https://icoconvert.com/)
+* [For Curious Kids, by Peter Cotton](https://microprediction.github.io/curiouskids/)
+* [Terry Tao](https://terrytao.wordpress.com/)
+* [Theory of computation course](https://github.com/microprediction/theory-of-computation/tree/main)
+* [Micropresentations](https://github.com/microprediction/micropresentations/tree/master)
 
 ### Forums
 
