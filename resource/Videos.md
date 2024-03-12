@@ -21,12 +21,19 @@
 ## Coding, programming, IT
 
 ### Videos
+* [Trading at light speed: designing low latency systems in C++ - David Gross - Meeting C++ 2022](https://www.youtube.com/watch?v=8uAW5FQtcvE) - This is very important
+* [The Speed Game: Automated Trading Systems in C++ - Carl Cook - Meeting C++ 2016](https://www.youtube.com/watch?v=ulOLGX3HNCI) - Optiver trader 2016
+* [CppCon 2017: Carl Cook “When a Microsecond Is an Eternity: High Performance Trading Systems in C++”](https://www.youtube.com/watch?v=NH1Tta7purM) - Optiver trader 2017
 
 ### Channels
+* [MeetingCPP](https://www.youtube.com/@MeetingCPP)
+* [Coding Jesus](https://www.youtube.com/@CodingJesus)
+
 **Just for fun**
 * [Programmers are also human](https://www.youtube.com/@programmersarealsohuman5909)
 
 ### Playlists
+* [HFT C++ playlist](https://www.youtube.com/watch?v=P8xAtogMOWc&list=PLGvfHSgImk4Z5RJJw91bsbxdcuErkWVCM)
 
 ## Insurance and risk management
 
@@ -65,6 +72,8 @@
 * [Quant Trading - A History - Patrick Boyle](https://www.youtube.com/watch?v=omgx5OjjwPo)
 * [Volatility Trading: The Market Tactic That's Driving Stocks Haywire - Wall Street Journal](https://www.youtube.com/watch?v=cHYeDy7AE5c)
 * [How the Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+* [Secrets of a former high speed trader](https://www.youtube.com/watch?v=itxbyXO67XY)
+* [High Frequency Trading (HFT): Explained](https://www.youtube.com/watch?v=oUVchh37AO8)
 
 **Just for fun** - These videos are only for meant as comedic relief.
 * [The Barclays Trading Strategy that outperforms the Market](https://www.youtube.com/watch?v=8pYgz4YlQnE)
