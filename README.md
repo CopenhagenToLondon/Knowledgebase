@@ -1,3 +1,7 @@
+**Authors**
+[Mark Brezina]()
+[Aksel Fristrup]()
+
 What do you wish to know something about?
 
 **subject**
