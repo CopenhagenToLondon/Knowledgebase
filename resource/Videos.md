@@ -87,6 +87,7 @@
 
 ### Playlists
 * [Statistical learning with R](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
+* [MIT - Statistics for applications](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Others
 
