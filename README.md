@@ -1,8 +1,6 @@
 **Authors**
 
-[Mark Brezina](https://github.com/CopenhagenToLondon)
-
-[Aksel Fristrup](https://github.com/afristrup)
+[Mark Brezina](https://github.com/CopenhagenToLondon), [Aksel Fristrup](https://github.com/afristrup)
 
 What do you wish to know something about?
 
