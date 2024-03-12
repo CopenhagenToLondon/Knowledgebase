@@ -92,6 +92,11 @@ Do not do any of this, these videos are only for fun.
 ## Others
 
 ### Videos
+About the financial crisis
+* [Money, Power and Wall Street - part 1](https://www.youtube.com/watch?v=W-Q9AOp2FW8)
+* [Money, Power and Wall Street - part 2](https://www.youtube.com/watch?v=Mb786mTZVHk)
+* [Warren Buffett Explains the 2008 financial Crisis](https://www.youtube.com/watch?v=k2VSSNECLTQ)
+* [Why Warren Buffett Said No to Lehman Brothers and AIG](https://www.youtube.com/watch?v=1QeUcfqkUzc)
 
 ### Channels
 * [The Plain Bagel](https://www.youtube.com/@ThePlainBagel)
