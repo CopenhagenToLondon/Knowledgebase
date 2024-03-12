@@ -47,6 +47,10 @@
 ### Videos
 
 ### Channels
+* [G-research](https://www.youtube.com/@GResearchquantfinance)
+* [Jane Street](https://www.youtube.com/@janestreet/playlists)
+* [Dimitri Bianco](https://www.youtube.com/@DimitriBianco)
+* [QuantPy](https://www.youtube.com/@QuantPy)
 
 ### Playlists
 
@@ -64,6 +68,7 @@
 ### Videos
 
 ### Channels
+
 
 ### Playlists
 
