@@ -3,6 +3,7 @@
 ## Theory and subject matter
 
 https://arxiv.org/abs/2303.01372 - high-dimensional analysis of double descent for linear regression with random projections
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770557 - A kernel Based Reording algorithm
 
 
 ### Websites
