@@ -64,8 +64,7 @@
 * [Volatility Trading: The Market Tactic That's Driving Stocks Haywire - Wall Street Journal](https://www.youtube.com/watch?v=cHYeDy7AE5c)
 * [How the Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 
-**Just for fun**
-Do not do any of this, these videos are only for fun.
+**Just for fun** - These videos are only for meant as comedic relief.
 * [The Barclays Trading Strategy that outperforms the Market](https://www.youtube.com/watch?v=8pYgz4YlQnE)
 * [Unemployed Guy Explains Option Trading in 5 Levels of Complexity](https://www.youtube.com/watch?v=lUv27513cfU)
 
