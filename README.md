@@ -19,6 +19,10 @@ What do you wish to know something about?
 * [Videos, channels, playlists](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Videos.md)
 * [Websites, forums, blogs](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Websites.md)
 
+**Special Topics  
+* [Rough Paths and Signature Methods in ML](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/special-topics/Rough-Paths-and-Signature-Methods-in-ML.md)
+* [Sustainable Finance and ESG with AI](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/special-topics/ESG.md)
+- [Carbon Credit Insurance](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/special-topics/Carbon-Insurance.md)
 
 A massive thanks to the following.
 [Grananqvist](https://github.com/grananqvist), [Jackal08](https://github.com/Jackal08), [Snehilms](https://github.com/snehilms), [Je-suis-TM](https://github.com/je-suis-tm), [Microprediction](https://github.com/microprediction),
