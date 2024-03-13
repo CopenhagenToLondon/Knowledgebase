@@ -22,3 +22,15 @@ What do you wish to know something about?
 
 A massive thanks to the following.
 [Jonas Hal](https://www.linkedin.com/in/jonas-hal-envisionrisk/), [Anton Vorobets](https://www.linkedin.com/in/antonvorobets/), [David Skovmand](https://www.linkedin.com/in/david-skovmand-24aa0a/), [Peter Cotton](https://www.linkedin.com/in/petercotton/) with his [Microprediction](https://github.com/microprediction), [Grananqvist](https://github.com/grananqvist), [Jackal08](https://github.com/Jackal08), [Snehilms](https://github.com/snehilms), [Je-suis-TM](https://github.com/je-suis-tm), 
+
+
+
+
+These need working on
+1. [Blackrock](https://github.com/blackrock) - dig through their repos and find useful algorithms, blogs and documents
+2. [Jump Trading](https://github.com/jumptrading) - dig through their repos, look through the CTO's repos
+3. [Hudson River Trading](https://github.com/hudson-trading) - look through followers, presumably lots of Hudson employees
+4. [Point72](https://github.com/Point72)
+5. [AQR Capital Management](https://github.com/aqrcapital)
+6. [D. E. Shaw Research](https://github.com/DEShawResearch)
+7. [D. E. Shaw Group](https://github.com/deshaw)
