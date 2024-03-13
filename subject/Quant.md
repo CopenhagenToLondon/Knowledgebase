@@ -62,13 +62,28 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Hurst exponent](https://research.macrosynergy.com/detecting-trends-and-mean-reversion-with-the-hurst-exponent/)
 
 # Trading and algorithmic trading
+* [Two Sigma](https://www.youtube.com/@twosigma4874)
+* [QuantPy channel](https://www.youtube.com/@QuantPy)
+* [Dimitri Bianco](https://www.youtube.com/@DimitriBianco)
+* [Yves Hilpisch](https://www.youtube.com/@dyjh/videos)
+* [G-research](https://www.youtube.com/@GResearchquantfinance)
+* [Code Trading](https://www.youtube.com/@CodeTradingCafe/videos)
+
+
+
 
 # Derivatives, Options, Futures and Swaps
+
 #### Options pricing
 * Option pricing Youtube Video [[link]](https://youtu.be/eG_aRPy1KVE?si=LYZwbHKxQskfN9IM&t=1)
 * [black-scholes formula and risk-neutral valuation](https://www.youtube.com/watch?v=TnS8kI_KuJc)
 * [Heston model video](https://www.youtube.com/watch?v=PmUIMhMlRkQ)
 * [Simulating heston model with python](https://www.youtube.com/watch?v=o8C6DxZh8dw)
+
+#### Swaps, Options and derivatives
+* [Swaps book research](https://github.com/nburgessx/SwapsBook/tree/main/.Research%20Papers/.Reference%20Papers)
+
+
 
 # Credit and Fixed Income
 **Cox-Ingersoll-Ross Model**
@@ -76,6 +91,13 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 **Hull-White Model**
 * [Investopedia](https://www.investopedia.com/terms/h/hullwhite-model.asp)
+
+* [Quant credit hedging](https://www.youtube.com/watch?v=55OXxe_ix2o)
+* [HJM Model for interest rates and credit](https://www.youtube.com/watch?v=D2Jn1VrqjWI)
+* [Fixed income videos](https://www.youtube.com/@infermath8131/videos)
+
+
+
 
 # Risk management
 
@@ -114,23 +136,15 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [morningstar](https://www.morningstar.com/)
 * [Finos Legend](https://legend.finos.org/)
 
-#### Swaps, Options and derivatives
-* [Swaps book research](https://github.com/nburgessx/SwapsBook/tree/main/.Research%20Papers/.Reference%20Papers)
+
 
 ### Videos
 
 
 
 #### General
-* [Two Sigma](https://www.youtube.com/@twosigma4874)
-* [QuantPy channel](https://www.youtube.com/@QuantPy)
-* [Dimitri Bianco](https://www.youtube.com/@DimitriBianco)
-* [Yves Hilpisch](https://www.youtube.com/@dyjh/videos)
-* [G-research](https://www.youtube.com/@GResearchquantfinance)
-* [Code Trading](https://www.youtube.com/@CodeTradingCafe/videos)
-* [Quant credit hedging](https://www.youtube.com/watch?v=55OXxe_ix2o)
-* [HJM Model for interest rates and credit](https://www.youtube.com/watch?v=D2Jn1VrqjWI)
-* [Fixed income videos](https://www.youtube.com/@infermath8131/videos)
+
+
 
 #### Risk analysis
 * [value at risk models](https://www.youtube.com/watch?v=92WaNz9mPeY)
