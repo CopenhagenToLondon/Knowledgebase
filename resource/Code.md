@@ -24,6 +24,13 @@
 ## Insurance and risk management
 
 ### Code
+* [Prediction of Commercial Insurance Payments for Surgical Procedure using DataRobot](https://github.com/rjrahul24/Prediction-of-Insurance-Payments-for-Surgical-Procedures/blob/main/Final%20Code%20Snippet/Capstone_Step1_Data_Preprocessing.ipynb)
+* [Actuarial models in Python](https://github.com/open-source-modelling/insurance_python)
+* [Risk Calculation using Backward Elimination Algorithm in Life Insurance](https://github.com/VaibhavAbhimanyooHiwase/Risk_Calculation_using_Backward_Elimination_Algorithm_in_Life_Insurance)
+
+
+
+
 
 ### Repositories
 
