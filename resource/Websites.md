@@ -22,6 +22,8 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 ### Forums
 
 ### Blogs
+* [Xavier Bourret Sicotte - data science blog](https://xavierbourretsicotte.github.io/Kernel_feature_map.html)
+* []()
 
 
 ## Coding, programming, IT
