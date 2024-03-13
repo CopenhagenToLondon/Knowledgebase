@@ -29,7 +29,8 @@
 
 
 
-
+# Old bachelor projects
+* [KU gamle bachelor projekter på Matøk](https://www.dropbox.com/sh/bb0r3esfv4pgu26/AABDnpk-9-NXfA76yhjiEUq-a?dl=0)
 
 # Don't know?
 * [Philosophy of mathematics?](https://www.physixfan.com/wp-content/files/GEBen.pdf)
