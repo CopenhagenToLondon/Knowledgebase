@@ -26,7 +26,7 @@ A massive thanks to the following.
 
 
 
-These need working on
+**These need working on for quantitative finance**
 1. [Blackrock](https://github.com/blackrock) - dig through their repos and find useful algorithms, blogs and documents
 2. [Jump Trading](https://github.com/jumptrading) - dig through their repos, look through the CTO's repos
 3. [Hudson River Trading](https://github.com/hudson-trading) - look through followers, presumably lots of Hudson employees
