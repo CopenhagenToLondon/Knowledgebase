@@ -65,7 +65,8 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 * [DeltaQuants](http://www.deltaquants.com/)
 * [Pyquantnews](https://pyquantnews.com/)
 * [Quantdare](https://quantdare.com/)
-* [Hudson and Thames](https://hudsonthames.org/)
+* [Hudson and Thames](https://hudsonthames.org/) - recommended
+* [Quantpedia](https://quantpedia.com/) - recommended
 * [Micropredictions repositories and more](https://github.com/microprediction) - recommended for top talent
 * [DefaultRisk.com - encyclopedia](http://www.defaultrisk.com/) - defunct
 * [Maxi-pedia, previously Quant-pedia](http://www.maxi-pedia.com/indexpg) - defunct
