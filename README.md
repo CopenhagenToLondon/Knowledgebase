@@ -34,3 +34,4 @@ These need working on
 5. [AQR Capital Management](https://github.com/aqrcapital)
 6. [D. E. Shaw Research](https://github.com/DEShawResearch)
 7. [D. E. Shaw Group](https://github.com/deshaw)
+8. [Bridgewater associates](https://github.com/Bridgewater) - not much here, try looking through followers
