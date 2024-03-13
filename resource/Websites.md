@@ -69,6 +69,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 * [Micropredictions repositories and more](https://github.com/microprediction) - recommended for top talent
 * [DefaultRisk.com - encyclopedia](http://www.defaultrisk.com/) - defunct
 * [Maxi-pedia, previously Quant-pedia](http://www.maxi-pedia.com/indexpg) - defunct
+* [D.E. Shaw's Library](https://www.deshaw.com/library) - These articles are wonderful
 
 **Personal sites**
 * [Antoine Savine - personal website](https://antoinesavine.com/)
