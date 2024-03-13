@@ -27,14 +27,21 @@
 * [Prediction of Commercial Insurance Payments for Surgical Procedure using DataRobot](https://github.com/rjrahul24/Prediction-of-Insurance-Payments-for-Surgical-Procedures/blob/main/Final%20Code%20Snippet/Capstone_Step1_Data_Preprocessing.ipynb)
 * [Actuarial models in Python](https://github.com/open-source-modelling/insurance_python)
 * [Risk Calculation using Backward Elimination Algorithm in Life Insurance](https://github.com/VaibhavAbhimanyooHiwase/Risk_Calculation_using_Backward_Elimination_Algorithm_in_Life_Insurance)
+* [Life Insurance Risk Prediction](https://github.com/ayush9304/Life-Insurance-Risk-Prediction)
+* [Life Insurance Assessment](https://github.com/priteshmaheshwari/Life-Insurance-Assessment)
+* [Data-driven strategic planning on integrated product and marketing communications](https://github.com/doscsy12/insurance_data_analysis)
 
 
 
 
 
 ### Repositories
+* [GEMAct repository](https://github.com/gpitt71/gemact-code/blob/main/gemact/build/_static/calculators.py)
 
 ### Packages
+* [GEMAct](https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/gemact-a-python-package-for-nonlife-reinsurance-modeling/5A91AD85ADCD4196BF9CA0F2896D779B?utm_campaign=shareaholic&utm_medium=linkedin&utm_source=socialnetwork)
+* [GEMAct 2](https://pypi.org/project/gemact/)
+* [GEMAct 3](https://gem-analytics.github.io/gemact/)
 
 ## Mathematics, pure maths, geometry
 
