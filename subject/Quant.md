@@ -6,31 +6,11 @@ If you can prove or disprove, please feel free to contact me at any time. mark@b
 * Local stock market volatility can be tested for overlapping periods of local volatility
 * Rather than geometric brownian motion, stock markets can be simulated more precisely with a combination of a stochastic volatility process with localized means and a stockprice process made up of a piecewise mean drift, stochastic volatility and jump process.
 
-
 #### Reading lists
 * [Quantnet reading list](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 * [Top 50 quant questions answered](https://www.cqf.com/blog/quant-finance-101?utm_source)
 * [Gene Dan's reading list](https://genedan.com/readings/)
 * [Micropredictions reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md)
-
-# Portfolio management
-
-# Trading and algorithmic trading
-
-# Derivatives, Options, Futures and Swaps
-
-# Credit and Fixed Income
-
-# Risk management
-
-# Econometrics
-
-
-
-
-
-
-
 
 ### Courses
 * [Fitch learning](https://www.fitchlearning.com/)
@@ -81,6 +61,27 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Black arbs blog](https://www.blackarbs.com/blog/)
 * [Deltaquants](http://www.deltaquants.com/)
 * [Past newsletters from PyQuant news](https://pyquantnews.com/the-pyquant-newsletter/past-issues/)
+
+# Portfolio management
+
+# Trading and algorithmic trading
+
+# Derivatives, Options, Futures and Swaps
+
+# Credit and Fixed Income
+
+# Risk management
+
+# Econometrics
+
+
+
+
+
+
+
+
+
   
 **Subject specific**
 * [Portfolio management research](https://www.pm-research.com/)
