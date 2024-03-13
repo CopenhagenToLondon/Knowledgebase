@@ -165,6 +165,8 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 ## Quantitative finance and Algorithmic trading
 
 ### Books
+**Purchase**
+* [An Introduction to the Mathematics of Financial Derivatives - Neftci](https://www.amazon.com/Introduction-Mathematics-Financial-Derivatives/dp/012384682X)
 
 **Free/Online**
 * [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
