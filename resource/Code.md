@@ -64,6 +64,9 @@
 * [Je-suis-TM operations research repository](https://github.com/je-suis-tm/operations-research)
 
 ### Packages
+* [yfinance](https://github.com/ranaroussi/yfinance) - give this man some credit. Free data all the time everywhere.
+* [Riskfolio-Lib](https://riskfolio-lib.readthedocs.io/en/latest/install.html)
+* [
 
 ## Statistics, probability and stochastic processes
 
