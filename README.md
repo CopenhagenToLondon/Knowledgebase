@@ -20,7 +20,7 @@ What do you wish to know something about?
 * [Websites, forums, blogs](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Websites.md)
 
 
-A massive thanks to the following.
+**A massive thanks to the following.**
 [Jonas Hal](https://www.linkedin.com/in/jonas-hal-envisionrisk/), [Anton Vorobets](https://www.linkedin.com/in/antonvorobets/), [David Skovmand](https://www.linkedin.com/in/david-skovmand-24aa0a/), [Peter Cotton](https://www.linkedin.com/in/petercotton/) with his [Microprediction](https://github.com/microprediction), [Grananqvist](https://github.com/grananqvist), [Jackal08](https://github.com/Jackal08), [Snehilms](https://github.com/snehilms), [Je-suis-TM](https://github.com/je-suis-tm), 
 
 
