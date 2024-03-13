@@ -58,12 +58,19 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Past newsletters from PyQuant news](https://pyquantnews.com/the-pyquant-newsletter/past-issues/)
 
 # Portfolio management
+* [Portfolio management research](https://www.pm-research.com/)
+* [Hurst exponent](https://research.macrosynergy.com/detecting-trends-and-mean-reversion-with-the-hurst-exponent/)
 
 # Trading and algorithmic trading
 
 # Derivatives, Options, Futures and Swaps
 
 # Credit and Fixed Income
+**Cox-Ingersoll-Ross Model**
+* [Investopedia](https://www.investopedia.com/terms/c/cox-ingersoll-ross-model.asp)
+
+**Hull-White Model**
+* [Investopedia](https://www.investopedia.com/terms/h/hullwhite-model.asp)
 
 # Risk management
 
@@ -79,14 +86,9 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
   
 **Subject specific**
-* [Portfolio management research](https://www.pm-research.com/)
-* [Hurst exponent](https://research.macrosynergy.com/detecting-trends-and-mean-reversion-with-the-hurst-exponent/)
-  
-**Cox-Ingersoll-Ross Model**
-* [Investopedia](https://www.investopedia.com/terms/c/cox-ingersoll-ross-model.asp)
 
-**Hull-White Model**
-* [Investopedia](https://www.investopedia.com/terms/h/hullwhite-model.asp)
+  
+
 
 #### Data providers
 * [US interest rates history]()
