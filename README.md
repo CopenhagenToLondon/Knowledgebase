@@ -19,7 +19,7 @@ What do you wish to know something about?
 * [Videos, channels, playlists](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Videos.md)
 * [Websites, forums, blogs](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/resource/Websites.md)
 
-**Special Topics  
+**Special Topics**  
 * [Rough Paths and Signature Methods in ML](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/special-topics/Rough-Paths-and-Signature-Methods-in-ML.md)
 * [Sustainable Finance and ESG with AI](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/special-topics/ESG.md)
 - [Carbon Credit Insurance](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/special-topics/Carbon-Insurance.md)
