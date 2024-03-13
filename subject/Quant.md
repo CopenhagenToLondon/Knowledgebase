@@ -64,6 +64,11 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 # Trading and algorithmic trading
 
 # Derivatives, Options, Futures and Swaps
+#### Options pricing
+* Option pricing Youtube Video [[link]](https://youtu.be/eG_aRPy1KVE?si=LYZwbHKxQskfN9IM&t=1)
+* [black-scholes formula and risk-neutral valuation](https://www.youtube.com/watch?v=TnS8kI_KuJc)
+* [Heston model video](https://www.youtube.com/watch?v=PmUIMhMlRkQ)
+* [Simulating heston model with python](https://www.youtube.com/watch?v=o8C6DxZh8dw)
 
 # Credit and Fixed Income
 **Cox-Ingersoll-Ross Model**
@@ -114,11 +119,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 ### Videos
 
-#### Options pricing
-* Option pricing Youtube Video [[link]](https://youtu.be/eG_aRPy1KVE?si=LYZwbHKxQskfN9IM&t=1)
-* [black-scholes formula and risk-neutral valuation](https://www.youtube.com/watch?v=TnS8kI_KuJc)
-* [Heston model video](https://www.youtube.com/watch?v=PmUIMhMlRkQ)
-* [Simulating heston model with python](https://www.youtube.com/watch?v=o8C6DxZh8dw)
+
 
 #### General
 * [Two Sigma](https://www.youtube.com/@twosigma4874)
