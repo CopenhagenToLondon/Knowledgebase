@@ -60,6 +60,19 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 # Portfolio management
 * [Portfolio management research](https://www.pm-research.com/)
 * [Hurst exponent](https://research.macrosynergy.com/detecting-trends-and-mean-reversion-with-the-hurst-exponent/)
+#### Portfolio management
+* [portfolio management](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
+* [Stochastic portfolio theory](https://www.math.columbia.edu/~ik/FernKarSPT.pdf)
+#### simulations
+* [monte carlo simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU)
+#### Time series analysis
+* [time series analysis I](https://www.youtube.com/watch?v=uBeM1FUk4Ps)
+
+* [Monte carlo mean reversion trading strategies](https://github.com/AIM-IT4/MonteCarlo-MeanReversionTrading/tree/main)
+* [Mean variance framework](https://gist.github.com/FilippoGuerrieri26/a5bd497480451b971bbba8a35713b3dc)
+* [Mean variance/markowitz framework](https://github.com/federico-m-lopez/pymarkowitz)
+* [Market neutral portfolio optimization](https://gist.github.com/FilippoGuerrieri26/8086c42db442835234dd61ea6c07decb)
+
 
 # Trading and algorithmic trading
 * [Two Sigma](https://www.youtube.com/@twosigma4874)
@@ -82,7 +95,11 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 #### Swaps, Options and derivatives
 * [Swaps book research](https://github.com/nburgessx/SwapsBook/tree/main/.Research%20Papers/.Reference%20Papers)
-
+**Swaps, Futures, Forwards, Options**
+* [Low latency Interest rate markets: Theory, Pricing and Practice](https://www.amazon.co.uk/dp/9994985949)
+* [SSRN paper about Low latency interest rate markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4344595)
+* [Swapsbook: the hidden gold](https://github.com/nburgessx/SwapsBook)
+* [Derivatives in financial markets with stochastic volatility](https://www.amazon.com/Derivatives-Financial-Markets-Stochastic-Volatility/dp/0521791634)
 
 
 # Credit and Fixed Income
@@ -96,28 +113,22 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [HJM Model for interest rates and credit](https://www.youtube.com/watch?v=D2Jn1VrqjWI)
 * [Fixed income videos](https://www.youtube.com/@infermath8131/videos)
 
+**Credit or Fixed income**  
+* [Handbook of Fixed Income Securities](https://www.saxo.com/dk/handbook-of-fixed-income-securities_fabozzi-frank-j_epub_9780071768474)
+* [Fixed-Income Portfolio Analysis](https://www.saxo.com/dk/fixed-income-portfolio-analytics_paperback_9783319365442)
+* [Quantitative Credit Portfolio management](https://www.saxo.com/dk/quantitative-credit-portfolio-management_arik-ben-dor_hardback_9781118117699)
+* [SSRN Boosting Credit Risk Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4523688)
 
 
 
 # Risk management
+* [value at risk models](https://www.youtube.com/watch?v=92WaNz9mPeY)
 
 # Econometrics
 
 
 
-
-
-
-
-
-
-  
-**Subject specific**
-
-  
-
-
-#### Data providers
+# Data providers
 * [US interest rates history]()
 * [UK interest rates history]()
 * [DK interest rates history]()
@@ -138,46 +149,12 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 
 
-### Videos
-
-
-
-#### General
-
-
-
-#### Risk analysis
-* [value at risk models](https://www.youtube.com/watch?v=92WaNz9mPeY)
-
-#### Portfolio management
-* [portfolio management](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
-* [Stochastic portfolio theory](https://www.math.columbia.edu/~ik/FernKarSPT.pdf)
-
-#### simulations
-* [monte carlo simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU)
-
-#### Time series analysis
-* [time series analysis I](https://www.youtube.com/watch?v=uBeM1FUk4Ps)
-
-
-
 ### books
 **General or very specific topics**
 * [Python for finance cookbook](https://www.amazon.com/Python-Finance-Cookbook-effective-financial/dp/1803243198/ref=mp_s_a_1_1?crid=24BEALJDFH3FF&keywords=python+for+finance+cookbook&qid=1675829540&sprefix=python+for+finan%2Caps%2C83&sr=8-1)
 * [Numerical Methods for Stochastic Control problems in continuous time](https://link.springer.com/book/10.1007/978-1-4613-0007-6)
 * [Quant portfolio management](https://www.amazon.com/Quantitative-Portfolio-Management-Statistical-Arbitrage/dp/1119821320/ref=sr_1_1?hvadid=580712164312&hvdev=c&hvlocphy=9060351&hvnetw=g&hvqmt=e&hvrand=3290476591589424481&hvtargid=kwd-2217682612&hydadcr=21934_13324197&keywords=quantitative+portfolio+management&qid=1693747503&sr=8-1)
 * [Advanced portfolio management](https://www.amazon.com/Advanced-Portfolio-Management-Fundamental-Investors/dp/1119789796/ref=sr_1_1?hvadid=580766013332&hvdev=c&hvlocphy=9060351&hvnetw=g&hvqmt=e&hvrand=5777741675532773764&hvtargid=kwd-1686518474&hydadcr=21909_13324147&keywords=advanced+portfolio+management&qid=1693744487&sr=8-1)
-
-**Credit or Fixed income**  
-* [Handbook of Fixed Income Securities](https://www.saxo.com/dk/handbook-of-fixed-income-securities_fabozzi-frank-j_epub_9780071768474)
-* [Fixed-Income Portfolio Analysis](https://www.saxo.com/dk/fixed-income-portfolio-analytics_paperback_9783319365442)
-* [Quantitative Credit Portfolio management](https://www.saxo.com/dk/quantitative-credit-portfolio-management_arik-ben-dor_hardback_9781118117699)
-* [SSRN Boosting Credit Risk Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4523688)
-**Swaps, Futures, Forwards, Options**
-* [Low latency Interest rate markets: Theory, Pricing and Practice](https://www.amazon.co.uk/dp/9994985949)
-* [SSRN paper about Low latency interest rate markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4344595)
-* [Swapsbook: the hidden gold](https://github.com/nburgessx/SwapsBook)
-* [Derivatives in financial markets with stochastic volatility](https://www.amazon.com/Derivatives-Financial-Markets-Stochastic-Volatility/dp/0521791634)
 
 **Dunno?**
 * [Active portfolio management](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826)
@@ -189,8 +166,6 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 ## Coding and practical work
 
-
-
 ### Github repositories
 * [Various coding](https://github.com/teobeeguan/Python-For-Finance/tree/32f618f052ac76a6cecef2d324b0f141b8f5419b)
 
@@ -198,10 +173,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Hudson Thames](https://hudsonthames.org/)
 * [Time series Momentum](https://gist.github.com/FilippoGuerrieri26/977feb12b34c5591337da46db5d217fa)
 * [Time Value of money repository](https://github.com/genedan/tmval/) documentation written here[link](https://genedan.com/tmval/docs/)
-* [Monte carlo mean reversion trading strategies](https://github.com/AIM-IT4/MonteCarlo-MeanReversionTrading/tree/main)
-* [Mean variance framework](https://gist.github.com/FilippoGuerrieri26/a5bd497480451b971bbba8a35713b3dc)
-* [Mean variance/markowitz framework](https://github.com/federico-m-lopez/pymarkowitz)
-* [Market neutral portfolio optimization](https://gist.github.com/FilippoGuerrieri26/8086c42db442835234dd61ea6c07decb)
+
 * [Option pricing](https://github.com/brooklynrob/Python_Option_Pricing/blob/master/GBS.ipynb)
 * [PyQuant News Option pricing guide](https://pyquantnews.gumroad.com/l/46-page-ultimate-guide-pricing-options-implied-volatility-python-pdf-code-pyquant-news)
 
@@ -210,7 +182,6 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Michael Clark R blog](https://m-clark.github.io/)
 
 ### C++
-
 
 
 # LD Fonde
