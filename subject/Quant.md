@@ -1,5 +1,5 @@
 
-# Quantitative finance
+# General
 
 #### Conjectures
 If you can prove or disprove, please feel free to contact me at any time. mark@brezina.dk
@@ -13,7 +13,24 @@ If you can prove or disprove, please feel free to contact me at any time. mark@b
 * [Gene Dan's reading list](https://genedan.com/readings/)
 * [Micropredictions reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md)
 
-## Theory and subject matter
+# Portfolio management
+
+# Trading and algorithmic trading
+
+# Derivatives, Options, Futures and Swaps
+
+# Credit and Fixed Income
+
+# Risk management
+
+# Econometrics
+
+
+
+
+
+
+
 
 ### Courses
 * [Fitch learning](https://www.fitchlearning.com/)
