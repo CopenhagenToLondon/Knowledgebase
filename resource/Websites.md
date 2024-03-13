@@ -87,6 +87,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 * [WST courses](https://wallst.training/training/self-study-courses/)
 * [Worldquant university](https://www.wqu.edu/)
 * [Time series analysis and forecasting](https://www.forecaster.guru/time-series-analytics-and-forecasting.html)
+* [Lectures on Numerical Methods, Mathematical Finance and Computational Finance](https://christian-fries.de/finmath/lecture/)
 
 ### Forums
 * [Wilmott - forum](https://wilmott.com/) - recommended for top talent
