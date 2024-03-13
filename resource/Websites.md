@@ -73,6 +73,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 **Personal sites**
 * [Antoine Savine - personal website](https://antoinesavine.com/)
 * [Andrew Lesniewski - personal website](https://lesniewski.us/presentations.html)
+* [Jean-Phillippe Bouchard's Archive](https://bouchaud.substack.com/)
 
 **Courses**
 * [Fitch learning](https://www.fitchlearning.com/)
