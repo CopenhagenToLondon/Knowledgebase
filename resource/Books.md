@@ -157,6 +157,7 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 ## Mathematics, pure maths, geometry
 
 ### Books
+* [Understanding Analysis (Undergraduate Texts in Mathematics)](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics/dp/1493927116)
 
 ### notes 
 
@@ -166,7 +167,9 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 
 ### Books
 **Purchase**
-* [An Introduction to the Mathematics of Financial Derivatives - Neftci](https://www.amazon.com/Introduction-Mathematics-Financial-Derivatives/dp/012384682X)
+* [An Introduction to the Mathematics of Financial Derivatives - Neftci](https://www.amazon.com/Introduction-Mathematics-Financial-Derivatives/dp/012384682X) - Recommended by Jonas Hal, David Skovmand and Anton Vorobets on different occasions.
+* [](https://www.amazon.com/dp/3030377393/) - Especially recommended by Mark, though code has been outdated by now.
+* [Mathematical Portfolio Theory and Analysis (Compact Textbooks in Mathematics)](https://www.amazon.com/dp/981198543X)
 
 **Free/Online**
 * [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
