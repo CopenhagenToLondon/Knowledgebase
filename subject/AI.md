@@ -5,6 +5,7 @@
 https://arxiv.org/abs/2303.01372 - high-dimensional analysis of double descent for linear regression with random projections
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770557 - A kernel Based Reording algorithm
 
+[Hopular: Modern Hopfield Networks for Tabular Data](https://ml-jku.github.io/hopular/) - One of the best alternatives to gradient boosted trees on relatively small, tabular datasets - Much better than Transformers in this case. [GitHub Repo](https://github.com/ml-jku/hopular)
 
 ### Websites
 * Course by Jeremy Howard [Course.fast.ai](https://course.fast.ai/)
