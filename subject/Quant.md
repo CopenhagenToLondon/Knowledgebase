@@ -100,7 +100,8 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [SSRN paper about Low latency interest rate markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4344595)
 * [Swapsbook: the hidden gold](https://github.com/nburgessx/SwapsBook)
 * [Derivatives in financial markets with stochastic volatility](https://www.amazon.com/Derivatives-Financial-Markets-Stochastic-Volatility/dp/0521791634)
-
+* [Option pricing](https://github.com/brooklynrob/Python_Option_Pricing/blob/master/GBS.ipynb)
+* [PyQuant News Option pricing guide](https://pyquantnews.gumroad.com/l/46-page-ultimate-guide-pricing-options-implied-volatility-python-pdf-code-pyquant-news)
 
 # Credit and Fixed Income
 **Cox-Ingersoll-Ross Model**
@@ -174,8 +175,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Time series Momentum](https://gist.github.com/FilippoGuerrieri26/977feb12b34c5591337da46db5d217fa)
 * [Time Value of money repository](https://github.com/genedan/tmval/) documentation written here[link](https://genedan.com/tmval/docs/)
 
-* [Option pricing](https://github.com/brooklynrob/Python_Option_Pricing/blob/master/GBS.ipynb)
-* [PyQuant News Option pricing guide](https://pyquantnews.gumroad.com/l/46-page-ultimate-guide-pricing-options-implied-volatility-python-pdf-code-pyquant-news)
+
 
 
 ### R
