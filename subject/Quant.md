@@ -180,3 +180,33 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 ### C++
 
+
+
+# LD Fonde
+**Senioranalytiker til kvantitativ analyse**
+[Senioranalytiker til kvantitativ porteføljekonstruktion og strategisk aktivallokering](https://www.jobindex.dk/jobannonce/504201/senioranalytiker-til-kvantitativ-portefoeljekonstruktion-og-strategisk-aktivallokering)
+* [Allokeringsmodeller og systemer]()
+* [Risikopræmiestrategier]()
+* [langsigtede afkastforventninger]()
+* [Kvantitativ tilgange til porteføljekonstruktion]()
+* [Porteføljekonstruktion]() + værktøjer
+* [Strategisk allokering]() + værktøjer
+* [Strategisk valutaafdækning]()
+* [Derivatstrategier]()
+* [afkastforventningsmodeller]()
+* [afkastrisikomodeller]()
+
+**Risiko- og performanceanalytiker**
+[Risiko- og performanceanalytiker](https://www.jobindex.dk/jobannonce/505082/risiko-og-performanceanalytiker)
+* [Implementering af nyt risiko- og performancesystem]() - factset, du skal kunne bruge systemet.
+* op- og udbygning af risiko- og performancerapportering. Dette er som forventet simpelt nok.
+* analyser af performance og risiko. Dette er som forventet simpelt nok.
+* Identifikation af risikopræmier på unoterede investeringer. Dette kræver undersøgelse.
+* Kvantitative indberetninger til finanstilsynet mht. Solvency II. Dette er også som forventet.
+* Håndtering af data, herunder ESG, til årsrapport inkl. Rekonciliering. ...
+* Overvågning af investeringsrammer. ...
+* Optimering af drift og processer. ...
+
+
+
+
