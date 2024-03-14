@@ -35,6 +35,7 @@
 # Don't know?
 * [Philosophy of mathematics?](https://www.physixfan.com/wp-content/files/GEBen.pdf)
 * [dunno](https://github.com/microsoft/qlib)
+* [Seeking alpha](https://seekingalpha.com/)
 
 ## Various useful and interesting websites
 * [Apple, the company, repositories](https://github.com/apple)
