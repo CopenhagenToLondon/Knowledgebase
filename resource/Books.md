@@ -177,6 +177,7 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 
 **Free/Online**
 * [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
+* [Time series analysis with R](https://mybiostats.files.wordpress.com/2015/03/time-series-analysis-with-applications-in-r-cryer-and-chan.pdf)
 
 ### notes 
 
