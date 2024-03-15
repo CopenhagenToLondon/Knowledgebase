@@ -178,7 +178,8 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 * [Monte Carlo Methods in Financial Engineering](https://www.amazon.com/Financial-Engineering-Stochastic-Modelling-Probability/dp/1441918221/)
 * [Frequently Asked Questions in Quantitative Finance By Paul Wilmott](https://www.amazon.com/gp/product/0470748753) - Strongly recommended by near everybody in quant finance Mark has spoken with
 * [Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition](https://www.amazon.com/gp/product/0071818774) - coding jesus recommended
-
+* [Technical Analysis: Is Mostly Bullshit](https://www.amazon.com/gp/product/1651868573)
+* [Advances in Active Portfolio Management: New Developments in Quantitative Investing](https://www.amazon.com/gp/product/1260453715)
 **Free/Online**
 * [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
 * [Time series analysis with R](https://mybiostats.files.wordpress.com/2015/03/time-series-analysis-with-applications-in-r-cryer-and-chan.pdf)
