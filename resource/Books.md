@@ -136,6 +136,7 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 **Python**
 * [Learning Python: Powerful Object-Oriented Programming](https://www.amazon.com/gp/product/0596158068?tag=quantfinaneng-20)
 * [Python Cookbook](https://www.amazon.com/gp/product/0596007973?tag=quantfinaneng-20)
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/gp/product/1491957662)
 
 **R**
 
@@ -158,6 +159,7 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 
 ### Books
 * [Understanding Analysis (Undergraduate Texts in Mathematics)](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics/dp/1493927116)
+* [Introduction to Linear Algebra (Gilbert Strang)](https://www.amazon.com/gp/product/0980232775/)
 
 ### notes 
 
@@ -174,6 +176,8 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 * [Stochastic Calculus for Finance I: The Binomial Asset Pricing Model by Steven Shreve](https://www.amazon.com/Stochastic-Calculus-Finance-Binomial-2004-04-21/dp/B01NH05WS9)
 * [Stochastic Calculus for Finance II: Continuous-Time Models](https://www.amazon.com/Stochastic-Calculus-Finance-II-Continuous-Time/dp/144192311X)
 * [Monte Carlo Methods in Financial Engineering](https://www.amazon.com/Financial-Engineering-Stochastic-Modelling-Probability/dp/1441918221/)
+* [Frequently Asked Questions in Quantitative Finance By Paul Wilmott](https://www.amazon.com/gp/product/0470748753) - Strongly recommended by near everybody in quant finance Mark has spoken with
+* [Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition](https://www.amazon.com/gp/product/0071818774) - coding jesus recommended
 
 **Free/Online**
 * [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
