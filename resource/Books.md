@@ -147,11 +147,29 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 ### Slides
 
 ## Insurance and risk management
+* [Annals of Actuarial Science - Cambridge](https://www.cambridge.org/core/journals/annals-of-actuarial-science)
+* [Cambridge book series](https://www.cambridge.org/core/series/international-series-on-actuarial-science/CCA8AA0AB93B021C3EA0EF1AD9663D22)
 
 ### Books
+**Cambridge series**
+* [Nonlife Actuarial models](https://www.cambridge.org/highereducation/books/nonlife-actuarial-models/26577128CDCB4C4B898131F5FEBDD165#overview)
+* [Quantitative Enterprise Risk Management](https://www.cambridge.org/highereducation/books/quantitative-enterprise-risk-management/C861F6558943791EBF7DC55AD9B554B5#overview)
+* [Actuarial Mathematics for Life Contingent Risks](https://www.cambridge.org/highereducation/books/actuarial-mathematics-for-life-contingent-risks/281DA4E8D523A6B23280ADC3D165AFDA#overview)
+* [Modelling Mortality with Actuarial Applications](https://www.cambridge.org/core/books/modelling-mortality-with-actuarial-applications/9DE5EE615D4E658F28BC557561F5D9CF)
+* [Claims Reserving in General Insurance](https://www.cambridge.org/core/books/claims-reserving-in-general-insurance/7F1E867BC5FBFF2B5DC2156E9AF6443E)
+* [Financial Enterprise Risk Management](https://www.cambridge.org/core/books/financial-enterprise-risk-management/44B188F39F61A714C2788BACFBC6F931)
+* [Insurance Risk and Ruin](https://www.cambridge.org/core/books/insurance-risk-and-ruin/AF53364CCCAB89FE1027DEF46311D98C)
+* [Predictive Modeling Applications in Actuarial Science](https://www.cambridge.org/core/books/predictive-modeling-applications-in-actuarial-science/E9E4A755148A20B0B2922AEF24A5E55F)
+* [Computation and Modelling in Insurance and Finance](https://www.cambridge.org/core/books/computation-and-modelling-in-insurance-and-finance/285CC67E533068A80FC119E9750A055D)
+* [Risk Modelling in General Insurance](https://www.cambridge.org/core/books/risk-modelling-in-general-insurance/8F84A1CB4E747DCA86F51F045A66FC1F)
+* [Generalized Linear Models for Insurance Data](https://www.cambridge.org/core/books/generalized-linear-models-for-insurance-data/851EB0898C6C7DB4FEA2D542371145C2)
+* [Regression Modeling with Actuarial and Financial Applications](https://www.cambridge.org/core/books/regression-modeling-with-actuarial-and-financial-applications/25C768AB6FFE4FAD5F2AD725D8643C18)
+* [Market-Valuation Methods in Life and Pension Insurance](https://www.cambridge.org/core/books/marketvaluation-methods-in-life-and-pension-insurance/FB8495DE4CFA3835F41E2076C91F20C2)
+
 
 ### notes 
 * [Introduction to actuarial mathematics - 2023 - Lecture notes for Forsikring og jura](https://noter.math.ku.dk/Intro_act_math.pdf)
+* [Pricing and hedging of longevity basis risk through securitisation](https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/abs/pricing-and-hedging-of-longevity-basis-risk-through-securitisation/D1B6284FDD7DAC3BEE9A1FA44F8035B2)
 
 ### Slides
 
