@@ -209,6 +209,13 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 ## Statistics, probability and stochastic processes
 
 ### Books
+* [Advanced Linear Modeling]()
+* [Convex and Stochastic Optimization]()
+* [Distributions and Operators]()
+* [Statistical Analysis with R]()
+* [Mean Field Games]()
+* [Basic Mathematical Statistics]()
+* [Introduction to likelihood-based estimation and inference]()
 
 ### notes 
 
