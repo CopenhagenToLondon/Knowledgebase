@@ -198,6 +198,10 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 * [Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition](https://www.amazon.com/gp/product/0071818774) - coding jesus recommended
 * [Technical Analysis: Is Mostly Bullshit](https://www.amazon.com/gp/product/1651868573)
 * [Advances in Active Portfolio Management: New Developments in Quantitative Investing](https://www.amazon.com/gp/product/1260453715)
+
+**Recommended by SVP at HSBC**
+* [Fixed Income Markets and Their Derivatives](https://www.saxo.com/dk/fixed-income-markets-and-their-derivatives_suresh-sundaresan_hardback_9780123704719)
+
 **Free/Online**
 * [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
 * [Time series analysis with R](https://mybiostats.files.wordpress.com/2015/03/time-series-analysis-with-applications-in-r-cryer-and-chan.pdf)
