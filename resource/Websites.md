@@ -77,7 +77,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 * [Andrew Lesniewski - personal website](https://lesniewski.us/presentations.html)
 * [Jean-Phillippe Bouchard's Archive](https://bouchaud.substack.com/)
 * [Robert Andrew Martin - Reasonable Deviations](https://reasonabledeviations.com/Notes/)
-* []()
+* [Quantgirl - Dialid Santiago](https://github.com/quantgirluk)
 
 **Courses**
 * [Fitch learning](https://www.fitchlearning.com/)
