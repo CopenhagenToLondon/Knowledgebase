@@ -53,6 +53,7 @@ The selection of online courses for ML for trading is very poor in my opinion.  
 * [Society of Actuaries](https://www.soa.org/)
 * [American society of Pension Professionals and Actuaries](https://www.asppa.org/)
 
+* [Kasa AI](https://github.com/kasaai)
 ### Forums
 
 ### Blogs
