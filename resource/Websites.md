@@ -18,7 +18,8 @@ The selection of online courses for ML for trading is very poor in my opinion.  
   * Coursera, NYU - Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/reinforcement-learning-in-finance)
   * Coursera, NYU - Overview of Advanced Methods for Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
   
-
+* [FinML course](https://finmlcourse.thinkific.com/courses/ML)
+* [Quant insider courses](https://topmate.io/quant_insider)
 ### Forums
 
 ### Blogs
