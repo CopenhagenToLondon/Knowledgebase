@@ -30,6 +30,14 @@
 * [Life Insurance Risk Prediction](https://github.com/ayush9304/Life-Insurance-Risk-Prediction)
 * [Life Insurance Assessment](https://github.com/priteshmaheshwari/Life-Insurance-Assessment)
 * [Data-driven strategic planning on integrated product and marketing communications](https://github.com/doscsy12/insurance_data_analysis)
+
+### Repositories
+* [GEMAct repository](https://github.com/gpitt71/gemact-code/blob/main/gemact/build/_static/calculators.py)
+
+### Packages
+* [GEMAct](https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/gemact-a-python-package-for-nonlife-reinsurance-modeling/5A91AD85ADCD4196BF9CA0F2896D779B?utm_campaign=shareaholic&utm_medium=linkedin&utm_source=socialnetwork)
+* [GEMAct 2](https://pypi.org/project/gemact/)
+* [GEMAct 3](https://gem-analytics.github.io/gemact/)
 * [Keep track of dates](https://cran.r-project.org/web/packages/mondate/index.html)
 * [Actuar package](https://cran.r-project.org/web/packages/actuar/index.html)
 * [Loss dev package](https://lossdev.r-forge.r-project.org/)
@@ -40,14 +48,6 @@
 * [Slides for R in insurance](https://www.slideshare.net/dataspora/an-interactive-introduction-to-r-programming-language-for-statistics)
 
 
-
-### Repositories
-* [GEMAct repository](https://github.com/gpitt71/gemact-code/blob/main/gemact/build/_static/calculators.py)
-
-### Packages
-* [GEMAct](https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/gemact-a-python-package-for-nonlife-reinsurance-modeling/5A91AD85ADCD4196BF9CA0F2896D779B?utm_campaign=shareaholic&utm_medium=linkedin&utm_source=socialnetwork)
-* [GEMAct 2](https://pypi.org/project/gemact/)
-* [GEMAct 3](https://gem-analytics.github.io/gemact/)
 
 ## Mathematics, pure maths, geometry
 
