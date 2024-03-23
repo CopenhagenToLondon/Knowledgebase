@@ -198,7 +198,8 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 * [Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition](https://www.amazon.com/gp/product/0071818774) - coding jesus recommended
 * [Technical Analysis: Is Mostly Bullshit](https://www.amazon.com/gp/product/1651868573)
 * [Advances in Active Portfolio Management: New Developments in Quantitative Investing](https://www.amazon.com/gp/product/1260453715)
-
+* [The Volatility Surface](https://www.amazon.com/Volatility-Surface-Practitioners-Guide/dp/0471792519) - How to create a volatility surface with different volatility models (Herston, SVJ, SABR) and use it for pricing options.
+* [Option Volatility & Pricing by Sheldon Natenberg](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774) - How to price options, manage risk, and trade advanced options strategies.
 **Recommended by SVP at HSBC**
 * [Fixed Income Markets and Their Derivatives](https://www.saxo.com/dk/fixed-income-markets-and-their-derivatives_suresh-sundaresan_hardback_9780123704719)
 
