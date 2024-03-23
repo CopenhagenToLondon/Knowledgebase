@@ -30,8 +30,14 @@
 * [Life Insurance Risk Prediction](https://github.com/ayush9304/Life-Insurance-Risk-Prediction)
 * [Life Insurance Assessment](https://github.com/priteshmaheshwari/Life-Insurance-Assessment)
 * [Data-driven strategic planning on integrated product and marketing communications](https://github.com/doscsy12/insurance_data_analysis)
-
-
+* [Keep track of dates](https://cran.r-project.org/web/packages/mondate/index.html)
+* [Actuar package](https://cran.r-project.org/web/packages/actuar/index.html)
+* [Loss dev package](https://lossdev.r-forge.r-project.org/)
+* [Chain lader R package](https://cran.rstudio.com/web/packages/ChainLadder/vignettes/ChainLadder.html)
+* [CPLM R package](https://cran.r-project.org/web/packages/cplm/index.html)
+* [Life contingencies in R](https://cran.r-project.org/web/packages/lifecontingencies/index.html)
+* [Introduction to R for actuaries](https://toolkit.pbworks.com/f/R%20Examples%20for%20Actuaries%20v0.1-1.pdf)
+* [Slides for R in insurance](https://www.slideshare.net/dataspora/an-interactive-introduction-to-r-programming-language-for-statistics)
 
 
 
