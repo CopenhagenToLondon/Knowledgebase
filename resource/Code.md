@@ -22,6 +22,9 @@
 ### Packages
 
 ## Insurance and risk management
+* [Regression Modeling with Actuarial Applications](https://instruction.bus.wisc.edu/jfrees/jfreesbooks/Regression%20Modeling/BookWebDec2010/statSoftware.html)
+* [Longitudinal and Panel Data: Analysis and Applications for the Social Sciences ](https://instruction.bus.wisc.edu/jfrees/jfreesbooks/Longitudinal%20and%20Panel%20Data/Book/PDataBook.htm)
+* [Tutorial: Multivariate Regression Using Copulas](https://sites.google.com/a/wisc.edu/jed-frees/tutorial-multivariate-regression-using-copulas)
 
 ### Code
 * [Prediction of Commercial Insurance Payments for Surgical Procedure using DataRobot](https://github.com/rjrahul24/Prediction-of-Insurance-Payments-for-Surgical-Procedures/blob/main/Final%20Code%20Snippet/Capstone_Step1_Data_Preprocessing.ipynb)
