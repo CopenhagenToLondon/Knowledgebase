@@ -27,7 +27,9 @@
 
 ### C++
 
-
+# pinescripting
+* [introduction](https://www.tradingview.com/pine-script-docs/en/v5/primer/First_steps.html#introduction)
+* [interface](https://www.tradingview.com/chart/qHV1Vwty/)
 
 # Old bachelor projects
 * [KU gamle bachelor projekter på Matøk](https://www.dropbox.com/sh/bb0r3esfv4pgu26/AABDnpk-9-NXfA76yhjiEUq-a?dl=0)
