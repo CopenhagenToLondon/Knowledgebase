@@ -165,6 +165,11 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 * [Principles of Economics](https://www.amazon.com/Principles-Economics-N-Gregory-Mankiw/dp/0538453052/ref=sr_1_1?ie=UTF8&qid=1414362560&sr=8-1&keywords=mankiw+principles+of+economics)
 * [Accounting](https://www.amazon.com/Accounting-9th-Edition-Charles-Horngren/dp/0132569051/ref=sr_1_11?ie=UTF8&qid=1414362590&sr=8-11&keywords=accounting)
 
+
+
+
+
+
 ## Coding and practical work
 
 ### Github repositories
