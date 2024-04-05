@@ -224,18 +224,6 @@ Buy if stock is going up and sell at a certain threshold
 temporal nature of high low of asset prices. The returns to the mean.
 The challenge is to identify when this happens.
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
 **Trend following**
 following trends in the stock price movement.
 Range breakouts, volume profile skews, volatility jumps. 
@@ -309,6 +297,45 @@ Where:
 - Short Entry Condition: A short (sell) signal is triggered when the spread Z-Score falls below the short entry threshold, suggesting overvaluation.
 
 These conditions are based on the premise that extreme deviations from the mean (as indicated by the Z-Score) are likely to revert to the mean over time, presenting opportunities for strategic entry and exit points.
+
+**Leverage sentiment**
+█ Strategy, How It Works: Detailed Explanation
+
+🔶 Data Collection and Ratio Calculation
+
+Firstly, the strategy acquires data on leveraged long (**`priceLongs`**) and short positions (**`priceShorts`**) for Bitcoin. The primary metric of interest is the ratio of long positions relative to the total of both long and short positions:
+
+BTC Ratio=priceLongs / (priceLongs+priceShorts)
+
+This ratio reflects the prevailing market sentiment, where values closer to 1 indicate a bullish sentiment (dominance of long positions), and values closer to 0 suggest bearish sentiment (prevalence of short positions).
+
+🔶 Z-Score Calculation
+
+The Z-Score is then calculated to standardize the BTC Ratio, allowing for comparison across different time periods. The Z-Score formula is:
+
+Z = (X - μ) / σ
+
+Where:
+
+- X is the current BTC Ratio.
+- μ is the mean of the BTC Ratio over a specified period (**`zScoreCalculationPeriod`**).
+- σ is the standard deviation of the BTC Ratio over the same period.
+
+The Z-Score helps quantify how far the current sentiment deviates from the historical norm, with high positive values indicating extreme bullish sentiment and high negative values signaling extreme bearish sentiment.
+
+🔶 Signal Generation: Trading signals are derived from the Z-Score as follows:
+
+Long Entry Signal: Occurs when the BTC Ratio Z-Score crosses above the thresholdLongEntry, suggesting bullish sentiment.
+- Condition for Long Entry = BTC Ratio Z-Score > thresholdLongEntry
+
+Long Exit/Short Entry Signal: Triggered when the BTC Ratio Z-Score drops below thresholdLongExit for exiting longs or below thresholdShortEntry for entering shorts, indicating a shift to bearish sentiment.
+- Condition for Long Exit/Short Entry = BTC Ratio Z-Score < thresholdLongExit or BTC Ratio Z-Score < thresholdShortEntry
+
+Short Exit Signal: Happens when the BTC Ratio Z-Score exceeds the thresholdShortExit, hinting at reducing bearish sentiment and a potential switch to bullish conditions.
+- Condition for Short Exit = BTC Ratio Z-Score > thresholdShortExit
+
+🔶Implementation and Visualization: The strategy applies these conditions for trade management, aligning with the selected trade direction. It visualizes the BTC Ratio Z-Score with horizontal lines at entry and exit thresholds, illustrating the current sentiment against historical norms.
+
 
 
 
