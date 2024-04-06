@@ -217,7 +217,7 @@ Thanks to The legendary TM [je suis TM](https://github.com/je-suis-tm) and [Igor
 
 # strategies
 
-Spectral methods, finite difference methods, nonhomogenous gaussian regression
+Spectral methods, finite difference methods, nonhomogenous gaussian regression, galerkin methods
 
 **Momentum**
 Buy if stock is going up and sell at a certain threshold
