@@ -1,3 +1,6 @@
+https://pyquantnews.com/46-books-quant-finance-algo-trading-market-data/
+
+
 ## AI/Machine learning
 
 ### Books
