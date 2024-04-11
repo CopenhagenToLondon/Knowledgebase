@@ -203,11 +203,29 @@ I have removed authors on the below papers, I mean no disrespect, but the titles
 **Recommended by SVP at HSBC**
 * [Fixed Income Markets and Their Derivatives](https://www.saxo.com/dk/fixed-income-markets-and-their-derivatives_suresh-sundaresan_hardback_9780123704719)
 
+**Recommended by Jesper Andreasen**
+* [Ingersoll & Merton's book](https://www.amazon.com/Theory-Financial-Decision-Jonathan-Ingersoll/dp/0847673596) - read genuinely
+* [HJM]() - read genuinely
+* [Jamshidian]() - read genuinely
+* [CIR A&B]() - read genuinely
+* [Dupire](https://www.amazon.com/Monte-Methodologies-Applications-Pricing-Management/dp/189933291X) - read genuinely
+* [Numerical recipes]()
+* [Mitchell & Griffith's book on finite difference](https://www.researchgate.net/publication/48485285_The_Finite_Difference_Method_in_Partial_Differential_Equations)
+* [Hull's book early version](https://www.amazon.com/Options-Futures-Other-Derivatives-6th/dp/0131499084/)
+* [Wilmott et al first green book]()
+* [Baxter & Rennie](https://www.amazon.com/Financial-Calculus-Introduction-Derivative-Pricing/dp/0521552893/)
+* [Jackel](https://www.amazon.com/Monte-Carlo-Methods-Finance-Jaeckel/dp/047149741X)
+* [Randall & Tavella](https://www.amazon.com/Pricing-Financial-Instruments-Finite-Difference/dp/0471197602)
+* [Antoine Savine & Jesper Andreasen](https://antoinesavine.com/books-by-antoine-savine/)
+
 **Free/Online**
 * [Copula Based Portfolio Optimization](https://www.diva-portal.org/smash/get/diva2:1588992/FULLTEXT01.pdf)
 * [Time series analysis with R](https://mybiostats.files.wordpress.com/2015/03/time-series-analysis-with-applications-in-r-cryer-and-chan.pdf)
+* [Stochastic volatility modeling](https://www.lorenzobergomi.com/contents-sample-chapters)
 
 ### notes 
+
+*[interview primer](https://github.com/dwcoder/QuantitativePrimer/blob/master/src/QuantitativePrimer.pdf)
 
 ### Slides
 
