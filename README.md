@@ -46,3 +46,4 @@ What do you wish to know something about?
 
 
 https://github.com/georgezouq/awesome-ai-in-finance
+https://www.quora.com/What-is-the-method-used-by-quantitative-hedge-funds-such-as-Renaissance-Technologies-to-generate-profits
