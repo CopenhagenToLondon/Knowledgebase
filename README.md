@@ -43,3 +43,6 @@ What do you wish to know something about?
 9. [Jane Street](https://github.com/janestreet) - mostly OCaml, but maybe some useful algorithms
 10. [Goldman Sachs](https://github.com/goldmansachs) - these guys don't have anything interesting, dig through their followers.
 11. https://www.acquired.fm/episodes/renaissance-technologies
+
+
+https://github.com/georgezouq/awesome-ai-in-finance
