@@ -57,6 +57,8 @@
 
 ## Quantitative finance and Algorithmic trading
 
+* [Oxford](https://www.maths.ox.ac.uk/events/public-lectures-events)
+
 ### Videos
 **Good for newcomers**
 * [The Trillion Dollar Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M)
