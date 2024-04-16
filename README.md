@@ -67,5 +67,6 @@ https://github.com/firmai/financial-machine-learning
 
 https://github.com/huseinzol05/Stock-Prediction-Models
 
+https://github.com/pradeephyd/shashankvemuri-Finance
 
 
