@@ -48,6 +48,9 @@ What do you wish to know something about?
 https://github.com/georgezouq/awesome-ai-in-finance
 
 https://www.quora.com/What-is-the-method-used-by-quantitative-hedge-funds-such-as-Renaissance-Technologies-to-generate-profits
+https://www.linkedin.com/feed/update/urn:li:activity:7181549889821016066/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7181549889821016066%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+https://quantecon.org/
 
 https://github.com/ryanrussell/Lean/tree/master
 
@@ -69,6 +72,19 @@ https://github.com/huseinzol05/Stock-Prediction-Models
 
 https://github.com/pradeephyd/shashankvemuri-Finance
 
+https://github.com/LastAncientOne/Deep_Learning_Machine_Learning_Stock
+https://github.com/robcarver17/systematictradingexamples
+https://github.com/robcarver17/pysystemtrade_examples
+
+https://github.com/LongOnly/Quantitative-Notebooks
+https://github.com/MarcosCarreira/DermanPapers
+
 https://github.com/rsvp/fecon235
+https://github.com/rsvp/Kalman-and-Bayesian-Filters-in-Python
+https://github.com/dedwards25/Python_Option_Pricing
+
+https://github.com/antontarasenko/awesome-economics
+
+https://github.com/Finance-Hub/FinanceHub
 
 
