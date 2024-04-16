@@ -69,4 +69,6 @@ https://github.com/huseinzol05/Stock-Prediction-Models
 
 https://github.com/pradeephyd/shashankvemuri-Finance
 
+https://github.com/rsvp/fecon235
+
 
