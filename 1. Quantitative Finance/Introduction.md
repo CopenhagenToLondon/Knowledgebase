@@ -29,6 +29,7 @@ In quantitative finance trading, refers to the practice of buying or selling an 
 **Intraday = Inside one day.**\
 **Bid = What price is being bid for a buy or sell order.**\
 **Ask = what price is being asked for a buy or sell order.**\
+**Bid-ask spread = The distance between the Bid and Ask on orders**
 
 
 ## HFT - High frequency trading
@@ -44,7 +45,6 @@ But High frequency trading isn't exclusively market making.
 
 ### Concepts
 
-Bid-ask spread
 
 
 ### Books, Notes, Websites
