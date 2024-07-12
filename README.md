@@ -8,6 +8,11 @@ I will be starting with quantitative finance, specifically walking through work
 and examples on quantitative portfolio management, as this has recently become 
 desired by others.
 
+## If you want to contribute
+
+If you've found yourself wanting to contribute either with some content or with
+a donation. Please feel free to reach out to me on mark@brezina.dk or [linkedin.](https://www.linkedin.com/in/markdbrezina/)
+
 
 **Acknowledgment**
 
