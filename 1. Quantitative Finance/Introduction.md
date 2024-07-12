@@ -49,7 +49,7 @@ But High frequency trading isn't exclusively market making.
 ### Concepts
 Here is a list of trading strategies for High frequency trading\
 
-**[Marketmaking](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md)**\
+**Market making** - [Marketmaking](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md)\
 This strategy utilizes the distance in a bid-ask spread, along with the opportunity to obtain brokerage fee.
 As the name indicates, this will be a strategy performed in running markets. 
 
