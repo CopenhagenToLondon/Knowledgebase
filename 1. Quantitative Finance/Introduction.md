@@ -34,8 +34,7 @@ But High frequency trading isn't exclusively market making.
 
 * To perform high frequency trading successfully, one has to be subject to negligable transaction fees.
 * To perform high frequency trading successfully, one has to be able to obtain live or intraday data at less than 2 hour intervals.
-
-
+* To perform high frequency trading successfully, one has to be able to perform trading operations on intraday time intervals.
 
 ### Concepts
 
