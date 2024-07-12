@@ -25,16 +25,44 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 * Pricing
 
 ## Insurance
+* Pricing
+* Reserving
+* Life
+* Non-Life/General/causality
 
 ## AI and Machine Learning
+* AI
+* Machine Learning
+* Deep learning
 
 ## Coding and IT
+* Databases and SQL
+* Windows Apps and Visual Basic
+* Python and R
+* C++ and C#
+* Java and others
+* APIs, connections and applications
+* Automation, .bat, .cmd etc.
 
 ## Abstract Mathematics
+* Geometry
+* Algebra
+* Number theory
 
 ## Probability and statistics
+* Basic Probability
+* Stochastic processes
+* Stochastic calculus
+* Basic Statistics
+* Mathematical Statistics
+* Time series
+* Signal analysis
+* etc.
 
 ## Applied Mathematics
+* Financial mathematics
+* Optimization (linear, convex, stochastic)
+* Advanced Financial mathematics
 
 
 * [AI and Machine learning](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/AI.md)
