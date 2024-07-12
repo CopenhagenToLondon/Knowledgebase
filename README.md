@@ -1,14 +1,17 @@
 # There will be significant changes in the coming months
 
 
-**Authors and contributors**
 
+
+
+
+**Acknowledgment**
 Author: [Mark Brezina](https://github.com/CopenhagenToLondon)
 
-Contributor: [Aksel Fristrup](https://github.com/afristrup)
+Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
-What do you wish to know something about?
 
+# Subject introduction pages
 **subject**
 * [AI and Machine learning](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/AI.md)
 * [Coding and IT](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Code.md)
