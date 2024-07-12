@@ -23,6 +23,8 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 # Trading
 
+In quantitative finance trading, refers to the practice of buying or selling an asset, such as Stocks, Bonds, Options, Futures, Currency(crypto or otherwise) and more.
+
 ## HFT - High frequency trading
 
 ### Concepts
