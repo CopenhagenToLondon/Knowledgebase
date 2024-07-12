@@ -1,3 +1,6 @@
+**There will be significant changes in the coming months**
+
+
 **Authors and contributors**
 
 Author: [Mark Brezina](https://github.com/CopenhagenToLondon)
