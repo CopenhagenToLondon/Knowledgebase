@@ -113,6 +113,7 @@ These strategies focus on ...
 
 **Sentiment trading**\
 These strategies focus on the occasions where the market sentiment changes- or affects the momentum of an asset.
+![Sentiment trading](https://vladimirribakov.com/wp-content/uploads/sentiment-trading.jpg)
 
 **Events**\
 These strategies focus on the occasions where unique events changes the price- or affects the momentum of an asset.
