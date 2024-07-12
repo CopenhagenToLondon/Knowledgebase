@@ -25,12 +25,15 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 In quantitative finance trading, refers to the practice of buying or selling an asset, such as Stocks, Bonds, Options, Futures, Currency(crypto or otherwise) and more.
 
-**Interday = between days.**\
+**Interday = Between days.**\
 **Intraday = Inside one day.**\
 **Bid = What price is being bid for a buy or sell order.**\
-**Ask = what price is being asked for a buy or sell order.**\
-**Bid-ask spread = The distance between the Bid and Ask on orders**
-**Brokerage fee**
+**Ask = What price is being asked for a buy or sell order.**\
+**Bid-ask spread = The distance between the Bid and Ask on orders.**\
+**Brokerage fee = The fee paid to a brokerage upon performing a trade.**\
+**signal = An indication in the market to buy or sell an asset.**\
+**long = Refers to buying. This also mean buying with borrowed money.**\
+**short = Refers to selling. This also means selling borrowed assets.**
 
 
 ## HFT - High frequency trading
