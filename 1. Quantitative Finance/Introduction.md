@@ -72,7 +72,7 @@ https://tradinginvestment.weebly.com/blog/-dont-confuse-statistical-arbitrage-wi
 
 
 
-## LFT - Low frequency trading
+## LFT - Low frequency trading - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Introduction.md) 
 
 Low frequency trading refers to trading done on the interday time interval. Meaning on intervals larger than a single day.
 This is not to be confused with the practice of daytrading, which is Low frequency trading, but algorithmic trading also falls into this category. Mean reversion trading is a popular strategy implemented by both algorithmic low frequency trading and day traders.
@@ -85,39 +85,39 @@ This is not to be confused with the practice of daytrading, which is Low frequen
 
 Here is a list of trading strategies for low frequency trading
 
-**Mean reversion**\
+**Mean reversion** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on the general market property of mean reversion.
 ![Mean Reversion](https://www.tradinformed.com/wp-content/uploads/2019/01/Mean-Reversion.jpg)
 
 
 
-**Trend following**\
+**Trend following** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on the occasions where markets or assets trend upwards or downwards.
 ![Trend trading](https://centerpointsecurities.com/wp-content/uploads/2021/07/Momentum-Trading.jpg)
 
-**Pairs trading**\
+**Pairs trading** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on the occasions where two strongly correlated markets or assets diverge.
 ![Pairs trading](https://www.quantifiedstrategies.com/wp-content/uploads/2023/10/image-61.png)
 
-**Momentum**\
+**Momentum** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on the occasions where markets or assets gain momentum in an upwards or downwards direction.
 ![Momentum trading](https://centerpointsecurities.com/wp-content/uploads/2021/07/Momentum-Trading.jpg)
 
 
-**Breakout**\
+**Breakout** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on the occasions where assets breakout of a previous limit. Such as a previous market cap.
 
-**Market-neutral**\
+**Market-neutral** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on ...
 
-**Sentiment trading**\
+**Sentiment trading** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on the occasions where the market sentiment changes- or affects the momentum of an asset.
 ![Sentiment trading](https://vladimirribakov.com/wp-content/uploads/sentiment-trading.jpg)
 
-**Events**\
+**Events** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on the occasions where unique events changes the price- or affects the momentum of an asset.
 
-**Mathematical patterns**\
+**Mathematical patterns** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 These strategies focus on mathematical patterns to detect buy or sell opportunities.
 
 
