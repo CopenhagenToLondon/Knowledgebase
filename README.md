@@ -21,24 +21,24 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 # Subject introduction pages
 
-## Quantitative finance
+## Quantitative finance - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/Introduction.md)
 * Trading
 * Portfolio management
 * Risk management
 * Pricing
 
-## Insurance
+## Insurance - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/2.%20Insurance/Introduction.md)
 * Pricing
 * Reserving
 * Life
 * Non-Life/General/causality
 
-## AI and Machine Learning
+## AI and Machine Learning - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/3.%20AI%20and%20Machine%20Learning/Introduction.md)
 * AI
 * Machine Learning
 * Deep learning
 
-## Coding and IT
+## Coding and IT - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/4.%20Coding%20and%20IT/Introduction.md)
 * Databases and SQL
 * Windows Apps and Visual Basic
 * Python and R
@@ -47,12 +47,12 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 * APIs, connections and applications
 * Automation, .bat, .cmd etc.
 
-## Abstract Mathematics
+## Abstract Mathematics - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/5.%20Abstract%20Mathematics/Introduction.md)
 * Geometry
 * Algebra
 * Number theory
 
-## Probability and statistics
+## Probability and statistics - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/6.%20Probability%20and%20Statistics/Introduction.md)
 * Basic Probability
 * Stochastic processes
 * Stochastic calculus
@@ -62,7 +62,7 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 * Signal analysis
 * etc.
 
-## Applied Mathematics
+## Applied Mathematics - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/7.%20Applied%20Mathematics/Introduction.md)
 * Financial mathematics
 * Optimization (linear, convex, stochastic)
 * Advanced Financial mathematics
