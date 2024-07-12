@@ -48,12 +48,16 @@ But High frequency trading isn't exclusively market making.
 * To perform high frequency trading successfully, one has to be able to perform trading operations on intraday time intervals.
 
 ### Concepts
+Here is a list of trading strategies for High frequency trading\
 
-
-Here is a list of trading strategies for High frequency trading
-**Market making**
+**Market making**\
+This strategy utilizes the distance in a bid-ask spread, along with the opportunity to obtain brokerage fee.
+As the name indicates, this will be a strategy performed in running markets.
 
 **Arbitrage strategies**
+Arbitrage strategies, utilizes methods to determine incorrectly priced assets.\
+Statistical arbitrage, utilizes statistics to determine arbitrage opportunities.\
+Deterministic arbitrage, utilizes deterministic methods to determine arbitrage opportunities. - A simple example is the arbitrage opportunity between two exchanges with a time-delay between them.
 
 **Momentum strategies**
 
