@@ -18,11 +18,25 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 # Subject introduction pages
 
+## Quantitative finance
+* Trading
+* Portfolio management
+* Risk management
+* Pricing
+
+## Insurance
+
+## AI and Machine Learning
+
+## Coding and IT
+
+## Abstract Mathematics
+
+## Probability and statistics
+
+## Applied Mathematics
 
 
-
-
-**subject**
 * [AI and Machine learning](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/AI.md)
 * [Coding and IT](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Code.md)
 * [Insurance and Risk](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/subject/Insurance.md)
