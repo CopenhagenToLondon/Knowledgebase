@@ -16,7 +16,7 @@ a donation. Please feel free to reach out to me on mark@brezina.dk or [linkedin.
 
 **Acknowledgment**
 
-<p>Author: [Mark Brezina](https://github.com/CopenhagenToLondon)
+<p> Author: [Mark Brezina](https://github.com/CopenhagenToLondon)
 Contributors: [Aksel Fristrup](https://github.com/afristrup) </p>
 
 
