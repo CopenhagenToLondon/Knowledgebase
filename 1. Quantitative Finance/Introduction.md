@@ -66,6 +66,8 @@ With no or negligable brokerage fees, miniscule changes in the price of an asset
 
 ### Books, Notes, Websites
 https://www.deutsche-boerse.com/resource/blob/69642/6bbb6205e6651101288c2a0bfc668c45/data/high-frequency-trading_en.pdf
+https://www.quantifiedstrategies.com/trading-strategies/
+https://tradinginvestment.weebly.com/blog/-dont-confuse-statistical-arbitrage-with-deterministic-arbitrage
 
 ### Code
 
