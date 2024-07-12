@@ -25,10 +25,10 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 In quantitative finance trading, refers to the practice of buying or selling an asset, such as Stocks, Bonds, Options, Futures, Currency(crypto or otherwise) and more.
 
-Interday = between days.\
-Intraday = Inside one day.\
-Bid = What price is being bid for a buy or sell order.\
-Ask = what price is being asked for a buy or sell order.\
+**Interday = between days.**\
+**Intraday = Inside one day.**\
+**Bid = What price is being bid for a buy or sell order.**\
+**Ask = what price is being asked for a buy or sell order.**\
 
 
 ## HFT - High frequency trading
