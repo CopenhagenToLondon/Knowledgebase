@@ -36,7 +36,7 @@ In quantitative finance trading, refers to the practice of buying or selling an 
 **Short = Refers to selling. This also means selling borrowed assets.**
 
 
-## HFT - High frequency trading - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Introduction.md)
+## HFT - High frequency trading - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Introduction.md) \
 High frequency trading refers to trading done on the intraday time interval. Meaning within one day.
 This is not to be confused with the practice of market making, which may implement High frequency trading.
 But High frequency trading isn't exclusively market making.
@@ -49,16 +49,16 @@ But High frequency trading isn't exclusively market making.
 ### Concepts
 Here is a list of trading strategies for High frequency trading\
 
-**Market making** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md)\
+**Market making** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
 This strategy utilizes the distance in a bid-ask spread, along with the opportunity to obtain brokerage fee.
 As the name indicates, this will be a strategy performed in running markets. 
 
-**Arbitrage strategies** -  [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Arbitrage.md)\
+**Arbitrage strategies** -  [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Arbitrage.md) \
 Arbitrage strategies, utilizes methods to determine incorrectly priced assets.\
 * Statistical arbitrage, utilizes statistics to determine arbitrage opportunities.\
 * Deterministic arbitrage, utilizes deterministic methods to determine arbitrage opportunities. - A simple example is the arbitrage opportunity between two exchanges with a time-delay between them.
 
-**Momentum strategies - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Momentum.md)**
+**Momentum strategies** - - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Momentum.md) \
 Momentum strategies utilizes momentum in price changes for assets.\
 With no or negligable brokerage fees, miniscule changes in the price of an asset can amount to large profits.
 
