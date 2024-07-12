@@ -36,8 +36,7 @@ In quantitative finance trading, refers to the practice of buying or selling an 
 **Short = Refers to selling. This also means selling borrowed assets.**
 
 
-## HFT - High frequency trading
-[link]()
+## HFT - High frequency trading - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Introduction.md)
 High frequency trading refers to trading done on the intraday time interval. Meaning within one day.
 This is not to be confused with the practice of market making, which may implement High frequency trading.
 But High frequency trading isn't exclusively market making.
