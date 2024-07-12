@@ -18,6 +18,10 @@ a donation. Please feel free to reach out to me on Email: mark@brezina.dk or [Ma
 Author: [Mark Brezina](https://github.com/CopenhagenToLondon)\
 Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
+1. Trading
+2. Portfolio management
+3. Risk management
+4. Pricing
 
 
 
