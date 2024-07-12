@@ -25,6 +25,12 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 In quantitative finance trading, refers to the practice of buying or selling an asset, such as Stocks, Bonds, Options, Futures, Currency(crypto or otherwise) and more.
 
+Interday = between days.
+Intraday = Inside one day.
+Bid = What price is being bid for a buy or sell order.
+Ask = what price is being asked for a buy or sell order.
+
+
 ## HFT - High frequency trading
 
 High frequency trading refers to trading done on the intraday time interval. Meaning within one day.
@@ -37,6 +43,9 @@ But High frequency trading isn't exclusively market making.
 * To perform high frequency trading successfully, one has to be able to perform trading operations on intraday time intervals.
 
 ### Concepts
+
+Bid-ask spread
+
 
 ### Books, Notes, Websites
 
