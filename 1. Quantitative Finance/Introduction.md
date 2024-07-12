@@ -46,6 +46,13 @@ But High frequency trading isn't exclusively market making.
 
 ### Concepts
 
+**Market making**
+
+**Arbitrage strategies**
+
+**Momentum strategies**
+
+
 ### Books, Notes, Websites
 
 ### Code
