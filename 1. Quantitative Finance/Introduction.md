@@ -97,8 +97,7 @@ These strategies focus on the occasions where markets or assets trend upwards or
 
 **Pairs trading**\
 These strategies focus on the occasions where two strongly correlated markets or assets diverge.
-![Pairs trading](https://www.researchgate.net/profile/Ghazi-Al-Naymat/publication/269586017/figure/fig2/AS:349980398243843@1460453238081/An-example-of-pairs-trading-pattern-over-one-year-of-data.png
-)
+![Pairs trading](https://www.researchgate.net/profile/Ghazi-Al-Naymat/publication/269586017/figure/fig2/AS:349980398243843@1460453238081/An-example-of-pairs-trading-pattern-over-one-year-of-data.png)
 
 **Momentum**\
 These strategies focus on the occasions where markets or assets gain momentum in an upwards or downwards direction.
