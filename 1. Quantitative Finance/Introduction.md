@@ -113,10 +113,10 @@ These strategies focus on ...
 These strategies focus on the occasions where the market sentiment changes- or affects the momentum of an asset.
 ![Sentiment trading](https://vladimirribakov.com/wp-content/uploads/sentiment-trading.jpg)
 
-**Events** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
+**Events** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/LFT/7.%20Events.md) \
 These strategies focus on the occasions where unique events changes the price- or affects the momentum of an asset.
 
-**Mathematical patterns** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md) \
+**Mathematical patterns** - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/LFT/8.%20Mathematical%20patterns.md) \
 These strategies focus on mathematical patterns to detect buy or sell opportunities.
 
 
