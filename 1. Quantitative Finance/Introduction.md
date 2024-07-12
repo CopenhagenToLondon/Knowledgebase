@@ -45,8 +45,6 @@ But High frequency trading isn't exclusively market making.
 
 ### Concepts
 
-
-
 ### Books, Notes, Websites
 
 ### Code
@@ -55,11 +53,22 @@ But High frequency trading isn't exclusively market making.
 
 ## LFT - Low frequency trading
 
+Low frequency trading refers to trading done on the interday time interval. Meaning on intervals larger than a single day.
+This is not to be confused with the practice of daytrading, which is Low frequency trading, but algorithmic trading also falls into this category. Mean reversion trading is a popular strategy implemented by both algorithmic low frequency trading and day traders.
+
+* To perform high frequency trading successfully, one has to be subject to negligable transaction fees.
+* To perform high frequency trading successfully, one has to be able to obtain live or intraday data at less than 2 hour intervals.
+* To perform high frequency trading successfully, one has to be able to perform trading operations on intraday time intervals.
+
 ### Concepts
 
 ### Books, Notes, Websites
 
 ### Code
+
+
+
+
 
 # Portfolio Management
 
