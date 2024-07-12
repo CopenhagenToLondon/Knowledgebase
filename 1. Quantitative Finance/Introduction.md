@@ -31,9 +31,9 @@ In quantitative finance trading, refers to the practice of buying or selling an 
 **Ask = What price is being asked for a buy or sell order.**\
 **Bid-ask spread = The distance between the Bid and Ask on orders.**\
 **Brokerage fee = The fee paid to a brokerage upon performing a trade.**\
-**signal = An indication in the market to buy or sell an asset.**\
-**long = Refers to buying. This also mean buying with borrowed money.**\
-**short = Refers to selling. This also means selling borrowed assets.**
+**Signal = An indication in the market to buy or sell an asset.**\
+**Long = Refers to buying. This also mean buying with borrowed money.**\
+**Short = Refers to selling. This also means selling borrowed assets.**
 
 
 ## HFT - High frequency trading
