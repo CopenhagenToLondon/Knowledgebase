@@ -56,10 +56,12 @@ As the name indicates, this will be a strategy performed in running markets.
 
 **Arbitrage strategies**\
 Arbitrage strategies, utilizes methods to determine incorrectly priced assets.\
-Statistical arbitrage, utilizes statistics to determine arbitrage opportunities.\
-Deterministic arbitrage, utilizes deterministic methods to determine arbitrage opportunities. - A simple example is the arbitrage opportunity between two exchanges with a time-delay between them.
+* Statistical arbitrage, utilizes statistics to determine arbitrage opportunities.\
+* Deterministic arbitrage, utilizes deterministic methods to determine arbitrage opportunities. - A simple example is the arbitrage opportunity between two exchanges with a time-delay between them.
 
 **Momentum strategies**
+Momentum strategies utilizes momentum in price changes for assets.\
+With no or negligable brokerage fees, miniscule changes in the price of an asset can amount to large profits.
 
 
 ### Books, Notes, Websites
