@@ -78,20 +78,20 @@ This is not to be confused with the practice of daytrading, which is Low frequen
 
 Here is a list of trading strategies for low frequency trading
 
-
 **Mean reversion**\
 These strategies focus on the general market property of mean reversion.
 
-
 **Trend following**\
 These strategies focus on the occasions where markets or assets trend upwards or downwards.
-
 
 **Pairs trading**\
 These strategies focus on the occasions where two strongly correlated markets or assets diverge.
 
 **Momentum**\
 These strategies focus on the occasions where markets or assets gain momentum in an upwards or downwards direction.
+
+**Breakout**\
+These strategies focus on the occasions where assets breakout of a previous limit. Such as a previous market cap.
 
 **Market-neutral**\
 These strategies focus on ...
