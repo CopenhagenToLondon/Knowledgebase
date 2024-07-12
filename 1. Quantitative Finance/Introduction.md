@@ -88,6 +88,9 @@ Here is a list of trading strategies for low frequency trading
 
 **Mean reversion**\
 These strategies focus on the general market property of mean reversion.
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.tradinformed.com/wp-content/uploads/2019/01/Mean-Reversion.jpg)
+
+
 
 **Trend following**\
 These strategies focus on the occasions where markets or assets trend upwards or downwards.
