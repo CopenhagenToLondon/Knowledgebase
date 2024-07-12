@@ -19,7 +19,7 @@ Author: [Mark Brezina](https://github.com/CopenhagenToLondon)\
 Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 1. [Trading](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/Introduction.md#trading)
-2. [Portfolio management](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/Introduction.md#Portfolio management)
+2. [Portfolio management](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/Introduction.md#portfolio-management)
 3. Risk management
 4. Pricing
 
