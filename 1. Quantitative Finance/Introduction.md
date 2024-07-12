@@ -94,6 +94,7 @@ These strategies focus on the general market property of mean reversion.
 
 **Trend following**\
 These strategies focus on the occasions where markets or assets trend upwards or downwards.
+![Trend trading](https://centerpointsecurities.com/wp-content/uploads/2021/07/Momentum-Trading.jpg)
 
 **Pairs trading**\
 These strategies focus on the occasions where two strongly correlated markets or assets diverge.
@@ -101,6 +102,8 @@ These strategies focus on the occasions where two strongly correlated markets or
 
 **Momentum**\
 These strategies focus on the occasions where markets or assets gain momentum in an upwards or downwards direction.
+![Momentum trading](https://centerpointsecurities.com/wp-content/uploads/2021/07/Momentum-Trading.jpg)
+
 
 **Breakout**\
 These strategies focus on the occasions where assets breakout of a previous limit. Such as a previous market cap.
