@@ -23,8 +23,42 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 # Trading
 
+## HFT - High frequency trading
+
+### Concepts
+
+### Books, Notes, Websites
+
+### Code
+
+## LFT - Low frequency trading
+
+### Concepts
+
+### Books, Notes, Websites
+
+### Code
+
 # Portfolio Management
+
+### Concepts
+
+### Books, Notes, Websites
+
+### Code
 
 # Risk Management
 
+### Concepts
+
+### Books, Notes, Websites
+
+### Code
+
 # Pricing
+
+### Concepts
+
+### Books, Notes, Websites
+
+### Code
