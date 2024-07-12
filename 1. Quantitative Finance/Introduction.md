@@ -30,6 +30,7 @@ In quantitative finance trading, refers to the practice of buying or selling an 
 **Bid = What price is being bid for a buy or sell order.**\
 **Ask = what price is being asked for a buy or sell order.**\
 **Bid-ask spread = The distance between the Bid and Ask on orders**
+**Brokerage fee**
 
 
 ## HFT - High frequency trading
@@ -39,7 +40,7 @@ This is not to be confused with the practice of market making, which may impleme
 But High frequency trading isn't exclusively market making.
 
 
-* To perform high frequency trading successfully, one has to be subject to negligable transaction fees.
+* To perform high frequency trading successfully, one has to be subject to negligable Brokerage fees.
 * To perform high frequency trading successfully, one has to be able to obtain live or intraday data at less than 2 hour intervals.
 * To perform high frequency trading successfully, one has to be able to perform trading operations on intraday time intervals.
 
@@ -56,9 +57,9 @@ But High frequency trading isn't exclusively market making.
 Low frequency trading refers to trading done on the interday time interval. Meaning on intervals larger than a single day.
 This is not to be confused with the practice of daytrading, which is Low frequency trading, but algorithmic trading also falls into this category. Mean reversion trading is a popular strategy implemented by both algorithmic low frequency trading and day traders.
 
-* To perform high frequency trading successfully, one has to be subject to negligable transaction fees.
-* To perform high frequency trading successfully, one has to be able to obtain live or intraday data at less than 2 hour intervals.
-* To perform high frequency trading successfully, one has to be able to perform trading operations on intraday time intervals.
+* To perform low frequency trading successfully, one has to optimize trading returns against brokerage fees.
+* To perform low frequency trading successfully, one has to be able to obtain the necessary data to run the selected strategy.
+* To perform low frequency trading successfully, one has to be able to perform trading operations.
 
 ### Concepts
 
