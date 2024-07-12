@@ -37,7 +37,7 @@ In quantitative finance trading, refers to the practice of buying or selling an 
 
 
 ## HFT - High frequency trading
-
+[link]()
 High frequency trading refers to trading done on the intraday time interval. Meaning within one day.
 This is not to be confused with the practice of market making, which may implement High frequency trading.
 But High frequency trading isn't exclusively market making.
@@ -50,9 +50,9 @@ But High frequency trading isn't exclusively market making.
 ### Concepts
 Here is a list of trading strategies for High frequency trading\
 
-**Market making**\
+**[Marketmaking](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/HFT/Market%20making.md)**\
 This strategy utilizes the distance in a bid-ask spread, along with the opportunity to obtain brokerage fee.
-As the name indicates, this will be a strategy performed in running markets.
+As the name indicates, this will be a strategy performed in running markets. 
 
 **Arbitrage strategies**\
 Arbitrage strategies, utilizes methods to determine incorrectly priced assets.\
