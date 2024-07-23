@@ -4,12 +4,10 @@ The three axiomatic hypothesis
 
 ## Best choices
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
 ### Hypothesis on the behaviour of down-trending markets
-Given a down-trending market.
+* Given a down-trending market.
 It will be unprofitable to run a long position.
-But it will be profitable to run a short position.
+But it will be profitable to run a short position. *
 
 ### Hypothesis on the behaviour of flat-trending markets
 Given a flat-trending market.
@@ -96,4 +94,7 @@ A signal is a proposed repeated pattern occurring given certain conditions, the 
 Signals have varying levels of certainty.
 Mathematical signals and fundamental signals can be combined and build into trading strategies.
 
+
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$s
 
