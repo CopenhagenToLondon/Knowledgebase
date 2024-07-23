@@ -5,8 +5,8 @@ The three axiomatic hypothesis
 ## Best choices
 
 ### Hypothesis on the behaviour of down-trending markets
-*Given a down-trending market.
-It will be unprofitable to run a long position.
+*Given a down-trending market.\
+It will be unprofitable to run a long position.\
 But it will be profitable to run a short position.*
 
 ### Hypothesis on the behaviour of flat-trending markets
