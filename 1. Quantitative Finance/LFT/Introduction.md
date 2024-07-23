@@ -2,12 +2,12 @@
 # Mathematical model
 The three axiomatic hypothesis
 
-## Hypothesis on the behaviour of down-trending markets
+### Hypothesis on the behaviour of down-trending markets
 Given a down-trending market.
 It will be unprofitable to run a long position.
 But it will be profitable to run a short position.
 
-## Hypothesis on the behaviour of flat-trending markets
+### Hypothesis on the behaviour of flat-trending markets
 Given a flat-trending market.
 it will be profitable to run long positions on upwards slopes.
 For which a sale should occur at a profitable point after a change in direction.
@@ -18,7 +18,7 @@ Given an up-trending market.
 It will be profitable to run a long position.
 But it will be unprofitable to run a short position.
 
-## Hypothesis on the direction reversal effect
+### Hypothesis on the direction reversal effect
 Given any market state, reversals of the direction of returns will occur.
 The likelihood of a reversal occurring increases as the asset price approaches a “limit”. 
 In flat market states, the likelihood of a reversal occurring is significantly higher than in any other market. In approaching an all-time high or an annual high the likelihood increases.
