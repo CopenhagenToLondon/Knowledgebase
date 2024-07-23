@@ -33,8 +33,8 @@ In flat market states, the likelihood of a reversal occurring is significantly h
 The likelihood of a reversal occurring increases from above 75% to 97% in step with the size of the extremal outcome and the number of continuous days following the same direction of return as the extremal outcome.*
 
 ### Hypothesis on the occurrence of spontaneous changes in the direction of returns
-*Given any market state, spontaneous changes may occur in the direction of returns. 
-The reasons for such can vary and even though some reasons are more systematic, changes may occur for the simplest and most irrational of reasons. 
+*Given any market state, spontaneous changes may occur in the direction of returns.\
+The reasons for such can vary and even though some reasons are more systematic, changes may occur for the simplest and most irrational of reasons.\
 The time horizon of changes taking effect may also vary from minutes to months.*
 
 ### Buffett’s theorem on the intrinsic invariant value of a financial asset
@@ -43,14 +43,14 @@ An intrinsic invariant value can be obtained for the asset, given the current ma
 The corresponding value movements will either be approaching- or move in a mean reversion process around the intrinsic invariant value.*
 
 ### The bid-ask conundrum
-Given any asset, financial or otherwise. 
-The bidder holds the objective of buying the asset at the lowest price.
-The asker holds the objective of selling the asset at the highest price.
+*Given any asset, financial or otherwise.\
+The bidder holds the objective of buying the asset at the lowest price.\
+The asker holds the objective of selling the asset at the highest price.\
 But!
-Given a financial market, another complexity is added to this feature.
-A bidder may also hold the objective of buying the asset at the lowest price, trending upwards.
-While the asker may also hold the objective of selling the asset at the highest price, trending downwards.
-Both are looking to minimize risk towards a proposed future event. An up-trending market and a down trending market.
+Given a financial market, another complexity is added to this feature.\
+A bidder may also hold the objective of buying the asset at the lowest price, trending upwards.\
+While the asker may also hold the objective of selling the asset at the highest price, trending downwards.\
+Both are looking to minimize risk towards a proposed future event. An up-trending market and a down trending market.*
 
 ### The supply-demand conundrum
 
