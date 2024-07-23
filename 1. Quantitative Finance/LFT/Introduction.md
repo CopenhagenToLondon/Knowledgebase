@@ -80,7 +80,8 @@ To minimize the market impact, m can employ a trailing order.
 Given n market participants.
 If no trades have occurred from time t = 0 to time t = T. The first trade occurring by participant m, at time t = T+1. Spreads information of m’s supply-demand relationship on the chosen asset.
 This information can be used by competitors to gauge possible parasitic trades on m.
-The absolute information geometry hypothesis
+
+## The absolute information geometry hypothesis
 Given n market participants.
 The trades occurring by participant m, at time t = T. Spreads information of m’s supply-demand relationship on a chosen asset. This information can be used by competitors to gauge possible parasitic trades on m’s position.
 	If participant m, buys stock A at time T, then participant m* can buy Stock A at time T+1.
