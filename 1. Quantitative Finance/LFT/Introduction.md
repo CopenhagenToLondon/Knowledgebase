@@ -16,7 +16,7 @@ For which a sale should occur at a profitable point after a change in direction.
 But it will also be profitable to run a short position on downwards slopes.\
 For which a close of position should occur at a profitable point after a change in direction.*
 
-### Hypothesis on the behaviour of up-trending markets
+### Optimal position in up-trending markets
 *Given an up-trending market.\
 It will be profitable to run a long position.\
 But it will be unprofitable to run a short position.*
