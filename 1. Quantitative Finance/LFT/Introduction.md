@@ -46,7 +46,7 @@ The corresponding value movements will either be approaching- or move in a mean 
 *Given any asset, financial or otherwise.\
 The bidder holds the objective of buying the asset at the lowest price.\
 The asker holds the objective of selling the asset at the highest price.\
-But!
+ \
 Given a financial market, another complexity is added to this feature.\
 A bidder may also hold the objective of buying the asset at the lowest price, trending upwards.\
 While the asker may also hold the objective of selling the asset at the highest price, trending downwards.\
