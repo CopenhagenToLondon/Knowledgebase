@@ -24,22 +24,23 @@ But it will be unprofitable to run a short position.*
 ## movements
 
 ### Hypothesis on the direction reversal effect
-Given any market state, reversals of the direction of returns will occur.
-The likelihood of a reversal occurring increases as the asset price approaches a “limit”. 
-In flat market states, the likelihood of a reversal occurring is significantly higher than in any other market. In approaching an all-time high or an annual high the likelihood increases.
+*Given any market state, reversals of the direction of returns will occur.\
+The likelihood of a reversal occurring increases as the asset price approaches a “limit”.\
+In flat market states, the likelihood of a reversal occurring is significantly higher than in any other market. In approaching an all-time high or an annual high the likelihood increases.*
 
 ### The extremal event reversal hypothesis
-Given any market state and the occurrence of an extremal event.
-The likelihood of a reversal occurring increases from above 75% to 97% in step with the size of the extremal outcome and the number of continuous days following the same direction of return as the extremal outcome.
+*Given any market state and the occurrence of an extremal event.\
+The likelihood of a reversal occurring increases from above 75% to 97% in step with the size of the extremal outcome and the number of continuous days following the same direction of return as the extremal outcome.*
 
 ### Hypothesis on the occurrence of spontaneous changes in the direction of returns
-Given any market state, spontaneous changes may occur in the direction of returns. 
+*Given any market state, spontaneous changes may occur in the direction of returns. 
 The reasons for such can vary and even though some reasons are more systematic, changes may occur for the simplest and most irrational of reasons. 
-The time horizon of changes taking effect may also vary from minutes to months.
-Buffett’s theorem on the intrinsic invariant value of a financial asset
-Given an asset and a market state. 
-An intrinsic invariant value can be obtained for the asset, given the current market state.
-The corresponding value movements will either be approaching- or move in a mean reversion process around the intrinsic invariant value. 
+The time horizon of changes taking effect may also vary from minutes to months.*
+
+### Buffett’s theorem on the intrinsic invariant value of a financial asset
+*Given an asset and a market state. \
+An intrinsic invariant value can be obtained for the asset, given the current market state.\
+The corresponding value movements will either be approaching- or move in a mean reversion process around the intrinsic invariant value.*
 
 ### The bid-ask conundrum
 Given any asset, financial or otherwise. 
