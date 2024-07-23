@@ -72,16 +72,16 @@ After each choice has been made, a success-score will be given to each participa
 The market winners will be the participants m_i through to m_n, whose returns are above market mean after costs.
 In this framework risk, probabilities and time horizons have been considered.
 
-## The market impact hypothesis
+### The market impact hypothesis
 Given a market participant m, if the market volume of m exceeds x% of the market volume within the time horizon [y:z]. Then m runs a risk of affecting the asset price adversely.
 To minimize the market impact, m can employ a trailing order.
 
-## The minimal information geometry hypothesis
+### The minimal information geometry hypothesis
 Given n market participants.
 If no trades have occurred from time t = 0 to time t = T. The first trade occurring by participant m, at time t = T+1. Spreads information of m’s supply-demand relationship on the chosen asset.
 This information can be used by competitors to gauge possible parasitic trades on m.
 
-## The absolute information geometry hypothesis
+### The absolute information geometry hypothesis
 Given n market participants.
 The trades occurring by participant m, at time t = T. Spreads information of m’s supply-demand relationship on a chosen asset. This information can be used by competitors to gauge possible parasitic trades on m’s position.
 	If participant m, buys stock A at time T, then participant m* can buy Stock A at time T+1.
