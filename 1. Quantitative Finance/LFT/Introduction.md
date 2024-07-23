@@ -2,6 +2,8 @@
 # Mathematical model
 The three axiomatic hypothesis
 
+## Best choices
+
 ### Hypothesis on the behaviour of down-trending markets
 Given a down-trending market.
 It will be unprofitable to run a long position.
@@ -13,10 +15,12 @@ it will be profitable to run long positions on upwards slopes.
 For which a sale should occur at a profitable point after a change in direction.
 But it will also be profitable to run a short position on downwards slopes.
 For which a close of position should occur at a profitable point after a change in direction.
-## Hypothesis on the behaviour of up-trending markets
+### Hypothesis on the behaviour of up-trending markets
 Given an up-trending market.
 It will be profitable to run a long position.
 But it will be unprofitable to run a short position.
+
+## movements
 
 ### Hypothesis on the direction reversal effect
 Given any market state, reversals of the direction of returns will occur.
