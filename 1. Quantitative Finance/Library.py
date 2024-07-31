@@ -79,6 +79,7 @@ def twa(data, window = 20, typ = "sma", x = True):
 
             df = pd.DataFrame(df, index = data.index)
             df = df.iloc[0:len(df), 0]
+            
             return(df)
     
         elif x == False:
@@ -102,6 +103,7 @@ def twa(data, window = 20, typ = "sma", x = True):
 
             df = pd.DataFrame(df, index = data.index)
             df = df.iloc[0:len(df), 1:len(df.columns)]
+            
             return(df)
     
     elif typ == "ema": # exponential moving average
@@ -131,6 +133,7 @@ def twstd(data, window = 20, x = True):
 
         df = pd.DataFrame(df, index = data.index)
         df = df.iloc[0:len(df), 0]
+        
         return(df)
         
     elif x == False:  
@@ -152,28 +155,7 @@ def twstd(data, window = 20, x = True):
         df = df.iloc[0:len(df), 1:len(df.columns)]
     
         return(df)
-
-# Time-Returns Moving Average
-def twa_r(data, window = 21):
-    """
-    time-weighted moving average of returns
-    """
-    
-    result = list(np.zeros(window))
-    for i in range(window,len(data)):
-        result.append(np.mean(data[i-window:i]))
-    return(result)
-
-#Time-returns Moving STD
-def twstd_r(data, window = 21):
-    """
-    """    
-    result = list(np.zeros(window))
-    for i in range(window,len(data)):
-        result.append(np.std(data[i-window:i]))
-    return(result)
-
-    
+   
     
 # Volume-weighted Moving Average
 def vwa(data, weights, window = 20):
@@ -182,7 +164,7 @@ def vwa(data, weights, window = 20):
     """
     
     vwa = np.zeros(window)
-    vwa = list(lst)
+    vwa = list(vwa)
     for i in range(len(data)):
         
         if i < window:
@@ -197,17 +179,19 @@ def vwa(data, weights, window = 20):
                 v_w_vel = v_w_vel + data[i-j] * (weights[i-j] / v_sum)
 
             vwa.append(v_w_vel)
-    return(vwa)
+    
+    df = pd.DataFrame(vwa)
+    return(df)
 
 #Volume-weighted Moving STD
 def vwstd(data, weights, window = 20):
     """
-    volume-weighted moving average
+    volume-weighted moving standard deviations
     """
     
     v_w_avg = 0
-    lst = np.zeros(window)
-    lst = list(lst)
+    vws = np.zeros(window)
+    vws = list(vws)
     for i in range(window, len(data)):
     
         v_sum = sum(weights[i-window:i])
@@ -215,6 +199,7 @@ def vwstd(data, weights, window = 20):
         for j in range(window):
             v_w_std = v_w_std + ((data[i-j] - np.mean(data[i-window:i]))**2 )* (weights[i-j] / v_sum)
 
-        lst.append(np.sqrt(v_w_std))
-    return(lst)
-
+        vws.append(np.sqrt(v_w_std))
+    
+    df = pd.DataFrame(vws)
+    return(df)
