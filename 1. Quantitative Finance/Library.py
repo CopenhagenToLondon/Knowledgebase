@@ -53,8 +53,6 @@ def acceleration(x, logs = False):
     df.columns = ["acceleration"]
     return(df)
 
-
-
 ###############################################################################
 #                        Moving averages and stds
 #                        volume weighted averages and stds
