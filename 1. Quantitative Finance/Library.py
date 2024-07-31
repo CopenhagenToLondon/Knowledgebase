@@ -181,41 +181,40 @@ def vwa(data, weights, window = 20):
     volume-weighted moving average
     """
     
-    v_w_vel = 0
+    vwa = np.zeros(window)
+    vwa = list(lst)
+    for i in range(len(data)):
+        
+        if i < window:
+            
+            vwa[i] = data[i]
+            
+        else:
+    
+            v_sum = sum(weights[i-window:i])
+            v_w_avg = 0
+            for j in range(window):
+                v_w_vel = v_w_vel + data[i-j] * (weights[i-j] / v_sum)
+
+            vwa.append(v_w_vel)
+    return(vwa)
+
+#Volume-weighted Moving STD
+def vwstd(data, weights, window = 20):
+    """
+    volume-weighted moving average
+    """
+    
+    v_w_avg = 0
     lst = np.zeros(window)
     lst = list(lst)
     for i in range(window, len(data)):
-        v_sum = sum(data.iloc[i-window:i,4])
-        v_w_vel = 0
+    
+        v_sum = sum(weights[i-window:i])
+        v_w_std = 0
         for j in range(window):
-            v_w_vel = v_w_vel + data.iloc[i-j,3] * (data.iloc[i-j,4] / v_sum)
+            v_w_std = v_w_std + ((data[i-j] - np.mean(data[i-window:i]))**2 )* (weights[i-j] / v_sum)
 
-        lst.append(v_w_vel)
+        lst.append(np.sqrt(v_w_std))
     return(lst)
 
-#Volume-Price Moving STD
-
-
-#Volume-Returns Moving Average
-def vwa_r(data, window = 21):
-    """
-    volume-weighted moving average of returns
-    """
-    assert data.columns[7] == "velocity"
-    assert data.columns[4] == "Volume"
-
-    v_w_vel = 0
-    lst = np.zeros(window)
-    lst = list(lst)
-    for i in range(window, len(data)):
-        v_sum = sum(data.iloc[i-window:i,4])
-        v_w_vel = 0
-        for j in range(window):
-            v_w_vel = v_w_vel + data.iloc[i-j,7] * (data.iloc[i-j,4] / v_sum)
-
-        lst.append(v_w_vel)
-    return(lst)
-
-
-
-#Volume-Returns Moving STD?
