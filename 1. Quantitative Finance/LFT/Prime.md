@@ -1,3 +1,10 @@
+## Macrostrategic improvements
+
+1. Run Leveraged trades
+2. Run options, futures and swaps
+3. Run multiple asset types: Crypto, equity, derivatives, commodities
+
+
 
 
 ## Market state
