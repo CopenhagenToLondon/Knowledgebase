@@ -74,16 +74,39 @@ What are the current probability states?
 
 ## Trading Strategy
 
+### Up trend
 
+**Entry:**\
+**Exit:**
+
+
+### Down trend
+
+**Entry:**\
+**Exit:**
+
+### Flat trend
+
+**Entry:**\
+**Exit:**
 
 
 ## Optimal executions
 
 ### Up trend
 
+**Entry:**\
+**Exit:**
+
 ### Down trend
 
+**Entry:**\
+**Exit:**
+
 ### Flat trend
+
+**Entry:**\
+**Exit:**
 
 
 
