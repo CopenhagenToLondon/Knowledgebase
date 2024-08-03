@@ -52,7 +52,7 @@ What are the current probability states?
    Consider whether to play along the direction or to take profit before a direction change.
 3. Check for moment and moment drift
 
-* If No/Flat trend:\
+* If Flat trend:\
 *run long between 0-tangents, to minimize risk of loss*\
 *run short between 0-tangets, to minimize risk of loss*
 
@@ -76,4 +76,16 @@ What are the current probability states?
 
 
 
+
 ## Optimal executions
+
+### Up trend
+
+### Down trend
+
+### Flat trend
+
+
+
+
+
