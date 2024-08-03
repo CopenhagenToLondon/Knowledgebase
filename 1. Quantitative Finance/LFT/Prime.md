@@ -1,8 +1,7 @@
 
 
-
-
 ## Market state
+
 * Has an extremal event occured?\
 **Question:**\
 How precise is Bollinger bands of 1.5, 2 or 2.5 sigma at detecting Extremal events?\
@@ -30,14 +29,26 @@ What are the current probability states?
 * If Up trend:\
 *run long between 0-tangents, to minimize risk of loss*
 
+1. Check for Extremal events 
+   If Negative Extremal event occurs - Close trades, take loss. Halt trading
+   If Positive Extremal event occurs - Close trades, take profit. Gauge trading
+3. Check fore Divergence and weight of closed trades.
+4. Check fore ...
 
-  
 * If Down trend:\
 *run short between 0-tangets, to minimize risk of loss*
+
+1. Check fore ...
+2. Check fore ...
+3. Check fore ...
 
 * If No/Flat trend:\
 *run long between 0-tangents, to minimize risk of loss*\
 *run short between 0-tangets, to minimize risk of loss*
+
+1. Check fore ...
+2. Check fore ...
+3. Check fore ...
 
 * If unknown trend:\
 *Wait till a clear trend manifests*
