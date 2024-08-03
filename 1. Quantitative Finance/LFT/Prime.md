@@ -72,7 +72,8 @@ What are the current probability states?
 *Wait till a clear trend manifests*
 
 
-## Run strategies
+## Trading Strategy
+
 
 
 ## Optimal executions
