@@ -27,12 +27,12 @@ What are the current probability states?
 ## Detect strategy
 
 * If Up trend:\
-*run long between 0-tangents, to minimize risk of loss*
+*run long between 0-tangents, to minimize risk of loss*\
 
-1. Check for Extremal events 
-   If Negative Extremal event occurs - Close trades, take loss. Halt trading
-   If Positive Extremal event occurs - Close trades, take profit. Gauge trading
-3. Check fore Divergence and weight of closed trades.
+1. Check for Extremal events \
+   If Negative Extremal event occurs - Close trades, take loss. Halt trading\
+   If Positive Extremal event occurs - Close trades, take profit. Gauge trading\
+3. Check fore Divergence and weight of closed trades.\
 4. Check fore ...
 
 * If Down trend:\
