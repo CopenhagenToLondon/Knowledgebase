@@ -27,18 +27,20 @@ What are the current probability states?
 
 ## Detect strategy
 
-* If Up trend:
-*run long between 0-tangents*
+* If Up trend:\
+*run long between 0-tangents, to minimize risk of loss*
 
 
   
 * If Down trend:
-
+*run short between 0-tangets, to minimize risk of loss*
 
 * If No/Flat trend:
+*run long between 0-tangents, to minimize risk of loss*
+*run short between 0-tangets, to minimize risk of loss*
 
 * If unknown trend:
-
+*Wait till a clear trend manifests*
 
 
 
