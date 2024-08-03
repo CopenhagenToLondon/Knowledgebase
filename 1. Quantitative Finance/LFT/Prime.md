@@ -22,3 +22,23 @@ How precise is the battery of statistical tests at detecting the trend?
 What's the current volatility states?\
 What's the current connectability in the market?\
 What are the current probability states?
+
+
+
+## Detect strategy
+
+* If Up trend:
+*run long between 0-tangents*
+
+
+  
+* If Down trend:
+
+
+* If No/Flat trend:
+
+* If unknown trend:
+
+
+
+
