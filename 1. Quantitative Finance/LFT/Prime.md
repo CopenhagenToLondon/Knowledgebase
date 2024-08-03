@@ -56,9 +56,17 @@ What are the current probability states?
 *run long between 0-tangents, to minimize risk of loss*\
 *run short between 0-tangets, to minimize risk of loss*
 
-1. Check fore ...
-2. Check fore ...
-3. Check fore ...
+1. Check for mean reversion indications\
+   If the 6, 20 and 40 day moving averages cross\
+   If the average directional index changes\
+   If the trend indicators change\
+   If the autocorrelation indicator increases
+2. Check for Resistance levels
+   If the Price reaches a previous resistance level - concrete price
+   If the price reaches a fibonacci level - mythical & mystical price level
+   If the price drops by x% from a previous max or min
+3. Check for Breakthrough signals
+   *Unsure how to check this at the moment*
 
 * If unknown trend:\
 *Wait till a clear trend manifests*
