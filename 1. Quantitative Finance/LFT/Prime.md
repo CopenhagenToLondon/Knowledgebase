@@ -11,7 +11,14 @@ How precise is the 10%, 5% and 1% quantile of xyz-interval prices at detecting E
 
 
 * What is the current trend state?\
-**Question:**
+**Question:**\
 How precise is the mean return functional at detecting the trend?\
 How precise is the positive-negative functional at detecting the trend?\
 How precise is the battery of statistical tests at detecting the trend?
+
+
+* What is the current risk state?\
+**Question:**\
+What's the current volatility states?\
+What's the current connectability in the market?\
+What are the current probability states?
