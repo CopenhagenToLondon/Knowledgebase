@@ -15,6 +15,11 @@
 
 ### 1.1. What is the current year to date, year to year and absolute return for my portfolio?
 
+Afkast
+$r_1 = \frac{v_1 - v_0}{1-0} $
+$r_ytd = \frac{v_nu - v_1jan}{nu-1jab} $
+$r_yty = \frac{v_år - v_{år-1}}{år-1} $
+
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
 ### 1.3. What is the risk adjusted return for my portfolio?
