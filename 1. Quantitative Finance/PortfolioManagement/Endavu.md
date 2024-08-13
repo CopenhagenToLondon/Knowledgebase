@@ -2,7 +2,7 @@
 
 | # | Title                                     | Correspondence                   | Add. details / interpretation              |
 | - |:-:                                        |:-:                               |:-:                                         |
-|1| What is my return? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#1-what-is-my-return)                          | Returns          | Level: Asset Portfolio. times: Various                     | 
+|1| Hvad er mit afkast? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#1-what-is-my-return)                          | Returns          | Level: Asset Portfolio. times: Various                     | 
 |2| How diversified is my portfolio? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#2-how-diversified-is-my-portfolio)           | Diversification  | Level: Portfolio. times: 1 year minimum                    | 
 |3| How much market risk is in my portfolio? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#3-how-much-market-risk-is-in-my-portfolio)    | Market risk      | Level: Asset, Portfolio. times: Various                    | 
 |4| how much liquidity risk is in my portfolio? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#4-how-much-liquidity-risk-is-in-my-portfolio) | Liquidity risk   | Level: Asset, Portfolio. times: Various, less than 2 years | 
@@ -11,7 +11,7 @@
 
 
 
-## 1. What is my return?
+## 1. Hvad er mit afkast?
 
 ### 1.1. What is the current year to date, year to year and absolute return for my portfolio?
 Hvis dette endnu ikke er implementeret, så vil jeg anbefale at det bliver det første der gøres.
