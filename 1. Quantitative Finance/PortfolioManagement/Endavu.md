@@ -23,7 +23,7 @@ $$r_{ytd} = \frac{værdi_{nu} - værdi_{1jan}}{nu-1jan}$$
 
 $$r_{yty} = \frac{værdi_{år} - værdi_{år-1}}{år_{nu}-år_{forrige}}$$
 
-$$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{år_{slut}-år_{start}}$$
+$$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{slut-start}$$
 
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
