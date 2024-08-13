@@ -80,6 +80,13 @@ $$S = \frac{R_{exp} - R_{act}}{std_{port}}$$
 6. Regn derefter Sharpe ratio
 
 **Kode**
+```
+def sharpe(data):
+    s = data.iloc[0,0]
+    std = np.std(data.iloc[:,0])
+    s = (data.iloc[-1,0] - s) / std
+    return(s)
+```
 
 ### 1.3. What is the risk adjusted return for my portfolio?
 
