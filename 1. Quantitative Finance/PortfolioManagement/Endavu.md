@@ -40,8 +40,8 @@ $$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{slut-start}$$
 3. Beregn forskellene slut - start
 4. Regn afkast
 
-**Kode**
-Her er en mulig kode for intraday afkast, som kan redigeres en smule for at finde de øvrige afkast typer.
+**Kode** \
+Her er en mulig python kode for intraday afkast, som kan redigeres en smule for at finde de øvrige afkast typer.
 ```
 def returns(x, logs = False):
 
