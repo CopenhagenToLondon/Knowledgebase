@@ -73,7 +73,7 @@ Sharpe ratio er et simpelt, men brugbart mål. Det er afkastet i perioden divide
 Du får altså at vide hvor meget afkastet er i forhold til muligheden for udsving. Om sharpe ratio gælder der følgende.
 ![alt text](https://getmoneyrich.com/wp-content/uploads/2010/04/Sharpe-Ratio-Thumb-Rule.png)
 
-**Sharpe, beta, Treynor formlerne**
+**Sharpe, Beta og Treynor formlerne**
 
 $$S = \frac{R_{port} - R_{free}}{std_{port}}$$
 
@@ -82,6 +82,8 @@ $$\beta_{port} = \frac{Covar(R_{port}, R_{market})}{Var(R_{market}}$$
 $$T = \frac{R_{port} - R_{free}}{\beta_{port}}$$
 
 **Metode**
+Denne metode anvendes til at bestemme Sharpe ratio'en for en portefølje
+
 1. Find start værdi og start tidspunkt - disse skal gemmes et sted
 2. Gem løbende værdier og tidspunkter - disse skal gemmes for at beregne standard afvigelsen.
 3. Find slut værdi og slut tidspunkt - findes løbende
