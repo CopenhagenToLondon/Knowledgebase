@@ -69,7 +69,7 @@ Du får altså at vide hvor meget afkastet er i forhold til muligheden for udsvi
 
 **Sharpe ratio formlen**
 
-$$S = \frac{R_exp - R_act}{std_port}$$
+$$S = \frac{R_{exp} - R_{act}}{std_{port}}$$
 
 **Metode**
 1. Find start værdi og start tidspunkt - disse skal gemmes et sted
