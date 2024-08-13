@@ -14,9 +14,15 @@
 ## 1. What is my return?
 
 ### 1.1. What is the current year to date, year to year and absolute return for my portfolio?
+
 ### 1.2. What is the Sharpe ratio for my portfolio?
+
 ### 1.3. What is the risk adjusted return for my portfolio?
+
 ### 1.4. What is the expected return of my portfolio?
+
+
+
 
 ## 2. How diversified is my portfolio?
 
@@ -24,7 +30,6 @@
 
 ### 2.2. How concentrated is my portfolio?
 Am I too heavily exposed to some industries that are inherently riskier than others?
-
 
 ### 2.3. Too exposed to any region/country?
 
@@ -36,8 +41,36 @@ Am I too heavily exposed to some industries that are inherently riskier than oth
 
 
 ## 3. How much market risk is in my portfolio?
+How much can I potentially lose in a realistic but low-likelihood scenario?
+
+### 3.1. What is the standard deviation of my portfolio?
+
+### 3.2. How sensitive is my portfolio to market movements?
+
+### 3.3. What is my Value at Risk?
+
+### 3.4. What is my Conditional VAR?
+
+### 3.5. What is my tail risk?
+
+### 3.6. Extremal event risk?
+
+
 
 ## 4. How much liquidity risk is in my portfolio?
 
+### 4.1. How liquid is my portfolio?
+
+
 ## 5. General portfolio management
+
+### What proportion of my portfolio can be considered risky investments?
+
+### What macroeconomic risks am i exposed to?
+
+### How would investing in this stock impact my portfolio diversification?
+
+### How large an exposure do I have to my short positions?
+
+### Are my assets mostly retail investor owned or institutional investor owned?
 
