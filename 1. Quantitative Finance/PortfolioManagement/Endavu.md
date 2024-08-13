@@ -1,5 +1,3 @@
-# Subjects
-
 | # | Title                                     | Correspondence                   | Add. details / interpretation              |
 | - |:-:                                        |:-:                               |:-:                                         |
 |1| Hvad er mit afkast? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#1-what-is-my-return)                          | Returns          | Level: Asset Portfolio. times: Various                     | 
@@ -11,9 +9,9 @@
 
 
 
-## 1. Hvad er mit afkast?
+# 1. Hvad er mit afkast?
 
-### 1.1. What is the current year to date, year to year and absolute return for my portfolio?
+## 1.1. Afkast typer
 Hvis dette endnu ikke er implementeret, så vil jeg anbefale at det bliver det første der gøres.
 
 Afkast fra års start til dagsdato.
@@ -62,7 +60,7 @@ def returns(x, logs = False):
     return(df)
 ```
 
-### 1.2. What is the Risk adjusted return for my portfolio?
+## 1.2. Hvad er mit Risikojusterede afkast?
 For at måle det risikovægted afkast kan man bruge en række forskellige måle metoder.
 
 1. Sharpe Ratio
@@ -100,7 +98,7 @@ def sharpe(data):
     return(s)
 ```
 
-### 1.3. What is the expected return of my portfolio?
+## 1.3. Hvad er mit forventede afkast?
 Til dette skal der bruges et større setup, som jeg ikke forventer at I hos Endavu vil ønske at udvikle som det næste.\
 Dette setup var et, som LD Fonde heller ikke ønskede at sætte igang på nuværende tidspunkt. Men deres afgående head of investments havde haft det i pipelinen med Morgan Stanley i en række år. \
 Man udføre en række simuleringer med forskellige scenarier, for at danne et samlet billede over hvor stort et tab man kunne ende ud med indenfor det næste år og inden for hvilket interval man ville forvente at afkastet nåede indenfor det næste år.
