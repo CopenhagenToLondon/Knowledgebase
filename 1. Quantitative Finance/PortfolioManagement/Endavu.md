@@ -6,7 +6,7 @@
 |2| How diversified is my portfolio? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#2-how-diversified-is-my-portfolio)           | Diversification  | Level: Portfolio. times: 1 year minimum                    | 
 |3| How much market risk is in my portfolio? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#3-how-much-market-risk-is-in-my-portfolio)    | Market risk      | Level: Asset, Portfolio. times: Various                    | 
 |4| how much liquidity risk is in my portfolio? [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#4-how-much-liquidity-risk-is-in-my-portfolio) | Liquidity risk   | Level: Asset, Portfolio. times: Various, less than 2 years | 
-|5| General portfolio management [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#1-what-is-my-return)                | Optimization     | Level: Asset, Portfolio. times: Various, less than 2 years | 
+|5| General portfolio management [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/PortfolioManagement/Endavu.md#5-general-portfolio-management)                | Optimization     | Level: Asset, Portfolio. times: Various, less than 2 years | 
 
 
 
