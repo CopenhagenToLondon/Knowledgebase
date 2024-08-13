@@ -158,16 +158,25 @@ How much can I potentially lose in a realistic but low-likelihood scenario?
 
 ### 4.1. How liquid is my portfolio?
 
+handelsomkostninger?
+volumehastighed?
+
 
 ## 5. General portfolio management
 
 ### What proportion of my portfolio can be considered risky investments?
+Del porteføljen op i segmenter af aktiver med niveauer af løbende standard afvigelser, likviditetsrisiko og koncentrationsforhold?
+
+### How large an exposure do I have to my short positions?
+Check den procentvise størrelse af short positions i porteføljen?
+Er vores samlede short position mere end 20%?
 
 ### What macroeconomic risks am i exposed to?
 
+
 ### How would investing in this stock impact my portfolio diversification?
 
-### How large an exposure do I have to my short positions?
+
 
 ### Are my assets mostly retail investor owned or institutional investor owned?
 
