@@ -23,6 +23,8 @@ $$r_{ytd} = \frac{værdi_{nu} - værdi_{1jan}}{nu-1jan}$$
 
 $$r_{yty} = \frac{værdi_{år} - værdi_{år-1}}{år_{nu}-år_{forrige}}$$
 
+$$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{år_{slut}-år_{start}}$$
+
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
 ### 1.3. What is the risk adjusted return for my portfolio?
