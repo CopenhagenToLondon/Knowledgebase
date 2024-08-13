@@ -35,8 +35,9 @@ Am I too heavily exposed to some industries that are inherently riskier than oth
 ### 2.6. Are there any significant couplings in my portfolio?
 
 
-##How much market risk is in my portfolio?
+## 3. How much market risk is in my portfolio?
 
-## How much liquidity risk is in my portfolio?
+## 4. How much liquidity risk is in my portfolio?
 
-## General portfolio management
+## 5. General portfolio management
+
