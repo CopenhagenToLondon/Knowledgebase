@@ -81,7 +81,7 @@ $$\beta_{port} = \frac{Covar(R_{port}, R_{market})}{Var(R_{market}}$$
 
 $$T = \frac{R_{port} - R_{free}}{\beta_{port}}$$
 
-**Metode**
+**Metode**\
 Denne metode anvendes til at bestemme Sharpe ratio'en for en portefølje
 
 1. Find start værdi og start tidspunkt - disse skal gemmes et sted
@@ -99,8 +99,6 @@ def sharpe(data):
     s = (data.iloc[-1,0] - s) / std
     return(s)
 ```
-
-### 1.3. What is the risk adjusted return for my portfolio?
 
 ### 1.4. What is the expected return of my portfolio?
 
