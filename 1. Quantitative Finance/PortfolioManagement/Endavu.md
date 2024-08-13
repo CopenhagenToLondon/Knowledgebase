@@ -119,50 +119,54 @@ Middel stigen er den stig og det afkast der er højest sandsynlighed for at modt
 
 *Jeg ligger inde med et python bibliotek på lige præcis dette område, men jeg deler desværre ikke koden uden betaling.*
 
-## 2. How diversified is my portfolio?
+# 2. Hvor diversificeret er min portefølje?
 
-### 2.1. How well-diversified is my portfolio?
+## 2.1. Hvad er diversificeringsraten på min portefølje?
 Dette kan gå i rigtigt mange niveauer
 
 $$DR = \frac{\sigma^{t} \cdot w }{ \sqrt{w^t \cdot \Sigma \cdot w }  }$$
 
 
-### 2.2. How concentrated is my portfolio?
+## 2.2. Hvor koncentreret er min portefølje?
 Am I too heavily exposed to some industries that are inherently riskier than others?
 
-### 2.3. Too exposed to any region/country?
+### Aktiegrupperinger?
+Er der nogle aktier i min portefølje som er forbundet significant?
+- Co-integration?
+- Copula'er?
+
+
+### Lande og regioner?
 Er der et bestemt land eller region, som bærer min portefølje?
 F.eks. Eurozonen eller England, som ved fald i økonomien vil betyde at min portefølje falder i værdi?
 
-### 2.4. Too exposed to any certain currency?
+### Valuta?
 Er der en bestemt valuta som bærer min portefølje værdi?
 F.eks. GBP, som ved et fald i valuta vil betyde at min portefølje falder i værdi?
 
-### 2.5. Too exposed to any asset type?
+### Aktivtyper?
 Skal jeg diversificere mig ud over forskellige aktivtyper?
 
-### 2.6. Are there any significant couplings in my portfolio?
-Er der nogle aktier i min portefølje som er forbundet significant?
 
+# 3. Hvor stor er markedsrisikoen?
+1. Hvis markedet bevæger sig nedad, hvordan kan jeg så sørge for ikke at tabe noget?
+2. Hvis markedet har en større nedtur, hvordan sørger jeg for ikke at tabe for meget?
+3. Hvis markedet rammer et rigtigt slemt scenerie, hvordan sørger jeg for ikke at tabe for meget?
 
-## 3. How much market risk is in my portfolio?
 How much can I potentially lose in a realistic but low-likelihood scenario?
 
-### 3.1. What is the standard deviation of my portfolio?
+## 3.1. Hvad er standard afvigelsen på min portefølje?
 
-### 3.2. How sensitive is my portfolio to market movements?
+## 3.2. Hvor sensitiv er min portefølje overfor markedet?
 Dette kan være svært at måle med nogen form for konkret resultat
 
-### 3.3. What is my Value at Risk?
+## 3.3. Hvad er VAR, på min portefølje?
 Hvis vi rammer lige præcis 10%, hvor meget står jeg så til at tabe?
 
-### 3.4. What is my Conditional VAR?
+## 3.4. Hvad er CVAR, på min portefølje?
 I de værste 10%, hvad er så gennemsnitstabet for mig?
 
-### 3.5. What is my tail risk?
-Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
-
-### 3.6. Extremal event risk?
+### 3.5. Hvad er min hale/ekstreme risiko?
 Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
 
 
