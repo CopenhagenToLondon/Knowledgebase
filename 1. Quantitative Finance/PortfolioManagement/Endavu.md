@@ -66,7 +66,7 @@ def returns(x, logs = False):
 Sharpe ratio er et simpelt, men brugbart mål. Det er afkastet i perioden divideret med standard afvigelsen i perioden.
 Du får altså at vide hvor meget afkastet er i forhold til muligheden for udsving.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetmoneyrich.com%2Fsharpe-ratio%2F&psig=AOvVaw028rWYxhCjMLrzaCKW7Tqa&ust=1723669854428000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjIgt7w8ocDFQAAAAAdAAAAABAE)
+![alt text](https://getmoneyrich.com/wp-content/uploads/2010/04/Sharpe-Ratio-Thumb-Rule.png)
 
 
 
