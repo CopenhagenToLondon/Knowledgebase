@@ -63,12 +63,22 @@ def returns(x, logs = False):
 ```
 
 ### 1.2. What is the Sharpe ratio for my portfolio?
-Sharpe ratio er et simpelt, men brugbart mål. Det er afkastet i perioden divideret med standard afvigelsen i perioden.
-Du får altså at vide hvor meget afkastet er i forhold til muligheden for udsving.
-
+Sharpe ratio er et simpelt, men brugbart mål. Det er afkastet i perioden divideret med standard afvigelsen i perioden.\
+Du får altså at vide hvor meget afkastet er i forhold til muligheden for udsving. Om sharpe ratio gælder der følgende.
 ![alt text](https://getmoneyrich.com/wp-content/uploads/2010/04/Sharpe-Ratio-Thumb-Rule.png)
 
+**Sharpe ratio formlen**
+$$S = \frac{R_exp - R_act}{std_port}$$
 
+**Metode**
+1. Find start værdi og start tidspunkt - disse skal gemmes et sted
+2. Gem løbende værdier og tidspunkter - disse skal gemmes for at beregne standard afvigelsen.
+3. Find slut værdi og slut tidspunkt - findes løbende
+4. Beregn herefter afkast ligesom angivet tidligere
+5. Beregn standard afvigelsen af hele tidsserien af løbende værdier
+6. Regn derefter Sharpe ratio
+
+**Kode**
 
 ### 1.3. What is the risk adjusted return for my portfolio?
 
