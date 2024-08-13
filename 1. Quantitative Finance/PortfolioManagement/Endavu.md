@@ -36,8 +36,7 @@ $$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{slut-start}$$
 **Kode**
 ```
 def returns(x, logs = False):
-    """
-    """
+
     if type(x) == list:
         _return = np.zeros(len(x))
         for i in range(len(x)):
