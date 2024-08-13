@@ -11,8 +11,6 @@
 
 ## causal conditional optimal portfolio
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| # | |  Use case | Sub-use case | Add. details / interpretation | Method |  Output | Interpretation | Questions | Notes |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1| a | b | c | d | e | f | g | h | i |
