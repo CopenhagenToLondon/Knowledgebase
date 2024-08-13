@@ -101,8 +101,9 @@ def sharpe(data):
 ```
 
 ### 1.3. What is the expected return of my portfolio?
-Til dette skal der bruges et større setup, som jeg ikke forventer at I hos Endavu vil ønske at udvikle som det næste.
-Dette setup var et, som LD Fonde heller ikke ønskede at sætte igang på nuværende tidspunkt. Men deres afgående head of investments havde haft det i pipelinen med Morgan Stanley i en række år. Man udføre en række simuleringer med forskellige scenarier, for at danne et samlet billede over hvor stort et tab man kunne ende ud med indenfor det næste år og inden for hvilket interval man ville forvente at afkastet nåede indenfor det næste år.
+Til dette skal der bruges et større setup, som jeg ikke forventer at I hos Endavu vil ønske at udvikle som det næste.\
+Dette setup var et, som LD Fonde heller ikke ønskede at sætte igang på nuværende tidspunkt. Men deres afgående head of investments havde haft det i pipelinen med Morgan Stanley i en række år. \
+Man udføre en række simuleringer med forskellige scenarier, for at danne et samlet billede over hvor stort et tab man kunne ende ud med indenfor det næste år og inden for hvilket interval man ville forvente at afkastet nåede indenfor det næste år.\
 
 Almindeligevis anvendes Monte Carlo simuleringer og en række forskellige stokastiske processer såsom.
 1. Geometrisk brownsk bevægelse
@@ -113,7 +114,7 @@ Almindeligevis anvendes Monte Carlo simuleringer og en række forskellige stokas
 6. GARCH
 7. Unikke processer af blandet art. Orhstein-Uhlenbeck, Heston modellen, $\sigma$-diffusion mm.
 
-**Beskrivelse**
+**Beskrivelse**\
 Dette er en række metoder der bruges på højt niveau og jeg har valgt at lægge meget arbejde i dette.
 Middel stigen er den stig og det afkast der er højest sandsynlighed for at modtage igennem perioden.
 ![](https://github.com/CopenhagenToLondon/Knowledgebase/blob/9dc051ffda0b08e68a9dc04a05db6056ca3275bf/1.%20Quantitative%20Finance/PortfolioManagement/download%20(2).png)
