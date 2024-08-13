@@ -126,6 +126,9 @@ Middel stigen er den stig og det afkast der er højest sandsynlighed for at modt
 ### 2.1. How well-diversified is my portfolio?
 Dette kan gå i rigtigt mange niveauer
 
+$$DR = \frac{\sigma^{t} \cdot w }{ \sqrt{w^t \cdot \Sigma \cdot w }  }$$
+
+
 ### 2.2. How concentrated is my portfolio?
 Am I too heavily exposed to some industries that are inherently riskier than others?
 
