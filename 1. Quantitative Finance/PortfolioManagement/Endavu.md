@@ -14,6 +14,14 @@
 ## 1. What is my return?
 
 ### 1.1. What is the current year to date, year to year and absolute return for my portfolio?
+Hvis dette endnu ikke er implementeret, så vil jeg anbefale at det bliver det første der gøres.
+
+Afkast fra års start til dagsdato.
+Afkast fra nu og et år bagud.
+Afkast fra nu og tilbage til første investering.
+
+Disse er utroligt gode mål til at kigge på egne investeringers performance.
+Hvis man holder disse op imod SP500, FTSE100, NASDAQ eller OMXC25 så kan man få en rigtig klar indikation af om man er over eller under middel. 
 
 **Afkast formler**
 
@@ -27,13 +35,13 @@ $$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{slut-start}$$
 
 
 **Metode**
-1. Find start værdi
-2. Find slut værdi
-3. Beregn forskellen start - slut
-4. Bestem et tidsinterval og en tilhørende forskel.
-5. Regn afkast.
+1. Find start værdi og start tidspunkt - disse skal gemmes et sted
+2. Find slut værdi og slut tidspunkt - findes løbende
+3. Beregn forskellene slut - start
+4. Regn afkast
 
 **Kode**
+Her er en mulig kode for intraday afkast, som kan redigeres en smule for at finde de øvrige afkast typer.
 ```
 def returns(x, logs = False):
 
