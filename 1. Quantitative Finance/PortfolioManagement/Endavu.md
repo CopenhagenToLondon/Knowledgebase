@@ -129,12 +129,18 @@ Middel stigen er den stig og det afkast der er højest sandsynlighed for at modt
 Am I too heavily exposed to some industries that are inherently riskier than others?
 
 ### 2.3. Too exposed to any region/country?
+Er der et bestemt land eller region, som bærer min portefølje?
+F.eks. Eurozonen eller England, som ved fald i økonomien vil betyde at min portefølje falder i værdi?
 
 ### 2.4. Too exposed to any certain currency?
+Er der en bestemt valuta som bærer min portefølje værdi?
+F.eks. GBP, som ved et fald i valuta vil betyde at min portefølje falder i værdi?
 
 ### 2.5. Too exposed to any asset type?
+Skal jeg diversificere mig ud over forskellige aktivtyper?
 
 ### 2.6. Are there any significant couplings in my portfolio?
+Er der nogle aktier i min portefølje som er forbundet significant?
 
 
 ## 3. How much market risk is in my portfolio?
@@ -166,7 +172,6 @@ Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
 handelsomkostninger?
 volumehastighed?
 
-
 ## 5. General portfolio management
 
 ### What proportion of my portfolio can be considered risky investments?
@@ -177,11 +182,12 @@ Check den procentvise størrelse af short positions i porteføljen?
 Er vores samlede short position mere end 20%?
 
 ### What macroeconomic risks am i exposed to?
-
+renter
+globale økonomier
+employment statistics?
 
 ### How would investing in this stock impact my portfolio diversification?
-
-
+Hvis jeg køber en bestemt aktie eller obligation, vil det så hjælpe mig med at diversificere?
 
 ### Are my assets mostly retail investor owned or institutional investor owned?
-
+Har jeg nogle uforudsete købsmønstre der kan påvirke min koncentrations risiko?
