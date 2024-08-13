@@ -166,14 +166,14 @@ Hvis vi rammer lige præcis 10%, hvor meget står jeg så til at tabe?
 ## 3.4. Hvad er CVAR, på min portefølje?
 I de værste 10%, hvad er så gennemsnitstabet for mig?
 
-### 3.5. Hvad er min hale/ekstreme risiko?
+## 3.5. Hvad er min hale/ekstreme risiko?
 Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
 
 
 
-## 4. How much liquidity risk is in my portfolio?
+# 4. Hvor stor er min likviditetsrisiko?
 
-### 4.1. How liquid is my portfolio?
+## 4.1. Hvor likvid er min portefølje?
 handelsomkostninger?
 volumehastighed?
 
