@@ -113,7 +113,7 @@ Almindeligevis anvendes Monte Carlo simuleringer og en række forskellige stokas
 6. GARCH
 7. Unikke processer af blandet art. Orhstein-Uhlenbeck, Heston modellen, $\sigma$-diffusion mm.
 
-1. Quantitative Finance/PortfolioManagement/download (2).png
+![](https://github.com/CopenhagenToLondon/Knowledgebase/blob/9dc051ffda0b08e68a9dc04a05db6056ca3275bf/1.%20Quantitative%20Finance/PortfolioManagement/download%20(2).png)
 
 ## 2. How diversified is my portfolio?
 
