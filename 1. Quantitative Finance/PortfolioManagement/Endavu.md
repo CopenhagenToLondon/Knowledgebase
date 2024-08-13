@@ -113,7 +113,12 @@ Almindeligevis anvendes Monte Carlo simuleringer og en række forskellige stokas
 6. GARCH
 7. Unikke processer af blandet art. Orhstein-Uhlenbeck, Heston modellen, $\sigma$-diffusion mm.
 
+**Beskrivelse**
+Dette er en række metoder der bruges på højt niveau og jeg har valgt at lægge meget arbejde i dette.
+Middel stigen er den stig og det afkast der er højest sandsynlighed for at modtage igennem perioden.
 ![](https://github.com/CopenhagenToLondon/Knowledgebase/blob/9dc051ffda0b08e68a9dc04a05db6056ca3275bf/1.%20Quantitative%20Finance/PortfolioManagement/download%20(2).png)
+
+*Jeg ligger inde med et python bibliotek på lige præcis dette område, men jeg deler desværre ikke koden uden betaling.*
 
 ## 2. How diversified is my portfolio?
 
