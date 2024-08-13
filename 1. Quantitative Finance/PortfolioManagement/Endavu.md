@@ -34,26 +34,26 @@ $$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{slut-start}$$
 5. Regn afkast.
 
 **Kode**
+#
 def returns(x, logs = False):
     """
     """
-    if type(x) == list: # if you've entered a list
+    if type(x) == list:
         _return = np.zeros(len(x))
         for i in range(len(x)):
             _return[i] = ((x[i]/x[i-1])-1)
-    elif type(x) == pd.DataFrame: # if you've entered a dataframe
+    elif type(x) == pd.DataFrame:
         _return = x.pct_change().dropna()   
-    else: # if you've entered neither a list or a dataframe
+    else:
         _return = x.pct_change().dropna()
     
-    # if you want log returns
     if logs == True:
         _return = np.log(abs(_return))
     
     df = pd.DataFrame(data=_return, dtype=np.float64)
     df.columns = ["returns"]
     return(df)
-
+#
 
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
