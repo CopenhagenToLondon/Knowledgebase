@@ -15,13 +15,13 @@
 
 ### 1.1. What is the current year to date, year to year and absolute return for my portfolio?
 
-**Afkast formler** \
+**Afkast formler**
 
-$$r_{1} = \frac{v_{1} - v_{0}}{1-0}$$ 
+$$r_{1} = \frac{værdi_{1} - værdi_{0}}{1-0}$$ 
 
-$$r_{ytd} = \frac{v_{nu} - v_{1jan}}{nu-1jan}$$
+$$r_{ytd} = \frac{værdi_{nu} - værdi_{1jan}}{nu-1jan}$$
 
-$$r_{yty} = \frac{v_{år} - v_{år-1}}{år_{nu}-år_{forrige}}$$
+$$r_{yty} = \frac{værdi_{år} - værdi_{år-1}}{år_{nu}-år_{forrige}}$$
 
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
