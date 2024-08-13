@@ -11,6 +11,10 @@
 
 ## causal conditional optimal portfolio
 
+
+
+
+
 | # | Use case           | Sub-use case                     | Add. details / interpretation | Method |  Output | Interpretation | Questions | Notes |
 |-  |:-:                 |:-:                               |:-:                                                         |:-:|:-:|:-:|:-:|:-:|
 |1.0| What is my return? | What is my baseline-return?      | Level: Portfolio. times: Various                           | d | e | f | g | h |
