@@ -124,6 +124,7 @@ Middel stigen er den stig og det afkast der er højest sandsynlighed for at modt
 ## 2. How diversified is my portfolio?
 
 ### 2.1. How well-diversified is my portfolio?
+Dette kan gå i rigtigt mange niveauer
 
 ### 2.2. How concentrated is my portfolio?
 Am I too heavily exposed to some industries that are inherently riskier than others?
@@ -149,14 +150,13 @@ How much can I potentially lose in a realistic but low-likelihood scenario?
 ### 3.1. What is the standard deviation of my portfolio?
 
 ### 3.2. How sensitive is my portfolio to market movements?
-
+Dette kan være svært at måle med nogen form for konkret resultat
 
 ### 3.3. What is my Value at Risk?
 Hvis vi rammer lige præcis 10%, hvor meget står jeg så til at tabe?
 
 ### 3.4. What is my Conditional VAR?
 I de værste 10%, hvad er så gennemsnitstabet for mig?
-
 
 ### 3.5. What is my tail risk?
 Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
