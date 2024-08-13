@@ -100,9 +100,18 @@ def sharpe(data):
     return(s)
 ```
 
-### 1.4. What is the expected return of my portfolio?
+### 1.3. What is the expected return of my portfolio?
+Til dette skal der bruges et større setup, som jeg ikke forventer at I hos Endavu vil ønske at udvikle som det næste.
+Dette setup var et, som LD Fonde heller ikke ønskede at sætte igang på nuværende tidspunkt. Men deres afgående head of investments havde haft det i pipelinen med Morgan Stanley i en række år. Man udføre en række simuleringer med forskellige scenarier, for at danne et samlet billede over hvor stort et tab man kunne ende ud med indenfor det næste år og inden for hvilket interval man ville forvente at afkastet nåede indenfor det næste år.
 
-
+Almindeligevis anvendes Monte Carlo simuleringer og en række forskellige stokastiske processer såsom.
+1. Geometrisk brownsk bevægelse
+2. Aritmetisk Brownsk bevægelse
+3. ARMA
+4. ARIMA
+5. ARCH
+6. GARCH
+7. Unikke processer af blandet art. Orhstein-Uhlenbeck, Heston modellen, $\sigma$-diffusion mm.
 
 
 ## 2. How diversified is my portfolio?
