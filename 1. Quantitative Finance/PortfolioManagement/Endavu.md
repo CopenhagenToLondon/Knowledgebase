@@ -17,11 +17,11 @@
 
 **Afkast formler** \
 
-$$r_{1} = \frac{v_{1} - v_{0}}{1-0}$$ \
+$$r_{1} = \frac{v_{1} - v_{0}}{1-0}$$ 
 
-$$r_{ytd} = \frac{v_{nu} - v_{1jan}}{nu-1jab}$$ \
+$$r_{ytd} = \frac{v_{nu} - v_{1jan}}{nu-1jab}$$
 
-$r_{yty} = \frac{v_{år} - v_{år-1}}{år-1}$ \
+$$r_{yty} = \frac{v_{år} - v_{år-1}}{år-1}$$
 
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
