@@ -34,7 +34,7 @@ $$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{slut-start}$$
 5. Regn afkast.
 
 **Kode**
-#
+```
 def returns(x, logs = False):
     """
     """
@@ -53,7 +53,7 @@ def returns(x, logs = False):
     df = pd.DataFrame(data=_return, dtype=np.float64)
     df.columns = ["returns"]
     return(df)
-#
+```
 
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
