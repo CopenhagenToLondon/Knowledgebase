@@ -170,29 +170,28 @@ I de værste 10%, hvad er så gennemsnitstabet for mig?
 Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
 
 
-
 # 4. Hvor stor er min likviditetsrisiko?
 
 ## 4.1. Hvor likvid er min portefølje?
 handelsomkostninger?
 volumehastighed?
 
-## 5. General portfolio management
+# 5. Porteføljestyring
 
-### What proportion of my portfolio can be considered risky investments?
+## Hvilken portion af mine investeringer kan siges at være risikable?
 Del porteføljen op i segmenter af aktiver med niveauer af løbende standard afvigelser, likviditetsrisiko og koncentrationsforhold?
 
-### How large an exposure do I have to my short positions?
+## Hvor stor en short position har jeg?
 Check den procentvise størrelse af short positions i porteføljen?
 Er vores samlede short position mere end 20%?
 
-### What macroeconomic risks am i exposed to?
+## Hvilke makroøkonomiske risici står jeg overfor?
 renter
 globale økonomier
 employment statistics?
 
-### How would investing in this stock impact my portfolio diversification?
+## hvordan ville en investering i x aktie påvirke min diversificeringsrate?
 Hvis jeg køber en bestemt aktie eller obligation, vil det så hjælpe mig med at diversificere?
-
-### Are my assets mostly retail investor owned or institutional investor owned?
 Har jeg nogle uforudsete købsmønstre der kan påvirke min koncentrations risiko?
+Er de aktiver jeg ejer mest ejet af institutioner eller private investorer?
+
