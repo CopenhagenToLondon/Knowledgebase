@@ -68,6 +68,7 @@ Du får altså at vide hvor meget afkastet er i forhold til muligheden for udsvi
 ![alt text](https://getmoneyrich.com/wp-content/uploads/2010/04/Sharpe-Ratio-Thumb-Rule.png)
 
 **Sharpe ratio formlen**
+
 $$S = \frac{R_exp - R_act}{std_port}$$
 
 **Metode**
