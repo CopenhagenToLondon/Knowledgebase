@@ -25,6 +25,36 @@ $$r_{yty} = \frac{værdi_{år} - værdi_{år-1}}{år_{nu}-år_{forrige}}$$
 
 $$r_{absolute} = \frac{værdi_{slut} - værdi_{start}}{slut-start}$$
 
+
+**Metode**
+1. Find start værdi
+2. Find slut værdi
+3. Beregn forskellen start - slut
+4. Bestem et tidsinterval og en tilhørende forskel.
+5. Regn afkast.
+
+**Kode**
+def returns(x, logs = False):
+    """
+    """
+    if type(x) == list: # if you've entered a list
+        _return = np.zeros(len(x))
+        for i in range(len(x)):
+            _return[i] = ((x[i]/x[i-1])-1)
+    elif type(x) == pd.DataFrame: # if you've entered a dataframe
+        _return = x.pct_change().dropna()   
+    else: # if you've entered neither a list or a dataframe
+        _return = x.pct_change().dropna()
+    
+    # if you want log returns
+    if logs == True:
+        _return = np.log(abs(_return))
+    
+    df = pd.DataFrame(data=_return, dtype=np.float64)
+    df.columns = ["returns"]
+    return(df)
+
+
 ### 1.2. What is the Sharpe ratio for my portfolio?
 
 ### 1.3. What is the risk adjusted return for my portfolio?
