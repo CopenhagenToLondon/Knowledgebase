@@ -62,14 +62,24 @@ def returns(x, logs = False):
     return(df)
 ```
 
-### 1.2. What is the Sharpe ratio for my portfolio?
+### 1.2. What is the Risk adjusted return for my portfolio?
+For at måle det risikovægted afkast kan man bruge en række forskellige måle metoder.
+
+1. Sharpe Ratio
+2. Treynor Ratio
+3. Portefølje Beta
+
 Sharpe ratio er et simpelt, men brugbart mål. Det er afkastet i perioden divideret med standard afvigelsen i perioden.\
 Du får altså at vide hvor meget afkastet er i forhold til muligheden for udsving. Om sharpe ratio gælder der følgende.
 ![alt text](https://getmoneyrich.com/wp-content/uploads/2010/04/Sharpe-Ratio-Thumb-Rule.png)
 
-**Sharpe ratio formlen**
+**Sharpe, beta, Treynor formlerne**
 
-$$S = \frac{R_{exp} - R_{act}}{std_{port}}$$
+$$S = \frac{R_{port} - R_{free}}{std_{port}}$$
+
+$$\beta_{port} = \frac{Covar(R_{port}, R_{market})}{Var(R_{market}}$$
+
+$$T = \frac{R_{port} - R_{free}}{\beta_{port}}$$
 
 **Metode**
 1. Find start værdi og start tidspunkt - disse skal gemmes et sted
