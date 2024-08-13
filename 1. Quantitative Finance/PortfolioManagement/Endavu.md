@@ -144,20 +144,25 @@ How much can I potentially lose in a realistic but low-likelihood scenario?
 
 ### 3.2. How sensitive is my portfolio to market movements?
 
+
 ### 3.3. What is my Value at Risk?
+Hvis vi rammer lige præcis 10%, hvor meget står jeg så til at tabe?
 
 ### 3.4. What is my Conditional VAR?
+I de værste 10%, hvad er så gennemsnitstabet for mig?
+
 
 ### 3.5. What is my tail risk?
+Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
 
 ### 3.6. Extremal event risk?
+Hvis en ekstrem event sker, hvor meget står jeg så til at tabe?
 
 
 
 ## 4. How much liquidity risk is in my portfolio?
 
 ### 4.1. How liquid is my portfolio?
-
 handelsomkostninger?
 volumehastighed?
 
