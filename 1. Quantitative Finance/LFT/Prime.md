@@ -7,7 +7,7 @@
 
 
 
-## Market state
+## Detect Market state
 
 * Has an extremal event occured?\
 **Question:**\
@@ -31,7 +31,7 @@ What are the current probability states?
 
 
 
-## Detect strategy
+## Match corresponding strategy
 
 * If Up trend:\
 *run long between 0-tangents, to minimize risk of loss*
@@ -79,20 +79,25 @@ What are the current probability states?
 *Wait till a clear trend manifests*
 
 
-## Trading Strategy
+## Implement trading strategy
 
-### Up trend
-
-**Entry:**\
-**Exit:**
-
-
-### Down trend
+### If - Up trend
 
 **Entry:**\
 **Exit:**
 
-### Flat trend
+
+### If - Down trend
+
+**Entry:**\
+**Exit:**
+
+### If - Flat trend
+
+**Entry:**\
+**Exit:**
+
+### If - Extremal event
 
 **Entry:**\
 **Exit:**
