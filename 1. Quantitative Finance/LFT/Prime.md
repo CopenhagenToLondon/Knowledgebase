@@ -135,9 +135,24 @@ How precise is the 10%, 5% and 1% quantile of xyz-interval prices at detecting E
 
 # Research
 
+DATASET - Price
+Timestamp+Date
+Open
+High
+Low
+Close
+Volume
+Returns_C
+
+DATASET - Options
+
+
+
 ## Markov model research
-Train the model. Than test it.
-If model trained on 25 datasets has less than 65% accuracy, than there exists hidden variables.
+**Goal**: Determine the sign of tomorrows return, from today's Markov State.
+1. Train the model on 25 datasets.
+2. Test the model, with the goal of achieving x >= 65% accuracy.
+3. If the result is x < 65% -> than there exists hidden variables.
 
 ## Hidden Markov model Research
 From a dataset on an asset. Determine the combined state for each timestep.
@@ -146,12 +161,20 @@ Given 4 volatility states: Extreme, high, medium, low.
 Given 4 acceleration states: increasing, decreasing, neutral, unknown.
 
 ## Mean reversion Research
+What method is best at predicting mean reversions?
+MA5, MA20, MA40
+MACD
+
 
 ## Convergence Theorem Research
+Convergence or divergence of high, low and close prices.
+What can this be used for?
+Market states
 
 ## Linear Regression Research
 
 ## Standard Deviation Research
+Can you always or nearly always expect an opposite and equal force, when experiencing an 2-sigma, 2.5-sigma or 3-sigma event?
 
 ## Mean Field Games Research
 
@@ -159,7 +182,12 @@ Given 4 acceleration states: increasing, decreasing, neutral, unknown.
 
 ## Expectation Maximation Research
 
+## 0-tangent Research
+How do i best measure 0-tangents, vendetangenter?
 
+f(x) = Price
+f'(x) = returns
+f'(x) = 0?
 
 
 
