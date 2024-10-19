@@ -6,8 +6,7 @@
    b. If alignment-measure, decide on size, direction, time and method.
 6. Proceed to optimal execution, considering market impact, timing and cost. - To best progress towards your ideal state, you can try to minimize cost or consider the best steps.
 
-## Macrostrategic improvements
-
+**possible improvements**
 1. Run Leveraged trades
 2. Run options, futures and swaps
 3. Run multiple asset types: Crypto, equity, derivatives, commodities
@@ -15,10 +14,7 @@
 
 
 
-
-
-
-
+# Macrostrategy
 
 ## Detect Market state
 
@@ -40,9 +36,6 @@ What are the current probability states?
 How precise is Bollinger bands of 1.5, 2 or 2.5 sigma at detecting Extremal events?\
 How precise is the 10%, 5% and 1% quantile of xyz-interval returns at detecting Extremal events?\
 How precise is the 10%, 5% and 1% quantile of xyz-interval prices at detecting Extremal events?
-
-
-
 
 ## Match corresponding strategy
 
