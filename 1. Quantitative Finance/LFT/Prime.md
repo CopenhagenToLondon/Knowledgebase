@@ -168,16 +168,19 @@ Given 4 sentiment states: Positive, Negative, Neutral, Unknown.
 
 ## Mean reversion Research
 **Goal**: For periods where Mean Reversion is valid, what is the best method for earning?\
-What method is best at predicting mean reversions?\
+What method is best at predicting mean reversions?
 1. MA5, MA20, MA40
 2. MACD
 3. A combination?
 
 
 ## Convergence Theorem Research
-Convergence or divergence of high, low and close prices.
-What can this be used for?
-Market states
+**Goal**: Determine the convergence or divergence states for high, low and close prices\
+1. Calculate convergence or divergence of highs\
+2. Calculate convergence or divergence of lows\
+3. Calculate convergence or divergence of close\
+<br>
+What can this be used for? Market states, 0-tangents?
 
 ## Linear Regression Research
 
