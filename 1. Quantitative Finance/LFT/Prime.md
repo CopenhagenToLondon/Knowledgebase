@@ -150,7 +150,7 @@ DATASET - Options
 
 ## Markov model research
 **Goal**: Determine the sign of tomorrows return, from today's Markov State.
-1. Train the model on 25 datasets.
+1. Train the model on n > 25 datasets.
 2. Test the model, with the goal of achieving x >= 65% accuracy.
 3. If the result is x < 65% -> than there exists hidden variables.
 
