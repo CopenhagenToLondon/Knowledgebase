@@ -175,10 +175,10 @@ What method is best at predicting mean reversions?
 
 
 ## Convergence Theorem Research
-**Goal**: Determine the convergence or divergence states for high, low and close prices\
-1. Calculate convergence or divergence of highs\
-2. Calculate convergence or divergence of lows\
-3. Calculate convergence or divergence of close\
+**Goal**: Determine the convergence or divergence states for high, low and close prices
+1. Calculate convergence or divergence of highs
+2. Calculate convergence or divergence of lows
+3. Calculate convergence or divergence of close
 <br>
 What can this be used for? Market states, 0-tangents?
 
