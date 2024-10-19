@@ -148,7 +148,7 @@ DATASET - Options
 
 
 
-## Markov model research
+## Markov model/Decision Tree Research
 **Goal**: Determine the sign of tomorrows return, from today's Markov State.\
 1. Train the model on n > 25 datasets.\
    a. Sort dataset by conditions. *for us this is up MA-cross and down MA-cross* - This has to be researched further.\
