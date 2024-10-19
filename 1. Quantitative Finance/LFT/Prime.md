@@ -163,9 +163,11 @@ Given 4 acceleration states: increasing, decreasing, neutral, Unknown.
 Given 4 sentiment states: Positive, Negative, Neutral, Unknown.
 
 ## Mean reversion Research
+**Goal**: For periods where Mean Reversion is valid, what is the best method for earning?
 What method is best at predicting mean reversions?
-MA5, MA20, MA40
-MACD
+1. MA5, MA20, MA40
+2. MACD
+3. A combination?
 
 
 ## Convergence Theorem Research
