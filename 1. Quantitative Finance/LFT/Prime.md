@@ -151,8 +151,8 @@ DATASET - Options
 ## Markov model research
 **Goal**: Determine the sign of tomorrows return, from today's Markov State.\
 1. Train the model on n > 25 datasets.\
-   a. Sort dataset by conditions. *for us this is up MA-cross and down MA-cross*\
-   b. Add column with "Up" or "Down" indicators.\
+   a. Sort dataset by conditions. *for us this is up MA-cross and down MA-cross* - This has to be researched further.\
+   b. Add column with "Up" or "Down" indicators. Indicating the sign of the day's return.\
    c. Add column with indicator combinations of 3 and 5, such as "UUU", "DDD" and "UUUUU", "DDDDD".\
    d. Calculate the probabilities of next day return signs for each indicator combination. 
 3. Test the model, with the goal of achieving x >= 65% accuracy.
