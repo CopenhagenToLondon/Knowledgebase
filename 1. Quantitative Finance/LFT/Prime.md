@@ -136,8 +136,14 @@ How precise is the 10%, 5% and 1% quantile of xyz-interval prices at detecting E
 # Research
 
 ## Markov model research
+Train the model. Than test it.
+If model trained on 25 datasets has less than 65% accuracy, than there exists hidden variables.
 
 ## Hidden Markov model Research
+From a dataset on an asset. Determine the combined state for each timestep.
+Given 4 trends states: Up, Down, Flat, Unknown.
+Given 4 volatility states: Extreme, high, medium, low.
+Given 4 acceleration states: increasing, decreasing, neutral, unknown.
 
 ## Mean reversion Research
 
@@ -149,7 +155,9 @@ How precise is the 10%, 5% and 1% quantile of xyz-interval prices at detecting E
 
 ## Mean Field Games Research
 
+## Technical Indicators Research
 
+## Expectation Maximation Research
 
 
 
