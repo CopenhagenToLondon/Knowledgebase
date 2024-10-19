@@ -151,8 +151,12 @@ DATASET - Options
 ## Markov model research
 **Goal**: Determine the sign of tomorrows return, from today's Markov State.
 1. Train the model on n > 25 datasets.
-2. Test the model, with the goal of achieving x >= 65% accuracy.
-3. If the result is x < 65% -> than there exists hidden variables.
+   a. Sort dataset by conditions. *for us this is up MA-cross and down MA-cross*
+   b. Add column with "Up" or "Down" indicators.
+   c. Add column with indicator combinations of 3 and 5, such as "UUU", "DDD" and "UUUUU", "DDDDD".
+   d. Calculate the probabilities of next day return signs for each indicator combination. 
+3. Test the model, with the goal of achieving x >= 65% accuracy.
+4. If the result is x < 65% -> than there exists hidden variables.
 
 ## Hidden Markov model Research
 **Goal**: Determine the trend, volatility, acceleration and sentiment states for tomorrow.\
