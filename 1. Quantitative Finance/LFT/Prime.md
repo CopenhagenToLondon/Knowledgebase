@@ -155,10 +155,12 @@ DATASET - Options
 3. If the result is x < 65% -> than there exists hidden variables.
 
 ## Hidden Markov model Research
+**Goal**: Determine the trend, volatility, acceleration and sentiment states for tomorrow.
 From a dataset on an asset. Determine the combined state for each timestep.
 Given 4 trends states: Up, Down, Flat, Unknown.
 Given 4 volatility states: Extreme, high, medium, low.
-Given 4 acceleration states: increasing, decreasing, neutral, unknown.
+Given 4 acceleration states: increasing, decreasing, neutral, Unknown.
+Given 4 sentiment states: Positive, Negative, Neutral, Unknown.
 
 ## Mean reversion Research
 What method is best at predicting mean reversions?
