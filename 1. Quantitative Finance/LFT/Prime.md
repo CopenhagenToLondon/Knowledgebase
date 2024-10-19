@@ -129,3 +129,65 @@ How precise is the 10%, 5% and 1% quantile of xyz-interval prices at detecting E
 
 
 
+
+
+
+
+# Research
+
+## Markov model research
+
+## Hidden Markov model Research
+
+## Mean reversion Research
+
+## Convergence Theorem Research
+
+## Linear Regression Research
+
+## Standard Deviation Research
+
+## Mean Field Games Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
