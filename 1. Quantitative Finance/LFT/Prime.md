@@ -10,6 +10,12 @@
 1. Run Leveraged trades
 2. Run options, futures and swaps
 3. Run multiple asset types: Crypto, equity, derivatives, commodities
+4. Algorithmic trading on medium time horizons
+5. HFT - market making
+6. Investing and venture capital on a long time horizon
+7. Banking insurance and pension
+8. Robotics, IT and resource development
+9. energy
 
 
 
